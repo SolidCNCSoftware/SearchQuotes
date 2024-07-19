@@ -1,0 +1,4598 @@
+resource.h, Line: 3, Word: 1
+afxres.h, Line: 10, Word: 1
+bmp00002.bmp, Line: 27, Word: 1
+bitmap3.bmp, Line: 29, Word: 1
+bmp00001.bmp, Line: 31, Word: 1
+bmp00003.bmp, Line: 33, Word: 1
+bmp00004.bmp, Line: 35, Word: 1
+bitmap2.bmp, Line: 37, Word: 1
+res\\CompanyName.bmp, Line: 39, Word: 1
+MachSim Parameters, Line: 49, Word: 1
+MS Sans Serif, Line: 50, Word: 1
+Collision, Line: 52, Word: 1
+Collision control eanbled, Line: 53, Word: 1
+Button, Line: 53, Word: 2
+Part Tolerance, Line: 54, Word: 1
+Part Offset, Line: 56, Word: 1
+Collision control between moves, Line: 58, Word: 1
+Button, Line: 59, Word: 1
+Environment, Line: 60, Word: 1
+Enable machine definition editing, Line: 61, Word: 1
+Button, Line: 62, Word: 1
+Multisample, Line: 63, Word: 1
+Disabled, Line: 64, Word: 1
+Button, Line: 64, Word: 2
+2x, Line: 65, Word: 1
+Button, Line: 65, Word: 2
+4x, Line: 66, Word: 1
+Button, Line: 66, Word: 2
+Mesh smooth angle, Line: 67, Word: 1
+Part Origin, Line: 69, Word: 1
+X, Line: 70, Word: 1
+Y, Line: 72, Word: 1
+Z, Line: 74, Word: 1
+OK, Line: 76, Word: 1
+Cancel, Line: 77, Word: 1
+Machine Simulation, Line: 82, Word: 1
+MS Shell Dlg, Line: 83, Word: 1
+res\\bitmap1.bmp, Line: 138, Word: 1
+res\\Toolbar.bmp, Line: 140, Word: 1
+res\\toolbar2.bmp, Line: 142, Word: 1
+About SolidCNC..., Line: 152, Word: 1
+MS Sans Serif, Line: 153, Word: 1
+CNC Teknolojik Yazilim Sistemleri Ltd., Line: 156, Word: 1
+http://www.solidcnc.net, Line: 157, Word: 1
+OK, Line: 158, Word: 1
+MS Sans Serif, Line: 165, Word: 1
+TODO: layout dialog bar , Line: 167, Word: 1
+Diffuse, Line: 172, Word: 1
+MS Sans Serif, Line: 173, Word: 1
+-1...........................0...........................1, Line: 175, Word: 1
+R, Line: 176, Word: 1
+Slider1, Line: 177, Word: 1
+msctls_trackbar32, Line: 177, Word: 2
+G, Line: 178, Word: 1
+Slider1, Line: 179, Word: 1
+msctls_trackbar32, Line: 179, Word: 2
+B, Line: 180, Word: 1
+Slider1, Line: 181, Word: 1
+msctls_trackbar32, Line: 181, Word: 2
+A, Line: 182, Word: 1
+Slider1, Line: 183, Word: 1
+msctls_trackbar32, Line: 183, Word: 2
+Static, Line: 184, Word: 1
+Static, Line: 185, Word: 1
+Static, Line: 186, Word: 1
+Static, Line: 187, Word: 1
+License Manager, Line: 192, Word: 1
+MS Sans Serif, Line: 193, Word: 1
+OK, Line: 195, Word: 1
+Cancel, Line: 196, Word: 1
+Please enter key2, Line: 198, Word: 1
+, Line: 200, Word: 1
+{8856F961-340A-11D0-A96B-00C04FD705A2}, Line: 200, Word: 2
+Key1, Line: 201, Word: 1
+PLEASE COPY KEY1 TO THE WEB FORM'S KEY1 FIELD , Line: 202, Word: 1
+PLEASE COPY THE GENERATED KEY2 BELLOW , Line: 203, Word: 1
+Start up settings directory, Line: 204, Word: 1
+MS Shell Dlg, Line: 210, Word: 1
+Run, Line: 212, Word: 1
+, Line: 213, Word: 1
+SysListView32, Line: 213, Word: 2
+Make new line, Line: 215, Word: 1
+Delete line, Line: 216, Word: 1
+Record table, Line: 217, Word: 1
+res\\viewpoint.ico, Line: 275, Word: 1
+res\\viewpoint.ico, Line: 277, Word: 1
+res\\viewpoint.ico, Line: 279, Word: 1
+resource.h\0, Line: 290, Word: 1
+#include , Line: 295, Word: 1
+afxres.h, Line: 295, Word: 2
+\r\n, Line: 295, Word: 3
+\0, Line: 296, Word: 1
+\r\n, Line: 301, Word: 1
+\0, Line: 302, Word: 1
+W, Line: 315, Word: 1
+A, Line: 316, Word: 1
+L, Line: 317, Word: 1
+P, Line: 318, Word: 1
+C, Line: 319, Word: 1
+X, Line: 322, Word: 1
+F, Line: 323, Word: 1
+V, Line: 324, Word: 1
+Z, Line: 327, Word: 1
+Y, Line: 328, Word: 1
+N, Line: 329, Word: 1
+O, Line: 330, Word: 1
+P, Line: 331, Word: 1
+S, Line: 332, Word: 1
+StringFileInfo, Line: 357, Word: 1
+080004b0, Line: 359, Word: 1
+CompanyName, Line: 361, Word: 1
+CNC Technological Software Systems Ltd., Line: 361, Word: 2
+FileDescription, Line: 362, Word: 1
+SolidCNC Software, Line: 362, Word: 2
+FileVersion, Line: 363, Word: 1
+2024.2.24.2973, Line: 363, Word: 2
+InternalName, Line: 364, Word: 1
+SolidCNC, Line: 364, Word: 2
+LegalCopyright, Line: 365, Word: 1
+Copyright (C) 2013, Line: 365, Word: 2
+OriginalFilename, Line: 366, Word: 1
+SolidCNC.exe, Line: 366, Word: 2
+ProductName, Line: 367, Word: 1
+SolidCNC Software, Line: 367, Word: 2
+ProductVersion, Line: 368, Word: 1
+2024.2.24.2973, Line: 368, Word: 2
+VarFileInfo, Line: 371, Word: 1
+Translation, Line: 373, Word: 1
+&File, Line: 385, Word: 1
+&New\tCtrl+N, Line: 387, Word: 1
+&Open...\tCtrl+O, Line: 388, Word: 1
+P&rint Setup..., Line: 390, Word: 1
+Recent File, Line: 392, Word: 1
+E&xit, Line: 394, Word: 1
+&View, Line: 396, Word: 1
+&Araï¿½larr, Line: 398, Word: 1
+&Status Bar, Line: 399, Word: 1
+Project Explorer, Line: 400, Word: 1
+Output Window, Line: 401, Word: 1
+&Language, Line: 403, Word: 1
+Dummy, Line: 405, Word: 1
+&Help, Line: 407, Word: 1
+&About SolidCNC..., Line: 409, Word: 1
+Client Context, Line: 415, Word: 1
+Pan, Line: 417, Word: 1
+Zoom to Box, Line: 418, Word: 1
+Zoom & Pan, Line: 419, Word: 1
+Rotate, Line: 420, Word: 1
+Roll, Line: 421, Word: 1
+Fit, Line: 423, Word: 1
+ChangeViewTo, Line: 425, Word: 1
+Top, Line: 427, Word: 1
+Front, Line: 428, Word: 1
+Right, Line: 429, Word: 1
+Bottom, Line: 430, Word: 1
+Back, Line: 431, Word: 1
+Left, Line: 432, Word: 1
+DrawStyle, Line: 434, Word: 1
+ShadedAndWireFrame, Line: 436, Word: 1
+Shaded, Line: 437, Word: 1
+WireFrame, Line: 438, Word: 1
+HiddenLine, Line: 439, Word: 1
+Transparent HiddenLine, Line: 440, Word: 1
+Triangles, Line: 441, Word: 1
+ChangeViewDir..., Line: 443, Word: 1
+SetRotCenter..., Line: 444, Word: 1
+Dimensions, Line: 445, Word: 1
+List..., Line: 447, Word: 1
+On screen..., Line: 448, Word: 1
+Delete X, Line: 450, Word: 1
+&File, Line: 456, Word: 1
+&New\tCtrl+N, Line: 458, Word: 1
+&Open...\tCtrl+O, Line: 459, Word: 1
+Open multi files..., Line: 460, Word: 1
+&Close, Line: 461, Word: 1
+S&ave As..., Line: 462, Word: 1
+Save Iges..., Line: 463, Word: 1
+Save STL..., Line: 464, Word: 1
+Save Dxf..., Line: 465, Word: 1
+Read NC files..., Line: 466, Word: 1
+Export Surfaces&Curves To LuaScript..., Line: 467, Word: 1
+Recently Opened, Line: 470, Word: 1
+E&xit, Line: 472, Word: 1
+&Edit, Line: 474, Word: 1
+Undo last action(CTRL-Z), Line: 477, Word: 1
+Redo last undo(CTRL-Y), Line: 478, Word: 1
+Copy..., Line: 479, Word: 1
+Find text...(CTRL-F), Line: 480, Word: 1
+Visual Attributes..., Line: 481, Word: 1
+Transform, Line: 482, Word: 1
+Move..., Line: 484, Word: 1
+Rotate..., Line: 485, Word: 1
+Scale..., Line: 486, Word: 1
+Mirror..., Line: 487, Word: 1
+Reorient..., Line: 488, Word: 1
+Dynamic..., Line: 489, Word: 1
+Move on work plane..., Line: 490, Word: 1
+Coordinate system, Line: 492, Word: 1
+Select active coordinate system..., Line: 494, Word: 1
+Modify..., Line: 495, Word: 1
+Visibility..., Line: 497, Word: 1
+Delete..., Line: 498, Word: 1
+Analyze Mode, Line: 499, Word: 1
+Curve (F2), Line: 501, Word: 1
+Surface (F3), Line: 502, Word: 1
+Exit Analyze Mode (Esc), Line: 503, Word: 1
+Explode text to curves..., Line: 505, Word: 1
+Make unselectable, Line: 506, Word: 1
+Remake selectable, Line: 507, Word: 1
+&View, Line: 509, Word: 1
+&Toolbars, Line: 511, Word: 1
+Open, Line: 513, Word: 1
+Basic, Line: 514, Word: 1
+View, Line: 515, Word: 1
+Sketch, Line: 516, Word: 1
+WireEDM, Line: 517, Word: 1
+Mill, Line: 518, Word: 1
+Solid2d, Line: 519, Word: 1
+&Status Bar, Line: 521, Word: 1
+Treeview, Line: 522, Word: 1
+Plugin Window, Line: 523, Word: 1
+IE window, Line: 524, Word: 1
+Change view direction..., Line: 525, Word: 1
+Hide..., Line: 526, Word: 1
+Show hidden..., Line: 527, Word: 1
+Save screen view as bmp..., Line: 528, Word: 1
+Auto bmp generate from screen..., Line: 529, Word: 1
+Dynamic clipping..., Line: 530, Word: 1
+Status Window, Line: 531, Word: 1
+Selection Bar, Line: 532, Word: 1
+Coordinates Bar, Line: 533, Word: 1
+IE Window Home Page, Line: 534, Word: 1
+Regenerate graphics..., Line: 535, Word: 1
+ChangeViewTo, Line: 536, Word: 1
+Top, Line: 538, Word: 1
+Front, Line: 539, Word: 1
+Right, Line: 540, Word: 1
+Bottom, Line: 541, Word: 1
+Back, Line: 542, Word: 1
+Left, Line: 543, Word: 1
+Iso, Line: 544, Word: 1
+DrawStyle, Line: 546, Word: 1
+ShadedAndWireFrame, Line: 548, Word: 1
+Shaded, Line: 549, Word: 1
+WireFrame, Line: 550, Word: 1
+HiddenLine, Line: 551, Word: 1
+Transparent HiddenLine, Line: 552, Word: 1
+Triangles, Line: 553, Word: 1
+ChangeViewDir..., Line: 555, Word: 1
+ColorMode, Line: 556, Word: 1
+Standard, Line: 558, Word: 1
+Variable, Line: 559, Word: 1
+Free selection form, Line: 561, Word: 1
+Post process simulations, Line: 562, Word: 1
+Macro tables dialog, Line: 563, Word: 1
+&Insert, Line: 565, Word: 1
+Coordinate system, Line: 567, Word: 1
+Absolute, Line: 569, Word: 1
+As view direction, Line: 570, Word: 1
+By dialog..., Line: 571, Word: 1
+Box..., Line: 573, Word: 1
+Text..., Line: 574, Word: 1
+Label..., Line: 575, Word: 1
+Section..., Line: 576, Word: 1
+Tree link..., Line: 577, Word: 1
+Points from BMP..., Line: 578, Word: 1
+Silhoutte..., Line: 579, Word: 1
+Color definition..., Line: 580, Word: 1
+Glyph Sets..., Line: 581, Word: 1
+Color map..., Line: 582, Word: 1
+Attach texture to surface..., Line: 583, Word: 1
+Auto loop..., Line: 584, Word: 1
+Search overlaps..., Line: 585, Word: 1
+PathCalc2D, Line: 586, Word: 1
+Stone nesting, Line: 587, Word: 1
+Select stock..., Line: 589, Word: 1
+Make hull, Line: 591, Word: 1
+Supports and vacuum..., Line: 592, Word: 1
+Make transformation group, Line: 593, Word: 1
+&Preferences, Line: 595, Word: 1
+Triangles Read Write..., Line: 597, Word: 1
+IGES Read..., Line: 598, Word: 1
+Colors and display..., Line: 599, Word: 1
+Mouse Options..., Line: 600, Word: 1
+DXF Read..., Line: 601, Word: 1
+DXF Export..., Line: 602, Word: 1
+Lua Script..., Line: 603, Word: 1
+Segmentation Parameters..., Line: 604, Word: 1
+Stone Parameters..., Line: 605, Word: 1
+Free selection, Line: 606, Word: 1
+Factory Settings, Line: 607, Word: 1
+Load Factory Settings, Line: 609, Word: 1
+Create My Factory Settings, Line: 610, Word: 1
+Load My Factory Settings, Line: 611, Word: 1
+Load My Factory Settings to Cloud, Line: 612, Word: 1
+Get My Factoyr Settings From Cloud, Line: 613, Word: 1
+General settings..., Line: 615, Word: 1
+Configurations..., Line: 616, Word: 1
+Settings root directory, Line: 617, Word: 1
+&Dimensions, Line: 619, Word: 1
+&List..., Line: 621, Word: 1
+Dimension..., Line: 622, Word: 1
+Dynamic Curve Info, Line: 623, Word: 1
+Dynamic Surface Info, Line: 624, Word: 1
+Exit Dynamic Info, Line: 625, Word: 1
+&Window, Line: 627, Word: 1
+&New Window, Line: 629, Word: 1
+&Cascade, Line: 630, Word: 1
+&Tile, Line: 631, Word: 1
+&Arrange Icons, Line: 632, Word: 1
+Test..., Line: 633, Word: 1
+Geo, Line: 635, Word: 1
+Make Points..., Line: 637, Word: 1
+Make curves, Line: 638, Word: 1
+Lines..., Line: 640, Word: 1
+Circles/Arcs..., Line: 641, Word: 1
+Ellipse..., Line: 642, Word: 1
+Spiral, Line: 643, Word: 1
+Splines..., Line: 644, Word: 1
+Surface silhouette..., Line: 645, Word: 1
+Extract triangles edges..., Line: 646, Word: 1
+Normal lines from surface..., Line: 647, Word: 1
+Extract surface edges..., Line: 648, Word: 1
+Make convex hull..., Line: 649, Word: 1
+Make hull..., Line: 650, Word: 1
+Make reversed copy..., Line: 651, Word: 1
+Fillet, Line: 652, Word: 1
+Min distance, Line: 653, Word: 1
+Make net, Line: 655, Word: 1
+By grid dialog, Line: 657, Word: 1
+Make surfaces, Line: 659, Word: 1
+Ruled..., Line: 661, Word: 1
+Surface of revolution..., Line: 662, Word: 1
+Offset surface..., Line: 663, Word: 1
+Extrusion..., Line: 664, Word: 1
+From segments..., Line: 665, Word: 1
+From planar curves..., Line: 666, Word: 1
+From net..., Line: 667, Word: 1
+Maked reversed copy..., Line: 668, Word: 1
+Reform by B-Spline(s), Line: 669, Word: 1
+Make shell, Line: 671, Word: 1
+Filleting..., Line: 672, Word: 1
+Minimum Distance..., Line: 673, Word: 1
+Curve-curve..., Line: 675, Word: 1
+Close holes of a surface..., Line: 677, Word: 1
+Make Box..., Line: 678, Word: 1
+Solid2D, Line: 679, Word: 1
+Parametric shapes, Line: 681, Word: 1
+Make, Line: 682, Word: 1
+Boolean, Line: 683, Word: 1
+Unite, Line: 685, Word: 1
+Intersect, Line: 686, Word: 1
+Subtract, Line: 687, Word: 1
+Hatch, Line: 689, Word: 1
+Offset, Line: 690, Word: 1
+Explode to curves, Line: 691, Word: 1
+Hollow, Line: 692, Word: 1
+Add path, Line: 693, Word: 1
+Position on solid 2D, Line: 694, Word: 1
+Fillet, Line: 695, Word: 1
+Chamfer, Line: 696, Word: 1
+Solid 2.5D, Line: 698, Word: 1
+Make..., Line: 700, Word: 1
+Chamfer..., Line: 701, Word: 1
+Fillet..., Line: 702, Word: 1
+Explode to surfaces..., Line: 703, Word: 1
+Trimming, Line: 705, Word: 1
+Surfaces..., Line: 707, Word: 1
+Split curves..., Line: 708, Word: 1
+Split curves by work plane..., Line: 709, Word: 1
+Projection, Line: 711, Word: 1
+Project curves to work plane, Line: 713, Word: 1
+Project curves on a surface, Line: 714, Word: 1
+Unproject curve to curve, Line: 715, Word: 1
+Multi direction projection to work plane, Line: 716, Word: 1
+Join curves..., Line: 718, Word: 1
+Offset curves, Line: 719, Word: 1
+Offset, Line: 721, Word: 1
+Sharp offset, Line: 722, Word: 1
+3D offset, Line: 723, Word: 1
+Variable offset, Line: 724, Word: 1
+Extend curves..., Line: 726, Word: 1
+Sphere mapping, Line: 727, Word: 1
+Spine calculation, Line: 728, Word: 1
+Helical revolution..., Line: 729, Word: 1
+Subdivision Curves..., Line: 730, Word: 1
+Make convex hull..., Line: 731, Word: 1
+Helical wrapping, Line: 732, Word: 1
+Groove calculator..., Line: 733, Word: 1
+Turning, Line: 735, Word: 1
+Turn Form..., Line: 737, Word: 1
+Manuel G Cod, Line: 738, Word: 1
+Turning..., Line: 739, Word: 1
+Machining, Line: 741, Word: 1
+Tools, Line: 743, Word: 1
+Contour machining, Line: 744, Word: 1
+Drilling, Line: 745, Word: 1
+Sew blade machining, Line: 746, Word: 1
+Manuel nesting, Line: 747, Word: 1
+Make stock, Line: 749, Word: 1
+Make part, Line: 750, Word: 1
+Compact cutting, Line: 752, Word: 1
+Automated true shape cutting, Line: 753, Word: 1
+Tables, Line: 754, Word: 1
+Post processor settings, Line: 755, Word: 1
+Settings, Line: 756, Word: 1
+Advanced machining, Line: 758, Word: 1
+Show GUI..., Line: 760, Word: 1
+Set machining direction, Line: 761, Word: 1
+Set custom tool axis direction, Line: 762, Word: 1
+Edit contour 2D tool angle, Line: 763, Word: 1
+Start, Line: 765, Word: 1
+Close, Line: 766, Word: 1
+Wire machining, Line: 769, Word: 1
+Single contour, Line: 771, Word: 1
+Multi contours, Line: 772, Word: 1
+4 axis, Line: 773, Word: 1
+Surface machining, Line: 774, Word: 1
+Taper machining, Line: 775, Word: 1
+Wire machining post processor, Line: 776, Word: 1
+Help, Line: 778, Word: 1
+Manuel, Line: 780, Word: 1
+About, Line: 781, Word: 1
+Operations, Line: 787, Word: 1
+Insert Operation..., Line: 789, Word: 1
+Hide all toolpath, Line: 790, Word: 1
+Show all toolpath, Line: 791, Word: 1
+Send to postbox, Line: 792, Word: 1
+Clear, Line: 793, Word: 1
+Texture Map, Line: 799, Word: 1
+Show, Line: 801, Word: 1
+Hide, Line: 802, Word: 1
+Image, Line: 803, Word: 1
+Flip along U, Line: 805, Word: 1
+Flip along V, Line: 806, Word: 1
+Export image, Line: 807, Word: 1
+Apply median filter..., Line: 808, Word: 1
+Apply Sobel filter..., Line: 809, Word: 1
+Make grey scale, Line: 810, Word: 1
+Segmentation, Line: 812, Word: 1
+Make segmented solid..., Line: 814, Word: 1
+Attach geometry..., Line: 816, Word: 1
+Delete   X, Line: 817, Word: 1
+Client Context, Line: 823, Word: 1
+Show, Line: 825, Word: 1
+Hide, Line: 826, Word: 1
+Segment, Line: 832, Word: 1
+Show, Line: 834, Word: 1
+Hide, Line: 835, Word: 1
+Form region curves for checked, Line: 836, Word: 1
+Make convex hull for checked, Line: 837, Word: 1
+Make hull for checked, Line: 838, Word: 1
+Check selected..., Line: 839, Word: 1
+Uncheck selected..., Line: 840, Word: 1
+Delete checked  X, Line: 841, Word: 1
+Segmented Solid, Line: 847, Word: 1
+Show, Line: 849, Word: 1
+Hide, Line: 850, Word: 1
+Make outer net..., Line: 851, Word: 1
+Make inner net..., Line: 852, Word: 1
+Delete   X, Line: 853, Word: 1
+res\\bmp00001.bmp, Line: 933, Word: 1
+res\\CNCSTEP.bmp, Line: 935, Word: 1
+res\\toolbar1.bmp, Line: 937, Word: 1
+res\\bitmap_w.bmp, Line: 939, Word: 1
+res\\bitmap3.bmp, Line: 941, Word: 1
+res\\bitmap4.bmp, Line: 943, Word: 1
+res\\bmp00002.bmp, Line: 945, Word: 1
+res\\bitmap_f.bmp, Line: 947, Word: 1
+res\\toolbar3.bmp, Line: 949, Word: 1
+res\\toolbargeo.bmp, Line: 951, Word: 1
+res\\toolbarkki.bmp, Line: 953, Word: 1
+TaperInfo1.bmp, Line: 955, Word: 1
+bitmapwx3.bmp, Line: 957, Word: 1
+res\\bmp00003.bmp, Line: 959, Word: 1
+bitmapwi4.bmp, Line: 961, Word: 1
+bitmapta9.bmp, Line: 963, Word: 1
+bitmapta8.bmp, Line: 965, Word: 1
+res\\bitmap_t.bmp, Line: 967, Word: 1
+bitmapta10.bmp, Line: 969, Word: 1
+wiretoolbar1.bmp, Line: 971, Word: 1
+res\\toolbar4.bmp, Line: 973, Word: 1
+res\\wireprogramplane.bmp, Line: 975, Word: 1
+res\\bmp00004.bmp, Line: 977, Word: 1
+res\\solidcncresmilogo.BMP, Line: 979, Word: 1
+res\\bmpToolInfo.bmp, Line: 981, Word: 1
+res\\bmp00005.bmp, Line: 983, Word: 1
+res\\bitmapCylinderTool.bmp, Line: 985, Word: 1
+res\\bitmapSphereTool.bmp, Line: 987, Word: 1
+res\\bitmapTorusTool.bmp, Line: 989, Word: 1
+res\\bitmapConicTool.bmp, Line: 991, Word: 1
+res\\bitmapUserTool.bmp, Line: 993, Word: 1
+res\\zOverCut.bmp, Line: 995, Word: 1
+res\\bitmap_s.bmp, Line: 997, Word: 1
+res\\bitmap7.bmp, Line: 999, Word: 1
+res\\bmp00006.bmp, Line: 1001, Word: 1
+res\\bitmap8.bmp, Line: 1003, Word: 1
+res\\bmp00007.bmp, Line: 1005, Word: 1
+res\\bmp00008.bmp, Line: 1007, Word: 1
+res\\bmp00009.bmp, Line: 1009, Word: 1
+res\\bmp00010.bmp, Line: 1011, Word: 1
+res\\bmp00011.bmp, Line: 1013, Word: 1
+res\\bmp00012.bmp, Line: 1015, Word: 1
+res\\bmp00013.bmp, Line: 1017, Word: 1
+res\\bmp00014.bmp, Line: 1019, Word: 1
+res\\bmp00015.bmp, Line: 1021, Word: 1
+res\\bmp00016.bmp, Line: 1023, Word: 1
+res\\bmp00017.bmp, Line: 1025, Word: 1
+res\\bmp00018.bmp, Line: 1027, Word: 1
+res\\bmp00019.bmp, Line: 1029, Word: 1
+res\\bmp00020.bmp, Line: 1031, Word: 1
+res\\bmp00021.bmp, Line: 1033, Word: 1
+res\\bmp00022.bmp, Line: 1035, Word: 1
+res\\bmp00023.bmp, Line: 1037, Word: 1
+res\\bmp00024.bmp, Line: 1039, Word: 1
+res\\bmp00025.bmp, Line: 1041, Word: 1
+res\\bmp00026.bmp, Line: 1043, Word: 1
+res\\bmp00027.bmp, Line: 1045, Word: 1
+res\\bmp00028.bmp, Line: 1047, Word: 1
+res\\bmp00029.bmp, Line: 1049, Word: 1
+res\\bmp00030.bmp, Line: 1051, Word: 1
+res\\bmp00031.bmp, Line: 1053, Word: 1
+Visual Attributes, Line: 1063, Word: 1
+MS Sans Serif, Line: 1064, Word: 1
+OK, Line: 1066, Word: 1
+Cancel, Line: 1067, Word: 1
+Colors, Line: 1068, Word: 1
+Wireframe Color, Line: 1069, Word: 1
+Solid Color, Line: 1070, Word: 1
+, Line: 1071, Word: 1
+, Line: 1072, Word: 1
+Line Width, Line: 1073, Word: 1
+Thin, Line: 1074, Word: 1
+Button, Line: 1074, Word: 2
+Medium, Line: 1075, Word: 1
+Button, Line: 1075, Word: 2
+Thick, Line: 1076, Word: 1
+Button, Line: 1076, Word: 2
+Line Font, Line: 1077, Word: 1
+Normal, Line: 1078, Word: 1
+Button, Line: 1078, Word: 2
+Dash-Dot, Line: 1079, Word: 1
+Button, Line: 1079, Word: 2
+Dotted, Line: 1080, Word: 1
+Button, Line: 1080, Word: 2
+Point Size, Line: 1081, Word: 1
+Small, Line: 1082, Word: 1
+Button, Line: 1082, Word: 2
+Medium, Line: 1083, Word: 1
+Button, Line: 1083, Word: 2
+Large, Line: 1084, Word: 1
+Button, Line: 1084, Word: 2
+Translucent, Line: 1085, Word: 1
+Button, Line: 1085, Word: 2
+Draw, Line: 1086, Word: 1
+Only Solid, Line: 1087, Word: 1
+Button, Line: 1087, Word: 2
+Only Wire, Line: 1088, Word: 1
+Button, Line: 1088, Word: 2
+Both, Line: 1089, Word: 1
+Button, Line: 1089, Word: 2
+Set as default, Line: 1090, Word: 1
+, Line: 1091, Word: 1
+msctls_updown32, Line: 1091, Word: 2
+, Line: 1092, Word: 1
+msctls_updown32, Line: 1092, Word: 2
+Scale Model Dialog, Line: 1097, Word: 1
+MS Shell Dlg, Line: 1098, Word: 1
+OK, Line: 1101, Word: 1
+Cancel, Line: 1102, Word: 1
+Scale Factor, Line: 1103, Word: 1
+Multiply, Line: 1104, Word: 1
+Button, Line: 1104, Word: 2
+X fit, Line: 1105, Word: 1
+Button, Line: 1105, Word: 2
+Y fit, Line: 1106, Word: 1
+Button, Line: 1106, Word: 2
+X Y Z fit  , Line: 1107, Word: 1
+Button, Line: 1107, Word: 2
+New X length, Line: 1108, Word: 1
+New Y length, Line: 1109, Word: 1
+New Z length, Line: 1112, Word: 1
+Mirror Model, Line: 1118, Word: 1
+MS Shell Dlg, Line: 1119, Word: 1
+YZ plane, Line: 1121, Word: 1
+Button, Line: 1121, Word: 2
+XZ plane, Line: 1122, Word: 1
+Button, Line: 1122, Word: 2
+XY plane, Line: 1123, Word: 1
+Button, Line: 1123, Word: 2
+Copy, Line: 1125, Word: 1
+Button, Line: 1125, Word: 2
+Define point on mirror plane, Line: 1126, Word: 1
+OK, Line: 1127, Word: 1
+Cancel, Line: 1128, Word: 1
+Mirror Plane, Line: 1129, Word: 1
+Offset from origin, Line: 1130, Word: 1
+Move Model Dialog, Line: 1135, Word: 1
+MS Shell Dlg, Line: 1136, Word: 1
+OK, Line: 1138, Word: 1
+Cancel, Line: 1139, Word: 1
+DeltaX, Line: 1140, Word: 1
+DeltaY, Line: 1141, Word: 1
+DeltaZ, Line: 1142, Word: 1
+Move, Line: 1145, Word: 1
+Point To Point, Line: 1146, Word: 1
+Enclosingbox top center to origin, Line: 1148, Word: 1
+Point to origin, Line: 1149, Word: 1
+Rotate Model Dialog, Line: 1154, Word: 1
+MS Shell Dlg, Line: 1155, Word: 1
+OK, Line: 1158, Word: 1
+Cancel, Line: 1159, Word: 1
+Angle, Line: 1160, Word: 1
+ReorientModel, Line: 1165, Word: 1
+MS Shell Dlg, Line: 1166, Word: 1
+OK, Line: 1168, Word: 1
+Cancel, Line: 1169, Word: 1
+Copy, Line: 1170, Word: 1
+Button, Line: 1170, Word: 2
+DynamicClip Dialog, Line: 1175, Word: 1
+MS Shell Dlg, Line: 1176, Word: 1
+Pick section plane point, Line: 1178, Word: 1
+Angle, Line: 1180, Word: 1
+Add section models, Line: 1181, Word: 1
+Clear sections, Line: 1182, Word: 1
+Flip plane normal, Line: 1183, Word: 1
+Button, Line: 1183, Word: 2
+Dialog, Line: 1188, Word: 1
+MS Shell Dlg, Line: 1189, Word: 1
+Colors and display, Line: 1195, Word: 1
+MS Shell Dlg, Line: 1196, Word: 1
+Colors, Line: 1198, Word: 1
+, Line: 1199, Word: 1
+..., Line: 1201, Word: 1
+Reset factory settings, Line: 1202, Word: 1
+OK, Line: 1203, Word: 1
+Close, Line: 1204, Word: 1
+Number parameters, Line: 1207, Word: 1
+Styles, Line: 1209, Word: 1
+Add to styles, Line: 1210, Word: 1
+Enum parameters, Line: 1211, Word: 1
+Delete style, Line: 1213, Word: 1
+..., Line: 1214, Word: 1
+..., Line: 1215, Word: 1
+Text parameters, Line: 1217, Word: 1
+..., Line: 1220, Word: 1
+Box Parameter Dialog, Line: 1225, Word: 1
+MS Shell Dlg, Line: 1226, Word: 1
+OK, Line: 1228, Word: 1
+Cancel, Line: 1229, Word: 1
+X length:, Line: 1233, Word: 1
+Y length:, Line: 1234, Word: 1
+Z length:, Line: 1235, Word: 1
+Dynamic Transformation, Line: 1240, Word: 1
+MS Shell Dlg, Line: 1241, Word: 1
+OK, Line: 1243, Word: 1
+Cancel, Line: 1244, Word: 1
+Translation, Line: 1245, Word: 1
+Rotation, Line: 1246, Word: 1
+X, Line: 1247, Word: 1
+Button, Line: 1247, Word: 2
+Y, Line: 1248, Word: 1
+Button, Line: 1248, Word: 2
+Z, Line: 1249, Word: 1
+Button, Line: 1249, Word: 2
+L, Line: 1250, Word: 1
+Button, Line: 1250, Word: 2
+X, Line: 1251, Word: 1
+Button, Line: 1251, Word: 2
+Y, Line: 1252, Word: 1
+Button, Line: 1252, Word: 2
+Z, Line: 1253, Word: 1
+Button, Line: 1253, Word: 2
+L, Line: 1254, Word: 1
+Button, Line: 1254, Word: 2
+Reselect CS, Line: 1255, Word: 1
+Lock, Line: 1257, Word: 1
+Button, Line: 1257, Word: 2
+Lock, Line: 1259, Word: 1
+Button, Line: 1259, Word: 2
+Pick L start, Line: 1261, Word: 1
+Button, Line: 1261, Word: 2
+Pick L end, Line: 1262, Word: 1
+Button, Line: 1262, Word: 2
+None, Line: 1263, Word: 1
+Button, Line: 1263, Word: 2
+Coordinate System CS, Line: 1268, Word: 1
+MS Shell Dlg, Line: 1269, Word: 1
+CS of surface, Line: 1271, Word: 1
+CS of current view, Line: 1272, Word: 1
+Center , Z axis , point on X axis, Line: 1273, Word: 1
+Flip Active CS Z direction, Line: 1274, Word: 1
+Reselect Active CS X direction, Line: 1275, Word: 1
+CS of Solid2d , Toolpath, Line: 1276, Word: 1
+CS by least squares plane fit, Line: 1277, Word: 1
+IGES Read Preferences, Line: 1282, Word: 1
+MS Shell Dlg, Line: 1283, Word: 1
+OK, Line: 1285, Word: 1
+Cancel, Line: 1286, Word: 1
+Digitise Tolerance, Line: 1288, Word: 1
+Read untrimmed surfaces, Line: 1289, Word: 1
+Button, Line: 1289, Word: 2
+Read trimmed surfaces, Line: 1290, Word: 1
+Button, Line: 1290, Word: 2
+Read curves, Line: 1291, Word: 1
+Button, Line: 1291, Word: 2
+Read points, Line: 1292, Word: 1
+Button, Line: 1292, Word: 2
+Read notes, Line: 1293, Word: 1
+Button, Line: 1293, Word: 2
+Triangulate surfaces, Line: 1294, Word: 1
+Button, Line: 1294, Word: 2
+Check if cylindirical or planar, Line: 1295, Word: 1
+Button, Line: 1295, Word: 2
+Record exceptions, Line: 1296, Word: 1
+Button, Line: 1296, Word: 2
+Use BSP for in polygon checks, Line: 1297, Word: 1
+Button, Line: 1297, Word: 2
+Change tolerance of big surfaces, Line: 1298, Word: 1
+Button, Line: 1298, Word: 2
+Big surface diagonal length limit, Line: 1300, Word: 1
+Big surface digitise tolerance, Line: 1301, Word: 1
+Merge surfaces and make one body, Line: 1303, Word: 1
+Button, Line: 1303, Word: 2
+Lua script for geo export, Line: 1305, Word: 1
+Curve divide till recursive depth, Line: 1306, Word: 1
+Surface divide count max segment, Line: 1308, Word: 1
+Preference Dialog, Line: 1314, Word: 1
+MS Shell Dlg, Line: 1315, Word: 1
+Cancel, Line: 1317, Word: 1
+Lighting, Line: 1318, Word: 1
+Iges Read, Line: 1319, Word: 1
+Color, Line: 1320, Word: 1
+Preferences, Line: 1321, Word: 1
+Surface Point Navigator Dialog, Line: 1326, Word: 1
+MS Shell Dlg, Line: 1327, Word: 1
+OK, Line: 1329, Word: 1
++ u, Line: 1330, Word: 1
+u -, Line: 1331, Word: 1
++ v, Line: 1332, Word: 1
+v -, Line: 1333, Word: 1
+Record, Line: 1334, Word: 1
+Transform Model, Line: 1339, Word: 1
+MS Shell Dlg, Line: 1340, Word: 1
+Move, Line: 1342, Word: 1
+Rotate, Line: 1343, Word: 1
+Scale, Line: 1344, Word: 1
+Mirror, Line: 1345, Word: 1
+Reorient, Line: 1346, Word: 1
+Dynamic, Line: 1347, Word: 1
+Copy, Line: 1348, Word: 1
+Button, Line: 1348, Word: 2
+Repeat No, Line: 1350, Word: 1
+Move on work, Line: 1351, Word: 1
+Curve sweep clone, Line: 1352, Word: 1
+Rotate for smallest box, Line: 1353, Word: 1
+View List Dialog, Line: 1358, Word: 1
+MS Shell Dlg, Line: 1359, Word: 1
+OK, Line: 1361, Word: 1
+Cancel, Line: 1362, Word: 1
+Change View Direction, Line: 1364, Word: 1
+Add, Line: 1365, Word: 1
+Remove, Line: 1366, Word: 1
+Get, Line: 1367, Word: 1
+Dimension Dialog, Line: 1372, Word: 1
+MS Shell Dlg, Line: 1373, Word: 1
+Distance2Points, Line: 1375, Word: 1
+3D, Line: 1376, Word: 1
+Button, Line: 1376, Word: 2
+ProjectedXY, Line: 1377, Word: 1
+Button, Line: 1377, Word: 2
+ProjectedXZ, Line: 1378, Word: 1
+Button, Line: 1378, Word: 2
+ProjectedYZ, Line: 1379, Word: 1
+Button, Line: 1379, Word: 2
+AlongX, Line: 1380, Word: 1
+Button, Line: 1380, Word: 2
+AlongY, Line: 1381, Word: 1
+Button, Line: 1381, Word: 2
+AlongZ, Line: 1382, Word: 1
+Button, Line: 1382, Word: 2
+Angular, Line: 1383, Word: 1
+Button, Line: 1383, Word: 2
+Text Height, Line: 1385, Word: 1
+Visual Attributes, Line: 1386, Word: 1
+Radius, Line: 1387, Word: 1
+Button, Line: 1387, Word: 2
+Diameter, Line: 1388, Word: 1
+Button, Line: 1388, Word: 2
+Other, Line: 1389, Word: 1
+Done, Line: 1390, Word: 1
+Continuous, Line: 1391, Word: 1
+Button, Line: 1391, Word: 2
+Absolute CS, Line: 1392, Word: 1
+Button, Line: 1392, Word: 2
+Work CS, Line: 1393, Word: 1
+Button, Line: 1393, Word: 2
+Learn Dimensions, Line: 1398, Word: 1
+Microsoft Sans Serif, Line: 1399, Word: 1
+OK, Line: 1401, Word: 1
+Cancel, Line: 1402, Word: 1
+Single Point, Line: 1403, Word: 1
+Angle, Line: 1404, Word: 1
+2 Points, Line: 1405, Word: 1
+Arc , Circle, Line: 1406, Word: 1
+Info, Line: 1407, Word: 1
+Projected Volume, Line: 1409, Word: 1
+Area, Line: 1410, Word: 1
+Dialog, Line: 1415, Word: 1
+MS Shell Dlg, Line: 1416, Word: 1
+Check1, Line: 1418, Word: 1
+Button, Line: 1418, Word: 2
+Thread, Line: 1423, Word: 1
+MS Shell Dlg, Line: 1424, Word: 1
+Pause, Line: 1426, Word: 1
+Insert Link Dialog, Line: 1431, Word: 1
+MS Shell Dlg, Line: 1432, Word: 1
+OK, Line: 1434, Word: 1
+Cancel, Line: 1435, Word: 1
+Link path and name (put  /  between folders), Line: 1437, Word: 1
+Label Text Dialog, Line: 1442, Word: 1
+MS Shell Dlg, Line: 1443, Word: 1
+OK, Line: 1445, Word: 1
+Cancel, Line: 1446, Word: 1
+Label Text, Line: 1448, Word: 1
+Save Selection Dialog, Line: 1453, Word: 1
+MS Shell Dlg, Line: 1454, Word: 1
+Save, Line: 1456, Word: 1
+Cancel, Line: 1457, Word: 1
+, Line: 1458, Word: 1
+SysTreeView32, Line: 1458, Word: 2
+..., Line: 1460, Word: 1
+Microsoft Sans Serif, Line: 1465, Word: 1
+, Line: 1467, Word: 1
+SysListView32, Line: 1467, Word: 2
+Button1, Line: 1469, Word: 1
+Tahoma, Line: 1474, Word: 1
+, Line: 1476, Word: 1
+SysListView32, Line: 1476, Word: 2
+Tahoma, Line: 1481, Word: 1
+OK, Line: 1483, Word: 1
+Cancel, Line: 1484, Word: 1
+gï¿½siï¿½ï¿½, Line: 1486, Word: 1
+Tahoma, Line: 1491, Word: 1
++X, Line: 1496, Word: 1
++Y, Line: 1497, Word: 1
++Z, Line: 1498, Word: 1
+Reverse, Line: 1499, Word: 1
+Norm, Line: 1500, Word: 1
+2 points, Line: 1501, Word: 1
+View dir, Line: 1502, Word: 1
+Surf. Normal, Line: 1503, Word: 1
+Button, Line: 1503, Word: 2
+Tang. to edge, Line: 1504, Word: 1
+Button, Line: 1504, Word: 2
+OK, Line: 1505, Word: 1
+Cancel, Line: 1506, Word: 1
+I, Line: 1507, Word: 1
+J, Line: 1508, Word: 1
+K, Line: 1509, Word: 1
+^X, Line: 1510, Word: 1
+^Z, Line: 1511, Word: 1
+^Y, Line: 1512, Word: 1
+Tahoma, Line: 1517, Word: 1
+Origin, Line: 1522, Word: 1
+<, Line: 1523, Word: 1
+>, Line: 1524, Word: 1
+Free point click, Line: 1525, Word: 1
+Button, Line: 1525, Word: 2
+Select any vertices, Line: 1526, Word: 1
+Button, Line: 1526, Word: 2
+OK, Line: 1527, Word: 1
+Cancel, Line: 1528, Word: 1
+X, Line: 1529, Word: 1
+Y, Line: 1530, Word: 1
+Z, Line: 1531, Word: 1
+Tahoma, Line: 1536, Word: 1
+OK, Line: 1539, Word: 1
+Cancel, Line: 1540, Word: 1
+MODEL TYPES THAT CAN BE SELECTED, Line: 1541, Word: 1
+Color to select : All, Line: 1542, Word: 1
+Pick, Line: 1543, Word: 1
+All color, Line: 1544, Word: 1
+Deselect, Line: 1545, Word: 1
+Button, Line: 1545, Word: 2
+Chain curves, Line: 1546, Word: 1
+Button, Line: 1546, Word: 2
+Escape, Line: 1547, Word: 1
+MS Shell Dlg, Line: 1552, Word: 1
+Working Plane, Line: 1555, Word: 1
+Normal Coord, Line: 1557, Word: 1
+Set, Line: 1558, Word: 1
+Tahoma, Line: 1563, Word: 1
+X, Line: 1567, Word: 1
+Y, Line: 1569, Word: 1
+Z, Line: 1571, Word: 1
+Pick Work Origin, Line: 1573, Word: 1
+Grid, Line: 1575, Word: 1
+Button, Line: 1575, Word: 2
+..., Line: 1576, Word: 1
+Tolerance, Line: 1577, Word: 1
+MS Shell Dlg, Line: 1582, Word: 1
+Button1, Line: 1584, Word: 1
+Check1, Line: 1585, Word: 1
+Button, Line: 1585, Word: 2
+File Dialog, Line: 1590, Word: 1
+MS Shell Dlg, Line: 1591, Word: 1
+Open/Save, Line: 1593, Word: 1
+Cancel, Line: 1594, Word: 1
+File Name:, Line: 1596, Word: 1
+, Line: 1597, Word: 1
+SysListView32, Line: 1597, Word: 2
+Big stl clipping, Line: 1603, Word: 1
+MS Shell Dlg, Line: 1604, Word: 1
+OK, Line: 1606, Word: 1
+Cancel, Line: 1607, Word: 1
+Min, Line: 1608, Word: 1
+Max, Line: 1610, Word: 1
+X Plane, Line: 1612, Word: 1
+Button, Line: 1612, Word: 2
+Y Plane, Line: 1613, Word: 1
+Button, Line: 1613, Word: 2
+Z Plane, Line: 1614, Word: 1
+Button, Line: 1614, Word: 2
+Clip triangles by plane, Line: 1618, Word: 1
+Button, Line: 1618, Word: 2
+Clip negative, Line: 1619, Word: 1
+Button, Line: 1619, Word: 2
+MS Shell Dlg, Line: 1624, Word: 1
+, Line: 1626, Word: 1
+SysTabControl32, Line: 1626, Word: 2
+MS Shell Dlg, Line: 1632, Word: 1
+, Line: 1634, Word: 1
+SysTreeView32, Line: 1634, Word: 2
+>, Line: 1636, Word: 1
+<, Line: 1637, Word: 1
+, Line: 1638, Word: 1
+MS Shell Dlg, Line: 1643, Word: 1
+Grid dialog, Line: 1649, Word: 1
+MS Shell Dlg, Line: 1650, Word: 1
+OK, Line: 1658, Word: 1
+Cancel, Line: 1659, Word: 1
+Lower left, Line: 1660, Word: 1
+Lower right, Line: 1661, Word: 1
+Upper right, Line: 1662, Word: 1
+Upper left, Line: 1663, Word: 1
+Unit length, Line: 1664, Word: 1
+X count, Line: 1665, Word: 1
+Y count, Line: 1666, Word: 1
+X shift, Line: 1667, Word: 1
+Y shift, Line: 1668, Word: 1
+Z shift, Line: 1669, Word: 1
+Glyph Sets, Line: 1674, Word: 1
+MS Shell Dlg, Line: 1675, Word: 1
+Close, Line: 1677, Word: 1
+Char, Line: 1680, Word: 1
+Select Curves And Add Glyph, Line: 1681, Word: 1
+Delete Glyph, Line: 1682, Word: 1
+Add Glyph Set >, Line: 1683, Word: 1
+Glyph Set Name, Line: 1685, Word: 1
+Glyphs, Line: 1687, Word: 1
+Glyph Sets, Line: 1688, Word: 1
+Save, Line: 1689, Word: 1
+Load, Line: 1690, Word: 1
+Base y shift, Line: 1691, Word: 1
+< Edit Glyph Set, Line: 1693, Word: 1
+Glyph set height, Line: 1694, Word: 1
+Mouse Options, Line: 1700, Word: 1
+MS Shell Dlg, Line: 1701, Word: 1
+OK, Line: 1703, Word: 1
+Cancel, Line: 1704, Word: 1
+Mouse mid button, Line: 1705, Word: 1
+Dynamic rotation, Line: 1706, Word: 1
+Button, Line: 1706, Word: 2
+Pan, Line: 1707, Word: 1
+Button, Line: 1707, Word: 2
+Switch wheel zoom in-out direction, Line: 1708, Word: 1
+Button, Line: 1708, Word: 2
+-, Line: 1713, Word: 1
+MS Shell Dlg, Line: 1714, Word: 1
+Enter Text, Line: 1717, Word: 1
+Font Size, Line: 1718, Word: 1
+Tessellate, Line: 1722, Word: 1
+Insert Text, Line: 1723, Word: 1
+Italic, Line: 1724, Word: 1
+Button, Line: 1724, Word: 2
+Underline, Line: 1725, Word: 1
+Button, Line: 1725, Word: 2
+Strike out, Line: 1726, Word: 1
+Button, Line: 1726, Word: 2
+DXF Import Options, Line: 1732, Word: 1
+MS Shell Dlg, Line: 1733, Word: 1
+Override z coordinates which are bigger than limit, Line: 1735, Word: 1
+Button, Line: 1736, Word: 1
+Lines, Line: 1739, Word: 1
+Button, Line: 1739, Word: 2
+Circles, Line: 1740, Word: 1
+Button, Line: 1740, Word: 2
+Polylines, Line: 1741, Word: 1
+Button, Line: 1741, Word: 2
+LWPolylines, Line: 1742, Word: 1
+Button, Line: 1742, Word: 2
+Text, Line: 1743, Word: 1
+Button, Line: 1743, Word: 2
+MText, Line: 1744, Word: 1
+Button, Line: 1744, Word: 2
+Arcs, Line: 1745, Word: 1
+Button, Line: 1745, Word: 2
+Ellipse, Line: 1746, Word: 1
+Button, Line: 1746, Word: 2
+Splines, Line: 1747, Word: 1
+Button, Line: 1747, Word: 2
+Limit reading, Line: 1748, Word: 1
+Button, Line: 1748, Word: 2
+Explode polylines, Line: 1751, Word: 1
+Button, Line: 1751, Word: 2
+OK, Line: 1752, Word: 1
+Cancel, Line: 1753, Word: 1
+Import, Line: 1754, Word: 1
+Z Limit, Line: 1755, Word: 1
+Z coordinate after replacement, Line: 1756, Word: 1
+Start entity no, Line: 1757, Word: 1
+End entity no, Line: 1758, Word: 1
+Container sheet, Line: 1759, Word: 1
+Button, Line: 1759, Word: 2
+Work space diameter, Line: 1761, Word: 1
+Hide entities which are out of work space, Line: 1762, Word: 1
+Button, Line: 1763, Word: 1
+Work space center, Line: 1767, Word: 1
+Inserts, Line: 1768, Word: 1
+Button, Line: 1768, Word: 2
+Transform to work plane after importing, Line: 1769, Word: 1
+Button, Line: 1770, Word: 1
+Override entity colors by default wireframe color, Line: 1771, Word: 1
+Button, Line: 1772, Word: 1
+Hatch, Line: 1773, Word: 1
+Button, Line: 1773, Word: 2
+Add hatches as surface, Line: 1774, Word: 1
+Button, Line: 1774, Word: 2
+Translate text, Line: 1775, Word: 1
+Button, Line: 1775, Word: 2
+Make Arc, Line: 1780, Word: 1
+MS Shell Dlg, Line: 1781, Word: 1
+Center , radius, Line: 1783, Word: 1
+Center , radius , axis, Line: 1784, Word: 1
+3 points, Line: 1785, Word: 1
+Circle from 3 points, Line: 1786, Word: 1
+Center , point on circle, Line: 1787, Word: 1
+Center , axis , point on circle, Line: 1788, Word: 1
+Box, Line: 1793, Word: 1
+MS Shell Dlg, Line: 1794, Word: 1
+Close, Line: 1796, Word: 1
+, Line: 1797, Word: 1
+SysTabControl32, Line: 1797, Word: 2
+Only wireframe, Line: 1798, Word: 1
+Button, Line: 1798, Word: 2
+Translucent, Line: 1799, Word: 1
+Button, Line: 1799, Word: 2
+Spline fit dialog, Line: 1804, Word: 1
+MS Shell Dlg, Line: 1805, Word: 1
+Select points for spline fit, Line: 1807, Word: 1
+Close, Line: 1808, Word: 1
+0. degree (polyline), Line: 1809, Word: 1
+Button, Line: 1809, Word: 2
+3. degree, Line: 1810, Word: 1
+Button, Line: 1810, Word: 2
+Degree of curve, Line: 1811, Word: 1
+Make points on curve, Line: 1817, Word: 1
+MS Shell Dlg, Line: 1818, Word: 1
+OK, Line: 1820, Word: 1
+Cancel, Line: 1821, Word: 1
+By distance step, Line: 1822, Word: 1
+Button, Line: 1822, Word: 2
+By point count, Line: 1823, Word: 1
+Button, Line: 1823, Word: 2
+MS Shell Dlg, Line: 1830, Word: 1
+Box type, Line: 1838, Word: 1
++X offset, Line: 1839, Word: 1
+-X offset, Line: 1840, Word: 1
++Y offset, Line: 1841, Word: 1
+-Y offset, Line: 1842, Word: 1
++Z offset, Line: 1843, Word: 1
+-Z offset, Line: 1844, Word: 1
+Fit enclosing boxes, Line: 1845, Word: 1
+Fit recursion depth, Line: 1847, Word: 1
+Trim curves dialog, Line: 1853, Word: 1
+MS Shell Dlg, Line: 1854, Word: 1
+OK, Line: 1856, Word: 1
+Cancel, Line: 1857, Word: 1
+, Line: 1858, Word: 1
+SysTreeView32, Line: 1858, Word: 2
+Uncheck segments to remove., Line: 1859, Word: 1
+Make points on surface, Line: 1864, Word: 1
+MS Shell Dlg, Line: 1865, Word: 1
+OK, Line: 1867, Word: 1
+Cancel, Line: 1868, Word: 1
+By distance step, Line: 1869, Word: 1
+Button, Line: 1869, Word: 2
+By point count, Line: 1870, Word: 1
+Button, Line: 1870, Word: 2
+, Line: 1871, Word: 1
+along u, Line: 1874, Word: 1
+along v, Line: 1875, Word: 1
+, Line: 1876, Word: 1
+along u, Line: 1877, Word: 1
+along v, Line: 1878, Word: 1
+Surface of revolution, Line: 1885, Word: 1
+MS Shell Dlg, Line: 1886, Word: 1
+OK, Line: 1890, Word: 1
+Cancel, Line: 1891, Word: 1
+Start Angle, Line: 1892, Word: 1
+End Angle, Line: 1893, Word: 1
+Polygons to triangles, Line: 1898, Word: 1
+MS Shell Dlg, Line: 1899, Word: 1
+OK, Line: 1901, Word: 1
+Cancel, Line: 1902, Word: 1
+Toplam loop sayisi (dis arti iï¿½), Line: 1904, Word: 1
+Polygon Boolean , Line: 1909, Word: 1
+MS Shell Dlg, Line: 1910, Word: 1
+OK, Line: 1912, Word: 1
+Cancel, Line: 1913, Word: 1
+Union, Line: 1914, Word: 1
+Button, Line: 1914, Word: 2
+Intersection, Line: 1915, Word: 1
+Button, Line: 1915, Word: 2
+Difference, Line: 1916, Word: 1
+Button, Line: 1916, Word: 2
+Exclusive Or, Line: 1917, Word: 1
+Button, Line: 1917, Word: 2
+Do, Line: 1918, Word: 1
+Make points, Line: 1923, Word: 1
+MS Shell Dlg, Line: 1924, Word: 1
+Pick from graphic view, Line: 1926, Word: 1
+Button, Line: 1926, Word: 2
+Make points on curve, Line: 1927, Word: 1
+Button, Line: 1927, Word: 2
+Make points on surface, Line: 1928, Word: 1
+Button, Line: 1928, Word: 2
+OK, Line: 1929, Word: 1
+Cancel, Line: 1930, Word: 1
+MS Shell Dlg, Line: 1935, Word: 1
+X length, Line: 1940, Word: 1
+Y length, Line: 1941, Word: 1
+Z length, Line: 1942, Word: 1
+Radius, Line: 1945, Word: 1
+Angle, Line: 1946, Word: 1
+Lower left, Line: 1947, Word: 1
+Button, Line: 1947, Word: 2
+Center, Line: 1948, Word: 1
+Button, Line: 1948, Word: 2
+Make circles or arcs, Line: 1953, Word: 1
+MS Shell Dlg, Line: 1954, Word: 1
+Center , radius, Line: 1956, Word: 1
+Button, Line: 1956, Word: 2
+Arc by three points, Line: 1957, Word: 1
+Button, Line: 1957, Word: 2
+Circle by three points, Line: 1958, Word: 1
+Button, Line: 1958, Word: 2
+Center , point on arc, Line: 1959, Word: 1
+Button, Line: 1959, Word: 2
+Two points, bulge, Line: 1960, Word: 1
+Button, Line: 1960, Word: 2
+Two points, radius, Line: 1961, Word: 1
+Button, Line: 1961, Word: 2
+String, Line: 1964, Word: 1
+Button, Line: 1964, Word: 2
+Close, Line: 1965, Word: 1
+Radius, Line: 1966, Word: 1
+Angle, Line: 1967, Word: 1
+Mode, Line: 1968, Word: 1
+Trimming, Line: 1973, Word: 1
+MS Shell Dlg, Line: 1974, Word: 1
+OK, Line: 1976, Word: 1
+iptal, Line: 1977, Word: 1
+Trim outside, Line: 1978, Word: 1
+Button, Line: 1978, Word: 2
+Trim inside, Line: 1979, Word: 1
+Button, Line: 1979, Word: 2
+Make lines, Line: 1984, Word: 1
+MS Shell Dlg, Line: 1985, Word: 1
+By 2 points, Line: 1987, Word: 1
+nokta , dogrultu , uzunluk, Line: 1988, Word: 1
+Between sequential points..., Line: 1989, Word: 1
+Curve joining options, Line: 1994, Word: 1
+Microsoft Sans Serif, Line: 1995, Word: 1
+OK, Line: 1997, Word: 1
+Cancel, Line: 1998, Word: 1
+Seï¿½ilen egriler arasinda bosluklar var. Birlestirme islemi iï¿½in asagidaki seï¿½eneklerden birini isaretleyin., Line: 1999, Word: 1
+UYARI!, Line: 2000, Word: 1
+Toleransdan bï¿½yï¿½k bosluk varsa islemi iptal et., Line: 2001, Word: 1
+Button, Line: 2002, Word: 1
+Tolerans, Line: 2004, Word: 1
+Join gaps by line., Line: 2005, Word: 1
+Button, Line: 2005, Word: 2
+Radyus atma , Line: 2010, Word: 1
+MS Shell Dlg, Line: 2011, Word: 1
+OK, Line: 2013, Word: 1
+Cancel, Line: 2014, Word: 1
+Yaricap, Line: 2016, Word: 1
+Yonu ters cevir, Line: 2017, Word: 1
+Draw on screen, Line: 2018, Word: 1
+Make Lines, Line: 2023, Word: 1
+MS Shell Dlg, Line: 2024, Word: 1
+By picking two points, Line: 2026, Word: 1
+Button, Line: 2026, Word: 2
+Sequential points, Line: 2027, Word: 1
+Button, Line: 2027, Word: 2
+Direction,point,length, Line: 2028, Word: 1
+Button, Line: 2028, Word: 2
+Point,angle,length, Line: 2029, Word: 1
+Button, Line: 2029, Word: 2
+Point, point along angle, Line: 2030, Word: 1
+Button, Line: 2030, Word: 2
+Direction,point,point, Line: 2031, Word: 1
+Button, Line: 2031, Word: 2
+90, Line: 2033, Word: 1
+180, Line: 2034, Word: 1
+0, Line: 2036, Word: 1
+270, Line: 2037, Word: 1
+Ortho snap, Line: 2038, Word: 1
+Button, Line: 2038, Word: 2
+Length:, Line: 2039, Word: 1
+Method, Line: 2040, Word: 1
+^, Line: 2041, Word: 1
+v, Line: 2042, Word: 1
+*-1, Line: 2043, Word: 1
+Increment step, Line: 2045, Word: 1
+Direction vector i,j,k, Line: 2046, Word: 1
+..., Line: 2048, Word: 1
+^, Line: 2049, Word: 1
+v, Line: 2050, Word: 1
+Angle, Line: 2052, Word: 1
+Spine Curve Calculation, Line: 2057, Word: 1
+MS Shell Dlg, Line: 2058, Word: 1
+OK, Line: 2060, Word: 1
+Cancel, Line: 2061, Word: 1
+X, Line: 2062, Word: 1
+Button, Line: 2062, Word: 2
+Y, Line: 2063, Word: 1
+Button, Line: 2063, Word: 2
+Z, Line: 2064, Word: 1
+Button, Line: 2064, Word: 2
+Section Plane Normal, Line: 2065, Word: 1
+Section Step, Line: 2066, Word: 1
+Wire Dialog, Line: 2072, Word: 1
+MS Shell Dlg, Line: 2073, Word: 1
+OK, Line: 2075, Word: 1
+Cancel, Line: 2076, Word: 1
+Contour Type:, Line: 2078, Word: 1
+Operation Name, Line: 2080, Word: 1
+Contour join tolerance, Line: 2081, Word: 1
+Contour digitise tolerance, Line: 2084, Word: 1
+Wire diameter:, Line: 2086, Word: 1
+Make part, Line: 2087, Word: 1
+Button, Line: 2087, Word: 2
+Lead in-out radius or length, Line: 2088, Word: 1
+Circular, Line: 2090, Word: 1
+Button, Line: 2090, Word: 2
+Line, Line: 2091, Word: 1
+Button, Line: 2091, Word: 2
+Tapper angle, Line: 2093, Word: 1
+Part Height, Line: 2094, Word: 1
+Wire arc clearence:, Line: 2097, Word: 1
+Top trim plane ext., Line: 2098, Word: 1
+Lead in-out, Line: 2100, Word: 1
+Base trim plane ext., Line: 2102, Word: 1
+WireEDM Cut Direction and Number, Line: 2107, Word: 1
+MS Shell Dlg, Line: 2108, Word: 1
+Next, Line: 2110, Word: 1
+Back, Line: 2111, Word: 1
+Number of cuts, Line: 2113, Word: 1
+, Line: 2115, Word: 1
+Static, Line: 2115, Word: 2
+, Line: 2117, Word: 1
+msctls_updown32, Line: 2117, Word: 2
+Stock to leave, Line: 2119, Word: 1
+Cut No:, Line: 2120, Word: 1
+Feedrate, Line: 2121, Word: 1
+, Line: 2122, Word: 1
+SysListView32, Line: 2122, Word: 2
+, Line: 2123, Word: 1
+CCW, Line: 2124, Word: 1
+Button, Line: 2124, Word: 2
+CW, Line: 2125, Word: 1
+Button, Line: 2125, Word: 2
+Set Values, Line: 2126, Word: 1
+Taper angle and extensions dialog, Line: 2131, Word: 1
+MS Shell Dlg, Line: 2132, Word: 1
+Taper Angle (A), Line: 2134, Word: 1
+DA, Line: 2136, Word: 1
+Static, Line: 2139, Word: 1
+I, Line: 2140, Word: 1
+Button, Line: 2140, Word: 2
+II, Line: 2141, Word: 1
+Button, Line: 2141, Word: 2
+DB, Line: 2142, Word: 1
+Static, Line: 2143, Word: 1
+Static, Line: 2144, Word: 1
+Multi Post Dialog, Line: 2149, Word: 1
+MS Shell Dlg, Line: 2150, Word: 1
+, Line: 2152, Word: 1
+SysListView32, Line: 2152, Word: 2
+Select All, Line: 2153, Word: 1
+Deselect All, Line: 2154, Word: 1
+Estimate time, Line: 2155, Word: 1
+..., Line: 2157, Word: 1
+Close, Line: 2158, Word: 1
+Post Selected, Line: 2159, Word: 1
+Simulate Dialog, Line: 2164, Word: 1
+MS Shell Dlg, Line: 2165, Word: 1
+Write NC File, Line: 2167, Word: 1
+Back, Line: 2168, Word: 1
+Moves, Line: 2170, Word: 1
+>>, Line: 2171, Word: 1
+<<, Line: 2172, Word: 1
+Cut No:, Line: 2174, Word: 1
+Draw all, Line: 2175, Word: 1
+Hide All, Line: 2176, Word: 1
+Cutting Parameters, Line: 2182, Word: 1
+MS Shell Dlg, Line: 2183, Word: 1
+Do Cut Off, Line: 2186, Word: 1
+Button, Line: 2186, Word: 2
+DB Search, Line: 2189, Word: 1
+Extra param, Line: 2190, Word: 1
+Back, Line: 2191, Word: 1
+Next, Line: 2192, Word: 1
+Cut Number :, Line: 2193, Word: 1
+Wire Diameter, Line: 2195, Word: 1
+WireEDM Entry Exit Dialog, Line: 2200, Word: 1
+MS Shell Dlg, Line: 2201, Word: 1
+Select start point, Line: 2203, Word: 1
+Nearest point, Line: 2205, Word: 1
+Button, Line: 2205, Word: 2
+Angle, Line: 2206, Word: 1
+Button, Line: 2206, Word: 2
+..., Line: 2209, Word: 1
+CCW, Line: 2212, Word: 1
+Button, Line: 2212, Word: 2
+CW, Line: 2213, Word: 1
+Button, Line: 2213, Word: 2
+Direct, Line: 2214, Word: 1
+Button, Line: 2214, Word: 2
+Circular, Line: 2215, Word: 1
+Button, Line: 2215, Word: 2
+, Line: 2217, Word: 1
+SysListView32, Line: 2217, Word: 2
+Back, Line: 2218, Word: 1
+Reverse wire ofset direction, Line: 2219, Word: 1
+Button, Line: 2219, Word: 2
+Next, Line: 2220, Word: 1
+Entry/Exit , Line: 2221, Word: 1
+Circle radius, Line: 2222, Word: 1
+Cut off distance :, Line: 2223, Word: 1
+Cut over distance :, Line: 2224, Word: 1
+Exit distance :, Line: 2225, Word: 1
+Direction, Line: 2226, Word: 1
+Start point dialog, Line: 2231, Word: 1
+MS Shell Dlg, Line: 2232, Word: 1
+Closest point, Line: 2234, Word: 1
+Button, Line: 2234, Word: 2
+Angle, Line: 2235, Word: 1
+Button, Line: 2235, Word: 2
+OK, Line: 2237, Word: 1
+Cancel, Line: 2238, Word: 1
+Start point on contour, Line: 2239, Word: 1
+Angle, Line: 2240, Word: 1
+Initial point coordinates, Line: 2245, Word: 1
+MS Shell Dlg, Line: 2246, Word: 1
+OK, Line: 2248, Word: 1
+Cancel, Line: 2249, Word: 1
+X, Line: 2253, Word: 1
+Y, Line: 2254, Word: 1
+Z, Line: 2255, Word: 1
+Operation Parameters, Line: 2260, Word: 1
+MS Shell Dlg, Line: 2261, Word: 1
+Rename selected operation, Line: 2266, Word: 1
+CCW, Line: 2268, Word: 1
+Button, Line: 2268, Word: 2
+CW, Line: 2269, Word: 1
+Button, Line: 2269, Word: 2
+Type 1, Line: 2270, Word: 1
+Button, Line: 2270, Word: 2
+Type 2, Line: 2271, Word: 1
+Button, Line: 2271, Word: 2
+Do cut off, Line: 2276, Word: 1
+Button, Line: 2276, Word: 2
+Set all operations, Line: 2277, Word: 1
+Set selected operation, Line: 2278, Word: 1
+Calculate, Line: 2279, Word: 1
+Cancel, Line: 2280, Word: 1
+Cut off distance, Line: 2281, Word: 1
+Over cut distance, Line: 2282, Word: 1
+Exit distance, Line: 2283, Word: 1
+Direction, Line: 2284, Word: 1
+Taper Angle, Line: 2285, Word: 1
+Cut Number, Line: 2286, Word: 1
+Operations, Line: 2287, Word: 1
+, Line: 2288, Word: 1
+Static, Line: 2288, Word: 2
+Angle type, Line: 2289, Word: 1
+DA, Line: 2293, Word: 1
+DB, Line: 2294, Word: 1
+Wire Diameter, Line: 2295, Word: 1
+Rename operation, Line: 2300, Word: 1
+MS Shell Dlg, Line: 2301, Word: 1
+OK, Line: 2303, Word: 1
+Cancel, Line: 2304, Word: 1
+Post Processor Settings Dialog, Line: 2310, Word: 1
+MS Shell Dlg, Line: 2311, Word: 1
+Save Setting, Line: 2314, Word: 1
+Delete Setting, Line: 2315, Word: 1
+Incremental U-V output in 4 axis cutting, Line: 2323, Word: 1
+Button, Line: 2324, Word: 1
+..., Line: 2326, Word: 1
+..., Line: 2328, Word: 1
+..., Line: 2330, Word: 1
+OK, Line: 2331, Word: 1
+Cancel, Line: 2332, Word: 1
+Settings, Line: 2333, Word: 1
+Setting Name, Line: 2334, Word: 1
+Editor, Line: 2335, Word: 1
+First position G code, Line: 2336, Word: 1
+Taper angle options, Line: 2337, Word: 1
+Coordinate numbers format, Line: 2338, Word: 1
+Default post path:, Line: 2339, Word: 1
+Operation last move, Line: 2340, Word: 1
+Lua script to run for post processing, Line: 2341, Word: 1
+Technological Parameters Dialog, Line: 2346, Word: 1
+MS Shell Dlg, Line: 2347, Word: 1
+Copy Process Texts And Close, Line: 2349, Word: 1
+Cancel, Line: 2350, Word: 1
+, Line: 2351, Word: 1
+SysListView32, Line: 2351, Word: 2
+Wire Diameter, Line: 2352, Word: 1
+Workpiece, Line: 2353, Word: 1
+MC Method, Line: 2354, Word: 1
+Finish, Line: 2355, Word: 1
+Thickness, Line: 2356, Word: 1
+Model No, Line: 2357, Word: 1
+Cut Number, Line: 2358, Word: 1
+Var1, Line: 2359, Word: 1
+Var2, Line: 2360, Word: 1
+Process 1, Line: 2361, Word: 1
+Process 2, Line: 2362, Word: 1
+Process 3, Line: 2363, Word: 1
+Process 4, Line: 2364, Word: 1
+Process 5, Line: 2365, Word: 1
+Insert, Line: 2381, Word: 1
+Delete Selected, Line: 2382, Word: 1
+Edit Selected, Line: 2391, Word: 1
+Show All-No filter, Line: 2392, Word: 1
+WireEDM Geometry Dialog, Line: 2397, Word: 1
+MS Shell Dlg, Line: 2398, Word: 1
+Reselect, Line: 2401, Word: 1
+Add b, Line: 2405, Word: 1
+, Line: 2406, Word: 1
+SysListView32, Line: 2406, Word: 2
+Close, Line: 2410, Word: 1
+Next, Line: 2411, Word: 1
+Contour Type, Line: 2412, Word: 1
+Curve joining tolerance, Line: 2413, Word: 1
+Coincident tolerance, Line: 2414, Word: 1
+Z top, Line: 2415, Word: 1
+Z base, Line: 2416, Word: 1
+Operation Name, Line: 2417, Word: 1
+Extra offset, Line: 2418, Word: 1
+Time Estimation Dialog, Line: 2424, Word: 1
+MS Shell Dlg, Line: 2425, Word: 1
+OK, Line: 2427, Word: 1
+Cancel, Line: 2428, Word: 1
+Cutting Feedrate, Line: 2429, Word: 1
+Rapid Feedrate, Line: 2430, Word: 1
+Update, Line: 2433, Word: 1
+Rotary Silhoutte Cutting Dialog, Line: 2439, Word: 1
+MS Shell Dlg, Line: 2440, Word: 1
+OK, Line: 2442, Word: 1
+Cancel, Line: 2443, Word: 1
+Start Angle, Line: 2444, Word: 1
+End Angle, Line: 2445, Word: 1
+Angle Step, Line: 2448, Word: 1
+Filter Tol, Line: 2451, Word: 1
+First Start Point, Line: 2452, Word: 1
+First End Point, Line: 2456, Word: 1
+X, Line: 2460, Word: 1
+X, Line: 2461, Word: 1
+Y, Line: 2462, Word: 1
+Y, Line: 2463, Word: 1
+Z, Line: 2464, Word: 1
+Z, Line: 2465, Word: 1
+Contour Point Matching Dialog, Line: 2470, Word: 1
+MS Shell Dlg, Line: 2471, Word: 1
+, Line: 2473, Word: 1
+SysListView32, Line: 2473, Word: 2
+Preview lines, Line: 2477, Word: 1
+Insert new, Line: 2478, Word: 1
+Reset selected, Line: 2479, Word: 1
+Delete selected, Line: 2480, Word: 1
+Preview all lines, Line: 2481, Word: 1
+Delete lines, Line: 2485, Word: 1
+Mindist, Line: 2486, Word: 1
+Button, Line: 2486, Word: 2
+Equal parameter, Line: 2487, Word: 1
+Button, Line: 2487, Word: 2
+Curve to curve, Line: 2488, Word: 1
+Button, Line: 2488, Word: 2
+OK, Line: 2489, Word: 1
+Cancel, Line: 2490, Word: 1
+Point pairs, Line: 2491, Word: 1
+Number of lines, Line: 2492, Word: 1
+t base, Line: 2493, Word: 1
+t top, Line: 2494, Word: 1
+Distance Step, Line: 2495, Word: 1
+Z top, Line: 2496, Word: 1
+Z base, Line: 2497, Word: 1
+Matching, Line: 2498, Word: 1
+SEMI VE FINISH ISLEME DIYALOGU, Line: 2503, Word: 1
+MS Shell Dlg, Line: 2504, Word: 1
+^, Line: 2510, Word: 1
+, Line: 2512, Word: 1
+SysTreeView32, Line: 2512, Word: 2
+Calculate, Line: 2514, Word: 1
+Add Collision Check, Line: 2515, Word: 1
+Entry,Exit,Links..., Line: 2516, Word: 1
+Close, Line: 2518, Word: 1
+STRATEJI, Line: 2519, Word: 1
+Takimyolu Ad:, Line: 2520, Word: 1
+SAYISAL PARAMETRELER, Line: 2521, Word: 1
+SECIMLER--Degistirmek icin cift tikla--, Line: 2522, Word: 1
+Secili Parametre, Line: 2523, Word: 1
+Machining direction, Line: 2524, Word: 1
+Work piece, Line: 2529, Word: 1
+MS Shell Dlg, Line: 2530, Word: 1
+OK, Line: 2532, Word: 1
+Cancel, Line: 2533, Word: 1
+Name, Line: 2536, Word: 1
+Tolerans, Line: 2537, Word: 1
+Stock Definition, Line: 2538, Word: 1
+Button, Line: 2538, Word: 2
+POST SETTINGS, Line: 2543, Word: 1
+MS Shell Dlg, Line: 2544, Word: 1
+..., Line: 2549, Word: 1
+, Line: 2554, Word: 1
+Button, Line: 2554, Word: 2
+Don't print G43H, Line: 2556, Word: 1
+Button, Line: 2556, Word: 2
+Post process options, Line: 2557, Word: 1
+Print line numbers, Line: 2560, Word: 1
+Button, Line: 2560, Word: 2
+Print tool properties as command, Line: 2561, Word: 1
+Button, Line: 2562, Word: 1
+Print operation name as comment, Line: 2563, Word: 1
+Button, Line: 2564, Word: 1
+Use G1 instead of G0, Line: 2565, Word: 1
+Button, Line: 2565, Word: 2
+Print M6 first in tool change, Line: 2566, Word: 1
+Button, Line: 2567, Word: 1
+Don't print M6, Line: 2568, Word: 1
+Button, Line: 2568, Word: 2
+..., Line: 2571, Word: 1
+..., Line: 2574, Word: 1
+Save This Setting, Line: 2575, Word: 1
+OK, Line: 2576, Word: 1
+Close, Line: 2577, Word: 1
+Comment end chars, Line: 2578, Word: 1
+Machine Definition:, Line: 2579, Word: 1
+Header, Line: 2580, Word: 1
+Footer, Line: 2581, Word: 1
+Current Setting, Line: 2582, Word: 1
+Setting Name, Line: 2583, Word: 1
+Comment begin chars, Line: 2584, Word: 1
+Before tool change, Line: 2585, Word: 1
+After tool change, Line: 2586, Word: 1
+G0 Feedrate, Line: 2587, Word: 1
+G code editor, Line: 2588, Word: 1
+Setting properties, Line: 2589, Word: 1
+Z   G43 , Line: 2590, Word: 1
+Lua post script, Line: 2591, Word: 1
+Split operations before angle limits, Line: 2592, Word: 1
+Button, Line: 2593, Word: 1
+G code extension, Line: 2594, Word: 1
+Geometri Secme Diyalogu:, Line: 2599, Word: 1
+MS Shell Dlg, Line: 2600, Word: 1
+OK, Line: 2602, Word: 1
+Cancel, Line: 2603, Word: 1
+Insert, Line: 2605, Word: 1
+Sil, Line: 2607, Word: 1
+GEOMETRI, Line: 2608, Word: 1
+SECIM , Line: 2609, Word: 1
+Roughing time estimation dialog, Line: 2614, Word: 1
+MS Shell Dlg, Line: 2615, Word: 1
+Calculate, Line: 2617, Word: 1
+Close, Line: 2618, Word: 1
+Step down (mm), Line: 2620, Word: 1
+Yatay adim (mm), Line: 2622, Word: 1
+Volume to machine, Line: 2624, Word: 1
+Feedrate  (units/min), Line: 2625, Word: 1
+Sï¿½re Tahmini (dak), Line: 2628, Word: 1
+Time Estimation and Edit Feed Rates Dialog, Line: 2633, Word: 1
+MS Shell Dlg, Line: 2634, Word: 1
+Close, Line: 2636, Word: 1
+Actual Feed Rate, Line: 2649, Word: 1
+Feed Rate to change to, Line: 2650, Word: 1
+Actual time estimation, Line: 2653, Word: 1
+Time estimation with new feeds, Line: 2654, Word: 1
+Update Time Estimation, Line: 2655, Word: 1
+Set new feedrates, Line: 2656, Word: 1
+Rapid Feedrate, Line: 2657, Word: 1
+Roughing parameters, Line: 2663, Word: 1
+MS Shell Dlg, Line: 2664, Word: 1
+Dusey Adim, Line: 2666, Word: 1
+Rampa Tipi, Line: 2668, Word: 1
+Automatic, Line: 2669, Word: 1
+Button, Line: 2669, Word: 2
+Helical, Line: 2670, Word: 1
+Button, Line: 2670, Word: 2
+Zigzag, Line: 2671, Word: 1
+Button, Line: 2671, Word: 2
+Linear, Line: 2672, Word: 1
+Button, Line: 2672, Word: 2
+Profil, Line: 2673, Word: 1
+Button, Line: 2673, Word: 2
+Rampa Acisi (Derece), Line: 2675, Word: 1
+Helical diameter or length for zigzag, Line: 2677, Word: 1
+Start z coordinate, Line: 2679, Word: 1
+Final Z coordinate, Line: 2680, Word: 1
+Z limits from model min max, Line: 2682, Word: 1
+Button, Line: 2683, Word: 1
+Smooth corners., Line: 2684, Word: 1
+Button, Line: 2684, Word: 2
+Smooth links., Line: 2685, Word: 1
+Button, Line: 2685, Word: 2
+Yukari Dogru Genisleme Acisi(derece), Line: 2687, Word: 1
+Rest roughing, Line: 2688, Word: 1
+Rest roughing, Line: 2689, Word: 1
+Button, Line: 2689, Word: 2
+Roughing tool radius, Line: 2691, Word: 1
+Stock to leave, Line: 2693, Word: 1
+Takimyolu Ad:, Line: 2695, Word: 1
+Yatay Adim, Line: 2696, Word: 1
+Roughing tools, Line: 2699, Word: 1
+VVVVV, Line: 2700, Word: 1
+            SELECTED TOOL:, Line: 2702, Word: 1
+Tolerans, Line: 2704, Word: 1
+Links,lead in outs, Line: 2705, Word: 1
+Takimyolu hesaplaninca mw bin dosyasi olarak kayit et., Line: 2706, Word: 1
+Button, Line: 2707, Word: 1
+OK, Line: 2709, Word: 1
+Cancel, Line: 2710, Word: 1
+Remaining material dot count, Line: 2715, Word: 1
+MS Shell Dlg, Line: 2716, Word: 1
+OK, Line: 2718, Word: 1
+Cancel, Line: 2719, Word: 1
+X yonundeadim, Line: 2722, Word: 1
+Y yonunde adim, Line: 2723, Word: 1
+Mill Tools Dialog, Line: 2728, Word: 1
+MS Shell Dlg, Line: 2729, Word: 1
+OK, Line: 2731, Word: 1
+iptal, Line: 2732, Word: 1
+Mill Tools, Line: 2733, Word: 1
+Insert..., Line: 2735, Word: 1
+Edit..., Line: 2736, Word: 1
+ï¿½ikar, Line: 2737, Word: 1
+Takimlari kayit et..., Line: 2738, Word: 1
+Tool Dialog, Line: 2743, Word: 1
+MS Shell Dlg, Line: 2744, Word: 1
+Insert, Line: 2756, Word: 1
+Clear, Line: 2757, Word: 1
+Tool wear, Line: 2761, Word: 1
+Button, Line: 2761, Word: 2
+Draw tool, Line: 2762, Word: 1
+Button, Line: 2762, Word: 2
+Add/Save, Line: 2763, Word: 1
+Close, Line: 2764, Word: 1
+Cutter geometry, Line: 2765, Word: 1
+Name, Line: 2766, Word: 1
+Diameter, Line: 2767, Word: 1
+Tip radius, Line: 2768, Word: 1
+Height, Line: 2769, Word: 1
+Conic angle, Line: 2770, Word: 1
+Extension, Line: 2771, Word: 1
+Upper Diam., Line: 2772, Word: 1
+Lower Diam., Line: 2773, Word: 1
+Feedrate, Line: 2774, Word: 1
+Spindle speed, Line: 2775, Word: 1
+Tool No, Line: 2776, Word: 1
+Type Text, Line: 2777, Word: 1
+Select tool, Line: 2778, Word: 1
+Record to program DB, Line: 2779, Word: 1
+Button, Line: 2780, Word: 1
+Extra parameters, Line: 2781, Word: 1
+Height, Line: 2782, Word: 1
+, Line: 2784, Word: 1
+SysListView32, Line: 2784, Word: 2
+Open set..., Line: 2785, Word: 1
+Save set..., Line: 2786, Word: 1
+Select shape 2D, Line: 2787, Word: 1
+Is only tip radius cutting, Line: 2788, Word: 1
+Button, Line: 2789, Word: 1
+Entry feedrate, Line: 2791, Word: 1
+Exit feedrate, Line: 2792, Word: 1
+Link feedrate, Line: 2794, Word: 1
+Default speeds, Line: 2796, Word: 1
+Tool overall length, Line: 2797, Word: 1
+Tool default operation length, Line: 2800, Word: 1
+Priority, Line: 2801, Word: 1
+Tool wear, Line: 2803, Word: 1
+Select tool holder, Line: 2804, Word: 1
+?, Line: 2806, Word: 1
+Link moves:, Line: 2811, Word: 1
+MS Shell Dlg, Line: 2812, Word: 1
+OK, Line: 2814, Word: 1
+Cancel, Line: 2815, Word: 1
+Program Start:, Line: 2817, Word: 1
+Program End:, Line: 2819, Word: 1
+Short distance, Line: 2823, Word: 1
+UZUN MESAFE, Line: 2824, Word: 1
+Lead in, Line: 2830, Word: 1
+Lead out, Line: 2831, Word: 1
+Link moves in a section, Line: 2832, Word: 1
+Link moves between sections, Line: 2834, Word: 1
+Short distance, Line: 2840, Word: 1
+UZUN MESAFE, Line: 2841, Word: 1
+Lead in, Line: 2842, Word: 1
+Lead out, Line: 2843, Word: 1
+Short-long threshold, Line: 2845, Word: 1
+Short-long threshold, Line: 2847, Word: 1
+%TOOLDIAMETER, Line: 2848, Word: 1
+Button, Line: 2848, Word: 2
+%STEP, Line: 2849, Word: 1
+Button, Line: 2849, Word: 2
+To material, Line: 2850, Word: 1
+Entry, Line: 2851, Word: 1
+From material, Line: 2852, Word: 1
+EXIT, Line: 2853, Word: 1
+Safe z, Line: 2858, Word: 1
+(relative to max z), Line: 2859, Word: 1
+Collision , Line: 2860, Word: 1
+yuksekligi, Line: 2861, Word: 1
+Hizli hareket, Line: 2862, Word: 1
+(G0) height, Line: 2863, Word: 1
+Plunge Feedrate, Line: 2864, Word: 1
+Roughing link moves, Line: 2869, Word: 1
+MS Shell Dlg, Line: 2870, Word: 1
+OK, Line: 2872, Word: 1
+Cancel, Line: 2873, Word: 1
+Safe z coordinate relative to model max.?, Line: 2874, Word: 1
+Height where plunge feedrate is active, Line: 2878, Word: 1
+Rapid (G0) height, Line: 2879, Word: 1
+Rampa giris, Line: 2881, Word: 1
+Button, Line: 2881, Word: 2
+Program baslangici, Line: 2882, Word: 1
+Program Sonu, Line: 2883, Word: 1
+Z seviyelerinin baglantisi, Line: 2885, Word: 1
+Rampa giris, Line: 2887, Word: 1
+Button, Line: 2887, Word: 2
+Link moves on same level(close), Line: 2888, Word: 1
+Rampa giris, Line: 2890, Word: 1
+Button, Line: 2890, Word: 2
+Link moves on same level(far), Line: 2891, Word: 1
+Rampa giris, Line: 2893, Word: 1
+Button, Line: 2893, Word: 2
+Passes links, Line: 2894, Word: 1
+Rampa giris, Line: 2896, Word: 1
+Button, Line: 2896, Word: 2
+Plunge Feedrate, Line: 2897, Word: 1
+TAKIM GIRIS-CIKIS , Line: 2903, Word: 1
+MS Shell Dlg, Line: 2904, Word: 1
+, Line: 2907, Word: 1
+Radyus-Aci, Line: 2908, Word: 1
+Button, Line: 2908, Word: 2
+OK, Line: 2915, Word: 1
+Cancel, Line: 2916, Word: 1
+Tip:, Line: 2917, Word: 1
+Uzunluk-Genislik, Line: 2918, Word: 1
+Button, Line: 2918, Word: 2
+Width, Line: 2919, Word: 1
+Uzunluk, Line: 2920, Word: 1
+Angle, Line: 2921, Word: 1
+R/takimR%, Line: 2922, Word: 1
+Yukseklik, Line: 2923, Word: 1
+Name:, Line: 2924, Word: 1
+General Settings, Line: 2929, Word: 1
+MS Shell Dlg, Line: 2930, Word: 1
+Metric, Line: 2932, Word: 1
+Button, Line: 2932, Word: 2
+Inch, Line: 2933, Word: 1
+Button, Line: 2933, Word: 2
+OK, Line: 2934, Word: 1
+Cancel, Line: 2935, Word: 1
+Units, Line: 2936, Word: 1
+Active contour2d machining template, Line: 2938, Word: 1
+Auto post after every calculation session, Line: 2939, Word: 1
+Button, Line: 2940, Word: 1
+Serialize manufacturing module, Line: 2941, Word: 1
+Button, Line: 2942, Word: 1
+Serialize wire module, Line: 2943, Word: 1
+Button, Line: 2943, Word: 2
+Serialize geo module, Line: 2944, Word: 1
+Button, Line: 2944, Word: 2
+Locale string, Line: 2946, Word: 1
+Numbers locale string, Line: 2947, Word: 1
+Ask for saving on exit, Line: 2949, Word: 1
+Button, Line: 2949, Word: 2
+Maximum item count for online drawing, Line: 2950, Word: 1
+Enable bin pack improver, Line: 2952, Word: 1
+Button, Line: 2953, Word: 1
+Warn for small operations, Line: 2954, Word: 1
+Button, Line: 2954, Word: 2
+Small threshold, Line: 2956, Word: 1
+3 axis form machining times, Line: 2961, Word: 1
+MS Shell Dlg, Line: 2962, Word: 1
+Calculate, Line: 2964, Word: 1
+Close, Line: 2965, Word: 1
+Takim, Line: 2971, Word: 1
+Machining Area, Line: 2972, Word: 1
+Avarage step, Line: 2973, Word: 1
+Avarage feedrate, Line: 2974, Word: 1
+Machining time, Line: 2975, Word: 1
+(mm2), Line: 2976, Word: 1
+(min), Line: 2977, Word: 1
+VVVV, Line: 2979, Word: 1
+^^^^, Line: 2980, Word: 1
+2, Line: 2985, Word: 1
+MS Shell Dlg, Line: 2986, Word: 1
+Calculate, Line: 2988, Word: 1
+Cancel, Line: 2989, Word: 1
+YATAY ISLEME TAKIMLARI SEï¿½..., Line: 2990, Word: 1
+Select Machining Surfaces..., Line: 2991, Word: 1
+TEZGAG SEï¿½..., Line: 2992, Word: 1
+DIK ISLEME TAKIMLARI SEï¿½..., Line: 2993, Word: 1
+SELECT FACE MILLING TOOL, Line: 2994, Word: 1
+, Line: 2995, Word: 1
+Name, Line: 2996, Word: 1
+Point step, Line: 2998, Word: 1
+TAKIMLAR DIYALOGU, Line: 3004, Word: 1
+MS Shell Dlg, Line: 3005, Word: 1
+Tamam, Line: 3007, Word: 1
+Cancel, Line: 3008, Word: 1
+TAKIMLAR, Line: 3009, Word: 1
+SEï¿½IM Kï¿½MESI, Line: 3010, Word: 1
+Seï¿½ime Ekle      >>>>, Line: 3011, Word: 1
+Sil, Line: 3014, Word: 1
+Tï¿½mï¿½nï¿½ Sil, Line: 3015, Word: 1
+Safe plane dialog, Line: 3020, Word: 1
+MS Shell Dlg, Line: 3021, Word: 1
+OK, Line: 3023, Word: 1
+Cancel, Line: 3024, Word: 1
+..., Line: 3028, Word: 1
+Point on safe plane  X - Y - Z, Line: 3029, Word: 1
+Safe plane normal I - J - K , Line: 3033, Word: 1
+..., Line: 3034, Word: 1
+Move to safe plane threshold, Line: 3036, Word: 1
+Su Jeti Operasyon Sayfasï¿½, Line: 3041, Word: 1
+MS Shell Dlg, Line: 3042, Word: 1
+, Line: 3044, Word: 1
+SysListView32, Line: 3044, Word: 2
+Takï¿½m, Line: 3047, Word: 1
+Feedrates, Line: 3049, Word: 1
+Cutting, Line: 3050, Word: 1
+Entry, Line: 3051, Word: 1
+ï¿½ï¿½kï¿½ï¿½, Line: 3052, Word: 1
+Link, Line: 3053, Word: 1
+Tip, Line: 3057, Word: 1
+Yeni Operasyon, Line: 3058, Word: 1
+Start point, Line: 3059, Word: 1
+Seï¿½ileni tekrar hesapla, Line: 3060, Word: 1
+Safe plane, Line: 3061, Word: 1
+Plunge Height, Line: 3065, Word: 1
+Rapid H., Line: 3066, Word: 1
+Edges, Line: 3067, Word: 1
+Start, Line: 3072, Word: 1
+Son, Line: 3073, Word: 1
+Tanjant ile aï¿½ï¿½, Line: 3074, Word: 1
+Angle on plane, Line: 3075, Word: 1
+Tekrar Kaydet, Line: 3076, Word: 1
+Normali ï¿½evir, Line: 3077, Word: 1
+Paylar, Line: 3078, Word: 1
+Axial, Line: 3079, Word: 1
+Radyal, Line: 3082, Word: 1
+Reverse motion, Line: 3083, Word: 1
+Point step, Line: 3085, Word: 1
+Area Cleaning Parameters, Line: 3090, Word: 1
+MS Shell Dlg, Line: 3091, Word: 1
+Rise up to safe z while linking ofsets, Line: 3095, Word: 1
+Button, Line: 3096, Word: 1
+OK, Line: 3097, Word: 1
+Cancel, Line: 3098, Word: 1
+Stepover, Line: 3099, Word: 1
+Offset count, Line: 3100, Word: 1
+Clean By Offset, Line: 3101, Word: 1
+Button, Line: 3101, Word: 2
+Clean By Raster, Line: 3102, Word: 1
+Button, Line: 3102, Word: 2
+Raster Angle, Line: 3104, Word: 1
+Raster Type, Line: 3105, Word: 1
+Line, Line: 3106, Word: 1
+Button, Line: 3106, Word: 2
+Arc (bulge), Line: 3107, Word: 1
+Button, Line: 3107, Word: 2
+Concentric arcs, Line: 3108, Word: 1
+Button, Line: 3109, Word: 1
+Arc bulge, Line: 3110, Word: 1
+Concentric arc center, Line: 3113, Word: 1
+..., Line: 3114, Word: 1
+Tool Motion, Line: 3119, Word: 1
+MS Shell Dlg, Line: 3120, Word: 1
+Exit, Line: 3122, Word: 1
+|>, Line: 3124, Word: 1
+<|, Line: 3125, Word: 1
+^, Line: 3126, Word: 1
+V, Line: 3127, Word: 1
+O >, Line: 3128, Word: 1
+All toolpath, Line: 3129, Word: 1
+Button, Line: 3129, Word: 2
+Passes, Line: 3130, Word: 1
+Button, Line: 3130, Word: 2
+Slices, Line: 3131, Word: 1
+Button, Line: 3131, Word: 2
+Sections, Line: 3132, Word: 1
+Button, Line: 3132, Word: 2
+Prev., Line: 3134, Word: 1
+Next, Line: 3135, Word: 1
+, Line: 3136, Word: 1
+msctls_trackbar32, Line: 3136, Word: 2
+Tool Axis Control Dialog, Line: 3141, Word: 1
+MS Shell Dlg, Line: 3142, Word: 1
+OK, Line: 3144, Word: 1
+Cancel, Line: 3145, Word: 1
+Tool degree of freedom, Line: 3146, Word: 1
+Axis control type, Line: 3148, Word: 1
+4 Ax - Rotary Axis (i,j,k), Line: 3150, Word: 1
+Project start dialog:, Line: 3158, Word: 1
+MS Shell Dlg, Line: 3159, Word: 1
+OK, Line: 3161, Word: 1
+Cancel, Line: 3162, Word: 1
+Project Name:, Line: 3164, Word: 1
+Save directory:, Line: 3165, Word: 1
+Dialog, Line: 3171, Word: 1
+MS Shell Dlg, Line: 3172, Word: 1
+OK, Line: 3174, Word: 1
+Cancel, Line: 3175, Word: 1
+..., Line: 3177, Word: 1
+Post Process Options Dialog, Line: 3182, Word: 1
+MS Shell Dlg, Line: 3183, Word: 1
+Write arcs as line segments (No G02-G03 codes), Line: 3185, Word: 1
+Button, Line: 3186, Word: 1
+Decrease feedrate for arcs whose radius is small, Line: 3187, Word: 1
+Button, Line: 3188, Word: 1
+OK, Line: 3191, Word: 1
+Cancel, Line: 3192, Word: 1
+Small radius threshold, Line: 3193, Word: 1
+Feedrate decrease percentage, Line: 3194, Word: 1
+Max distance between positions, Line: 3195, Word: 1
+Button, Line: 3196, Word: 1
+Post 4Ax Head, Line: 3202, Word: 1
+MS Shell Dlg, Line: 3203, Word: 1
+OK, Line: 3205, Word: 1
+Cancel, Line: 3206, Word: 1
+Takï¿½m ucundan dï¿½nme merkezine mesafe, Line: 3208, Word: 1
+Rotary axis name (A-B-C), Line: 3210, Word: 1
+Machine origin relative to CAD origin, Line: 3211, Word: 1
+X, Line: 3215, Word: 1
+Y, Line: 3216, Word: 1
+Z, Line: 3217, Word: 1
+Safei Z, Line: 3219, Word: 1
+Dialog, Line: 3224, Word: 1
+MS Shell Dlg, Line: 3225, Word: 1
+OK, Line: 3227, Word: 1
+Cancel, Line: 3228, Word: 1
+, Line: 3229, Word: 1
+Static, Line: 3229, Word: 2
+NC Toolpaths, Line: 3234, Word: 1
+MS Shell Dlg, Line: 3235, Word: 1
+Close, Line: 3237, Word: 1
+Read NC File, Line: 3240, Word: 1
+Reset Tool For Selected NC, Line: 3241, Word: 1
+Simulate Selected NC, Line: 3242, Word: 1
+Show Selected, Line: 3243, Word: 1
+HideSelected, Line: 3244, Word: 1
+Calculate Lift , Line: 3245, Word: 1
+Draw Lift Lines, Line: 3246, Word: 1
+Button, Line: 3246, Word: 2
+Remake zmap with visible geo, Line: 3247, Word: 1
+Sampling Length, Line: 3249, Word: 1
+Nctoolpath  Info+ZMap info, Line: 3250, Word: 1
+Export, Line: 3251, Word: 1
+Lua path, Line: 3253, Word: 1
+Key words for parsing (seperate by ;), Line: 3255, Word: 1
+State value pairs (seperate by ; First value will be the default for the state), Line: 3256, Word: 1
+Coordinates, Line: 3259, Word: 1
+Multi Plates Post Process Dialog, Line: 3264, Word: 1
+MS Shell Dlg, Line: 3265, Word: 1
+Add selected, Line: 3269, Word: 1
+Add all, Line: 3270, Word: 1
+Delete selected, Line: 3271, Word: 1
+Delete all, Line: 3272, Word: 1
+..., Line: 3274, Word: 1
+Prepare report, Line: 3275, Word: 1
+Button, Line: 3275, Word: 2
+Write, Line: 3276, Word: 1
+All Plates, Line: 3277, Word: 1
+Plates to post, Line: 3278, Word: 1
+Report Attributes, Line: 3279, Word: 1
+>, Line: 3282, Word: 1
+Clear, Line: 3283, Word: 1
+All types, Line: 3284, Word: 1
+Types to write, Line: 3285, Word: 1
+Add extra cuts, Line: 3288, Word: 1
+Work piece selection, Line: 3293, Word: 1
+MS Shell Dlg, Line: 3294, Word: 1
+OK, Line: 3296, Word: 1
+Cancel, Line: 3297, Word: 1
+Select part to machine:, Line: 3299, Word: 1
+Machine Simulation, Line: 3304, Word: 1
+MS Shell Dlg, Line: 3305, Word: 1
+Dialog, Line: 3311, Word: 1
+MS Shell Dlg, Line: 3312, Word: 1
+OK, Line: 3314, Word: 1
+Cancel, Line: 3315, Word: 1
+Machining curve, Line: 3320, Word: 1
+MS Shell Dlg, Line: 3321, Word: 1
+Containment Curve, Line: 3326, Word: 1
+Button, Line: 3326, Word: 2
+Drilling Line, Line: 3327, Word: 1
+Button, Line: 3327, Word: 2
+Projection Curve, Line: 3328, Word: 1
+Button, Line: 3328, Word: 2
+OK, Line: 3329, Word: 1
+Cancel, Line: 3330, Word: 1
+Name, Line: 3331, Word: 1
+Tol, Line: 3332, Word: 1
+Join tolerance, Line: 3333, Word: 1
+Type, Line: 3334, Word: 1
+Dialog, Line: 3339, Word: 1
+MS Shell Dlg, Line: 3340, Word: 1
+, Line: 3342, Word: 1
+SysListView32, Line: 3342, Word: 2
+ï¿½izgileri ekle, Line: 3343, Word: 1
+Number of fine points, Line: 3345, Word: 1
+Leads Dialog, Line: 3350, Word: 1
+MS Shell Dlg, Line: 3351, Word: 1
+OK, Line: 3353, Word: 1
+Cancel, Line: 3354, Word: 1
+Add..., Line: 3356, Word: 1
+Delete, Line: 3357, Word: 1
+Save..., Line: 3358, Word: 1
+Make Drilling Lines Dialog, Line: 3363, Word: 1
+MS Shell Dlg, Line: 3364, Word: 1
+OK, Line: 3366, Word: 1
+Cancel, Line: 3367, Word: 1
+Hole Diameter, Line: 3368, Word: 1
+Machining Direction, Line: 3370, Word: 1
+i, Line: 3371, Word: 1
+j, Line: 3372, Word: 1
+k, Line: 3373, Word: 1
+Hole Depth, Line: 3377, Word: 1
+Drilling Dialog, Line: 3384, Word: 1
+MS Shell Dlg, Line: 3385, Word: 1
+, Line: 3387, Word: 1
+SysListView32, Line: 3387, Word: 2
+New Operation, Line: 3388, Word: 1
+Recalculate Selected, Line: 3389, Word: 1
+Reverse Axes, Line: 3390, Word: 1
+Sorting start point, Line: 3396, Word: 1
+Use circle's height, Line: 3397, Word: 1
+Button, Line: 3397, Word: 2
+Plunge, Line: 3401, Word: 1
+Button, Line: 3401, Word: 2
+Rapid, Line: 3402, Word: 1
+Button, Line: 3402, Word: 2
+Safe Z, Line: 3403, Word: 1
+Button, Line: 3403, Word: 2
+Close, Line: 3409, Word: 1
+Tools, Line: 3410, Word: 1
+Peck Depth, Line: 3411, Word: 1
+Plunge H., Line: 3412, Word: 1
+Rapid H., Line: 3413, Word: 1
+Safe Z, Line: 3414, Word: 1
+Pecking rise height, Line: 3415, Word: 1
+Feedrates, Line: 3416, Word: 1
+Cutting, Line: 3417, Word: 1
+Plunge, Line: 3418, Word: 1
+Riseup, Line: 3419, Word: 1
+Link, Line: 3420, Word: 1
+Spindle, Line: 3421, Word: 1
+Type Str, Line: 3422, Word: 1
+0 value is used for rapid moves.(G00), Line: 3423, Word: 1
+Tool Height, Line: 3425, Word: 1
+Template, Line: 3427, Word: 1
+Delete Selected X, Line: 3428, Word: 1
+Start H., Line: 3429, Word: 1
+Depth, Line: 3430, Word: 1
+Drill List Dialog, Line: 3435, Word: 1
+MS Shell Dlg, Line: 3436, Word: 1
+Calculate, Line: 3438, Word: 1
+Close, Line: 3439, Word: 1
+, Line: 3440, Word: 1
+SysListView32, Line: 3440, Word: 2
+Machining Direction, Line: 3441, Word: 1
+I, Line: 3445, Word: 1
+J, Line: 3446, Word: 1
+K, Line: 3447, Word: 1
+..., Line: 3448, Word: 1
+Tools, Line: 3449, Word: 1
+^, Line: 3451, Word: 1
+Depth, Line: 3452, Word: 1
+Button3, Line: 3453, Word: 1
+Add Arcs, Line: 3454, Word: 1
+Pecking, Line: 3456, Word: 1
+Button, Line: 3456, Word: 2
+Peck Depth, Line: 3458, Word: 1
+..., Line: 3462, Word: 1
+X, Line: 3463, Word: 1
+Y, Line: 3464, Word: 1
+Z, Line: 3465, Word: 1
+Start Point, Line: 3466, Word: 1
+Plunge H., Line: 3468, Word: 1
+Rapid H., Line: 3469, Word: 1
+Safe Z, Line: 3472, Word: 1
+Plunge, Line: 3473, Word: 1
+Button, Line: 3473, Word: 2
+Rapid, Line: 3474, Word: 1
+Button, Line: 3474, Word: 2
+Safe Z, Line: 3475, Word: 1
+Button, Line: 3475, Word: 2
+Compact Cut Result Dialog, Line: 3480, Word: 1
+MS Shell Dlg, Line: 3481, Word: 1
+Next, Line: 3486, Word: 1
+Post Process, Line: 3487, Word: 1
+Post Process All, Line: 3488, Word: 1
+Simulate Selected , Line: 3491, Word: 1
+Draw Plate, Line: 3494, Word: 1
+Button, Line: 3494, Word: 2
+Draw Part Outlines, Line: 3495, Word: 1
+Button, Line: 3495, Word: 2
+>, Line: 3497, Word: 1
+Clear, Line: 3498, Word: 1
+Close, Line: 3499, Word: 1
+Post process type, Line: 3500, Word: 1
+All types, Line: 3501, Word: 1
+Types to write, Line: 3502, Word: 1
+Compact Cut Dialog, Line: 3507, Word: 1
+MS Shell Dlg, Line: 3508, Word: 1
+Lower left corner, Line: 3512, Word: 1
+Button, Line: 3512, Word: 2
+Center, Line: 3513, Word: 1
+Button, Line: 3513, Word: 2
+, Line: 3514, Word: 1
+SysListView32, Line: 3514, Word: 2
+Set selected part, Line: 3515, Word: 1
+X    Delete Selected, Line: 3516, Word: 1
+Match..., Line: 3517, Word: 1
+Auto fill, Line: 3518, Word: 1
+Can I rotate, Line: 3522, Word: 1
+Button, Line: 3522, Word: 2
+, Line: 3523, Word: 1
+SysListView32, Line: 3523, Word: 2
+Advanced..., Line: 3524, Word: 1
+Results..., Line: 3525, Word: 1
+Calculate, Line: 3526, Word: 1
+Cancel, Line: 3527, Word: 1
+Plate to cut, Line: 3528, Word: 1
+X Length, Line: 3529, Word: 1
+Y Length, Line: 3530, Word: 1
+Machining origin, Line: 3531, Word: 1
+Clearence, Line: 3532, Word: 1
+Parts to cut, Line: 3533, Word: 1
+Name, Line: 3534, Word: 1
+Count, Line: 3535, Word: 1
+Plate numbers, Line: 3537, Word: 1
+As needed, Line: 3538, Word: 1
+Button, Line: 3538, Word: 2
+Limited, Line: 3539, Word: 1
+Button, Line: 3539, Word: 2
+Select name text, Line: 3541, Word: 1
+Select count text, Line: 3542, Word: 1
+Flip all rot, Line: 3543, Word: 1
+List to excel, Line: 3544, Word: 1
+X Y Clearences, Line: 3545, Word: 1
+Collision Check, Line: 3552, Word: 1
+MS Shell Dlg, Line: 3553, Word: 1
+OK, Line: 3555, Word: 1
+Cancel, Line: 3556, Word: 1
+, Line: 3557, Word: 1
+SysListView32, Line: 3557, Word: 2
+Geometry:, Line: 3558, Word: 1
+Action, Line: 3559, Word: 1
+Secimler-Degistirmek icin cift tiklayin-, Line: 3562, Word: 1
+Sayisal Parametreler:, Line: 3564, Word: 1
+^, Line: 3566, Word: 1
+Value=, Line: 3567, Word: 1
+Name:, Line: 3569, Word: 1
+Dialog, Line: 3574, Word: 1
+MS Shell Dlg, Line: 3575, Word: 1
+Bin Packing Parameters Dialog, Line: 3581, Word: 1
+MS Shell Dlg, Line: 3582, Word: 1
+firstBoxesHrt, Line: 3584, Word: 1
+Button, Line: 3584, Word: 2
+isCloseHrt, Line: 3586, Word: 1
+Button, Line: 3586, Word: 2
+rightAndTopBoxHrt, Line: 3589, Word: 1
+Button, Line: 3589, Word: 2
+Big parts first, Line: 3590, Word: 1
+Button, Line: 3590, Word: 2
+firstLeftHrt, Line: 3594, Word: 1
+Button, Line: 3594, Word: 2
+Add Parameter Set, Line: 3595, Word: 1
+, Line: 3596, Word: 1
+SysListView32, Line: 3596, Word: 2
+Activate All, Line: 3597, Word: 1
+Deactivate All, Line: 3598, Word: 1
+Delete, Line: 3599, Word: 1
+OK, Line: 3600, Word: 1
+Cancel, Line: 3601, Word: 1
+firstBoxesHrt_Coef, Line: 3602, Word: 1
+item_epsilon_Coef, Line: 3603, Word: 1
+item_epsilon_StartingRatio, Line: 3604, Word: 1
+box_epsilon_Coef , Line: 3605, Word: 1
+box_epsilon_StartingRatio, Line: 3606, Word: 1
+Parameter Sets, Line: 3607, Word: 1
+Parameters, Line: 3608, Word: 1
+One D epsilon coef X-Y , Line: 3611, Word: 1
+Max combinations, Line: 3613, Word: 1
+Multi plates step, Line: 3614, Word: 1
+Max combinations item count, Line: 3617, Word: 1
+Animate 2.5, Line: 3622, Word: 1
+MS Shell Dlg, Line: 3623, Word: 1
+OK, Line: 3625, Word: 1
+Cancel, Line: 3626, Word: 1
+>>, Line: 3628, Word: 1
+<<, Line: 3629, Word: 1
+Draw All, Line: 3630, Word: 1
+Hide All, Line: 3631, Word: 1
+--------Operations-------, Line: 3636, Word: 1
+MS Shell Dlg, Line: 3637, Word: 1
+OK, Line: 3639, Word: 1
+Cancel, Line: 3640, Word: 1
+Edit, Line: 3641, Word: 1
+Save, Line: 3642, Word: 1
+..., Line: 3644, Word: 1
+Read..., Line: 3645, Word: 1
+, Line: 3646, Word: 1
+SysListView32, Line: 3646, Word: 2
+Contour2D Dialog, Line: 3651, Word: 1
+MS Shell Dlg, Line: 3652, Word: 1
+, Line: 3654, Word: 1
+SysListView32, Line: 3654, Word: 2
+Geometry selection, Line: 3655, Word: 1
+Recalculate Selected, Line: 3656, Word: 1
+Sorting Start Point, Line: 3657, Word: 1
+Avoid curves, Line: 3658, Word: 1
+Area Cleaning, Line: 3666, Word: 1
+Button, Line: 3666, Word: 2
+Tool wear, Line: 3667, Word: 1
+Button, Line: 3667, Word: 2
+Zigzag, Line: 3668, Word: 1
+Button, Line: 3668, Word: 2
+Record, Line: 3669, Word: 1
+Stepdown, Line: 3675, Word: 1
+Tool, Line: 3676, Word: 1
+Stock to leave, Line: 3677, Word: 1
+Machining Side, Line: 3678, Word: 1
+Safe Z, Line: 3679, Word: 1
+Feedrates - 0 value is used for rapid moves (G00), Line: 3680, Word: 1
+Cutting, Line: 3681, Word: 1
+Entry, Line: 3682, Word: 1
+Exit, Line: 3683, Word: 1
+Link, Line: 3684, Word: 1
+Spindle Speed, Line: 3685, Word: 1
+Type, Line: 3686, Word: 1
+Entry, Line: 3687, Word: 1
+Exit, Line: 3688, Word: 1
+Operation Templates, Line: 3690, Word: 1
+Plunge H, Line: 3692, Word: 1
+Start , End trim distances:, Line: 3693, Word: 1
+Z Min, Line: 3696, Word: 1
+Z Max, Line: 3697, Word: 1
+Tool Length, Line: 3698, Word: 1
+Blade, Line: 3700, Word: 1
+Button, Line: 3700, Word: 2
+Manage templates, Line: 3701, Word: 1
+Drop to faces, Line: 3702, Word: 1
+Climb, Line: 3703, Word: 1
+Button, Line: 3703, Word: 2
+Taper angle, Line: 3704, Word: 1
+Tool axis, Line: 3706, Word: 1
+Break contours at sharp corners, Line: 3707, Word: 1
+Button, Line: 3708, Word: 1
+Sharp offset, Line: 3709, Word: 1
+Button, Line: 3709, Word: 2
+Make loop CCW, Line: 3710, Word: 1
+Button, Line: 3710, Word: 2
+Tool rotate CCW, Line: 3711, Word: 1
+Button, Line: 3711, Word: 2
+Extra parameters, Line: 3712, Word: 1
+Break contours at sharp corners united, Line: 3714, Word: 1
+Button, Line: 3715, Word: 1
+Sharp angle threshold, Line: 3717, Word: 1
+Contour link type, Line: 3719, Word: 1
+iletisim diyalogu, Line: 3724, Word: 1
+Microsoft Sans Serif, Line: 3725, Word: 1
+OK, Line: 3728, Word: 1
+STOP, Line: 3729, Word: 1
+Cnc Milling Machine Tools Dialog, Line: 3734, Word: 1
+MS Shell Dlg, Line: 3735, Word: 1
+, Line: 3738, Word: 1
+{6262D3A0-531B-11CF-91F6-C2863C385E30}, Line: 3739, Word: 1
+Add CNC machine tool, Line: 3740, Word: 1
+Edit, Line: 3741, Word: 1
+Sil, Line: 3742, Word: 1
+Parï¿½aya Cnc Tezgah Seï¿½, Line: 3743, Word: 1
+OK, Line: 3744, Word: 1
+Cancel, Line: 3745, Word: 1
+CNC Milling Machine Dialog, Line: 3750, Word: 1
+MS Shell Dlg, Line: 3751, Word: 1
+ï¿½ok iyi, Line: 3759, Word: 1
+Button, Line: 3759, Word: 2
+Good, Line: 3760, Word: 1
+Button, Line: 3760, Word: 2
+Mid, Line: 3761, Word: 1
+Button, Line: 3761, Word: 2
+Bad, Line: 3762, Word: 1
+Button, Line: 3762, Word: 2
+OK, Line: 3763, Word: 1
+Cancel, Line: 3764, Word: 1
+Name, Line: 3765, Word: 1
+X max (mm), Line: 3766, Word: 1
+Y max (mm), Line: 3767, Word: 1
+Z max (mm), Line: 3768, Word: 1
+Max revolution(round/min), Line: 3769, Word: 1
+Tonaj (kg), Line: 3770, Word: 1
+Machining precision, Line: 3771, Word: 1
+Supports, Line: 3776, Word: 1
+MS Shell Dlg, Line: 3777, Word: 1
+OK, Line: 3779, Word: 1
+Insert..., Line: 3781, Word: 1
+X      Sil, Line: 3782, Word: 1
+Support Diameter, Line: 3784, Word: 1
+Tool wear dialog, Line: 3789, Word: 1
+MS Shell Dlg, Line: 3790, Word: 1
+OK, Line: 3792, Word: 1
+Cancel, Line: 3793, Word: 1
+Tool wear model, Line: 3794, Word: 1
+Constant linear decrease by cutting length, Line: 3795, Word: 1
+Button, Line: 3796, Word: 1
+Decrease proportional to cutter diameter by cutting length, Line: 3797, Word: 1
+Button, Line: 3798, Word: 1
+Tool wear in1000 mm, Line: 3800, Word: 1
+Reference Diameter, Line: 3802, Word: 1
+Arc fit, Line: 3803, Word: 1
+Button, Line: 3803, Word: 2
+Actual Diameter, Line: 3804, Word: 1
+Extra operation parameters, Line: 3810, Word: 1
+MS Shell Dlg, Line: 3811, Word: 1
+OK, Line: 3813, Word: 1
+Cancel, Line: 3814, Word: 1
+, Line: 3815, Word: 1
+SysListView32, Line: 3815, Word: 2
+Button1, Line: 3816, Word: 1
+Button2, Line: 3817, Word: 1
+, Line: 3820, Word: 1
+SysDateTimePick32, Line: 3820, Word: 2
+MS Shell Dlg, Line: 3825, Word: 1
+Radio1, Line: 3827, Word: 1
+Button, Line: 3827, Word: 2
+Radio2, Line: 3828, Word: 1
+Button, Line: 3828, Word: 2
+Radio3, Line: 3829, Word: 1
+Button, Line: 3829, Word: 2
+Dialog, Line: 3834, Word: 1
+MS Shell Dlg, Line: 3835, Word: 1
+OK, Line: 3837, Word: 1
+Cancel, Line: 3838, Word: 1
+, Line: 3841, Word: 1
+SysDateTimePick32, Line: 3841, Word: 2
+, Line: 3842, Word: 1
+SysListView32, Line: 3842, Word: 2
+AluKes Geo Dialog, Line: 3847, Word: 1
+MS Shell Dlg, Line: 3848, Word: 1
+OK, Line: 3850, Word: 1
+Cancel, Line: 3851, Word: 1
+, Line: 3852, Word: 1
+SysListView32, Line: 3852, Word: 2
+Button1, Line: 3853, Word: 1
+Button2, Line: 3854, Word: 1
+AluKes Position Clamps Constraint, Line: 3859, Word: 1
+MS Shell Dlg, Line: 3860, Word: 1
+OK, Line: 3862, Word: 1
+Cancel, Line: 3863, Word: 1
+Inputs, Line: 3865, Word: 1
+All Operations, Line: 3866, Word: 1
+Clamp Positions, Line: 3867, Word: 1
+Move clamps to position, Line: 3869, Word: 1
+Print Constraint, Line: 3870, Word: 1
+Calculation Result, Line: 3871, Word: 1
+Possible Operations, Line: 3873, Word: 1
+Impossible Operations, Line: 3874, Word: 1
+>>, Line: 3877, Word: 1
+Machining Templates Dialog, Line: 3882, Word: 1
+MS Shell Dlg, Line: 3883, Word: 1
+OK, Line: 3885, Word: 1
+Cancel, Line: 3886, Word: 1
+, Line: 3887, Word: 1
+SysListView32, Line: 3887, Word: 2
+Load checked templates to dialog, Line: 3888, Word: 1
+If more than one template is checked only common parameters will be loaded., Line: 3889, Word: 1
+Micro pattern-5 axis laser texturing, Line: 3894, Word: 1
+MS Shell Dlg, Line: 3895, Word: 1
+OK, Line: 3897, Word: 1
+Cancel, Line: 3898, Word: 1
+Planar deviation tolerance, Line: 3900, Word: 1
+Laser focal distance, Line: 3902, Word: 1
+Max rectangle length, Line: 3904, Word: 1
+, Line: 3905, Word: 1
+SysListView32, Line: 3905, Word: 2
+Yï¿½zeyleri seï¿½, Line: 3906, Word: 1
+Enlarge rectangle by, Line: 3908, Word: 1
+Bmp record path, Line: 3910, Word: 1
+Bmp pixels dot per mm, Line: 3912, Word: 1
+Quad information:, Line: 3915, Word: 1
+>, Line: 3916, Word: 1
+Contour entry & exit parameters, Line: 3921, Word: 1
+MS Shell Dlg, Line: 3922, Word: 1
+OK, Line: 3924, Word: 1
+Cancel, Line: 3925, Word: 1
+Line length, Line: 3928, Word: 1
+Circle radius, Line: 3929, Word: 1
+Circle end angle, Line: 3931, Word: 1
+Line angle, Line: 3932, Word: 1
+Elevation per length (for ramping.  0 means no ramp), Line: 3935, Word: 1
+0 degrees make a tangent line to contour.90 and -90 make vertical lines on two sides., Line: 3936, Word: 1
+Automated Contour Cutting Parameters, Line: 3942, Word: 1
+MS Shell Dlg, Line: 3943, Word: 1
+OK, Line: 3945, Word: 1
+Cancel, Line: 3946, Word: 1
+Cutting operation template, Line: 3948, Word: 1
+Tool name, Line: 3949, Word: 1
+Start extension(1,2), Line: 3952, Word: 1
+End extension(1,2), Line: 3953, Word: 1
+Do anyshape nesting calculation, Line: 3955, Word: 1
+Button, Line: 3956, Word: 1
+Stock width, Line: 3959, Word: 1
+Stock height, Line: 3960, Word: 1
+Stock Trim Margin, Line: 3962, Word: 1
+Allow mirroring parts, Line: 3964, Word: 1
+Button, Line: 3964, Word: 2
+Rotation Step, Line: 3965, Word: 1
+Add tree link for sub-contours, Line: 3966, Word: 1
+Button, Line: 3967, Word: 1
+Tolerance to digitise arcs for anyshape, Line: 3969, Word: 1
+, Line: 3970, Word: 1
+SysListView32, Line: 3970, Word: 2
+, Line: 3971, Word: 1
+SysListView32, Line: 3971, Word: 2
+Stocks, Line: 3972, Word: 1
+Parts, Line: 3973, Word: 1
+Select Part Out, Line: 3974, Word: 1
+Add rectangle stock, Line: 3975, Word: 1
+Select Curves , Make Stock, Line: 3976, Word: 1
+Nesting, Line: 3977, Word: 1
+Delete Checked Parts, Line: 3978, Word: 1
+Delete Checked Stocks, Line: 3979, Word: 1
+Part Name, Line: 3981, Word: 1
+Active Solution Space, Line: 3983, Word: 1
+>, Line: 3984, Word: 1
+>, Line: 3985, Word: 1
+>, Line: 3986, Word: 1
+Priority, Line: 3988, Word: 1
+>, Line: 3989, Word: 1
+Sort By Name, Line: 3990, Word: 1
+Sort By Area, Line: 3991, Word: 1
+Reverse Order, Line: 3992, Word: 1
+Number to add, Line: 3994, Word: 1
+Priority, Line: 3996, Word: 1
+>, Line: 3997, Word: 1
+New Solution Space, Line: 3998, Word: 1
+Clear NCPostBox, Line: 3999, Word: 1
+Button, Line: 3999, Word: 2
+Send checked to NCPostBox, Line: 4000, Word: 1
+, Line: 4001, Word: 1
+SysListView32, Line: 4001, Word: 2
+, Line: 4002, Word: 1
+SysListView32, Line: 4002, Word: 2
+Utilized Parts, Line: 4003, Word: 1
+Utilized Stock, Line: 4004, Word: 1
+Transform Checked, Line: 4005, Word: 1
+Add original (No nesting), Line: 4006, Word: 1
+Sort by selection time, Line: 4008, Word: 1
+Concave, Line: 4011, Word: 1
+..., Line: 4013, Word: 1
+Triangle Import Export Options, Line: 4018, Word: 1
+MS Shell Dlg, Line: 4019, Word: 1
+OK, Line: 4021, Word: 1
+Cancel, Line: 4022, Word: 1
+Reading, Line: 4023, Word: 1
+Writing, Line: 4024, Word: 1
+Export Binary STL, Line: 4025, Word: 1
+Button, Line: 4025, Word: 2
+Export to text file, Line: 4026, Word: 1
+Button, Line: 4026, Word: 2
+Sharp angle threshold in degrees, Line: 4028, Word: 1
+Add sharp edges to graphic as wireframe, Line: 4029, Word: 1
+Button, Line: 4030, Word: 1
+Transformation, Line: 4035, Word: 1
+MS Shell Dlg, Line: 4036, Word: 1
+OK, Line: 4038, Word: 1
+Cancel, Line: 4039, Word: 1
+Angle, Line: 4040, Word: 1
+Rotate, Line: 4042, Word: 1
+Dialog, Line: 4047, Word: 1
+MS Shell Dlg, Line: 4048, Word: 1
+Mold surface, Line: 4050, Word: 1
+Pulun Deï¿½iï¿½ken ï¿½apï¿½, Line: 4051, Word: 1
+Insert, Line: 4052, Word: 1
+Yeniden Hesapla, Line: 4053, Word: 1
+Temizle, Line: 4054, Word: 1
+End, Line: 4055, Word: 1
+Set, Line: 4067, Word: 1
+Sil, Line: 4068, Word: 1
+Insert, Line: 4069, Word: 1
+, Line: 4070, Word: 1
+SysTreeView32, Line: 4070, Word: 2
+Takï¿½mYolu ï¿½ret, Line: 4071, Word: 1
+Yay Aralï¿½klarï¿½(ï¿½st, Alt), Line: 4072, Word: 1
+ï¿½iï¿½iklik (Gidiï¿½, Dï¿½nï¿½ï¿½), Line: 4073, Word: 1
+Limit Angle, Line: 4074, Word: 1
+Takï¿½m ï¿½smi : , Line: 4075, Word: 1
+Yay Parametreleri, Line: 4076, Word: 1
+General Spline parameters, Line: 4077, Word: 1
+Min. Adï¿½m, Line: 4078, Word: 1
+ï¿½iï¿½iklik, Line: 4079, Word: 1
+Initial value, Line: 4080, Word: 1
+Final value, Line: 4081, Word: 1
+Takï¿½mYolu dï¿½nï¿½ï¿½, Line: 4082, Word: 1
+Takï¿½mYolu dï¿½nï¿½ï¿½, Line: 4083, Word: 1
+Return Offset, Line: 4087, Word: 1
+Pulcuk Seï¿½, Line: 4088, Word: 1
+, Line: 4089, Word: 1
+SysTreeView32, Line: 4089, Word: 2
+Yukarï¿½, Line: 4090, Word: 1
+Button, Line: 4090, Word: 2
+ï¿½stï¿½nden, Line: 4091, Word: 1
+Button, Line: 4091, Word: 2
+Entry, Line: 4092, Word: 1
+ï¿½ï¿½kï¿½ï¿½, Line: 4093, Word: 1
+Tables Dialog, Line: 4098, Word: 1
+MS Shell Dlg, Line: 4099, Word: 1
+Tables, Line: 4102, Word: 1
+, Line: 4103, Word: 1
+SysListView32, Line: 4103, Word: 2
+New row, Line: 4104, Word: 1
+Save table, Line: 4105, Word: 1
+Add row to >, Line: 4106, Word: 1
+, Line: 4107, Word: 1
+SysListView32, Line: 4107, Word: 2
+Record To >, Line: 4108, Word: 1
+, Line: 4109, Word: 1
+SysListView32, Line: 4109, Word: 2
+Parameters, Line: 4110, Word: 1
+Entities, Line: 4111, Word: 1
+Read CSV, Line: 4112, Word: 1
+Delete Row(s), Line: 4113, Word: 1
+Select Script File, Line: 4115, Word: 1
+Run script, Line: 4116, Word: 1
+Clear parameters, Line: 4117, Word: 1
+OK, Line: 4118, Word: 1
+?, Line: 4119, Word: 1
+MS Shell Dlg, Line: 4124, Word: 1
+ok, Line: 4126, Word: 1
+x, Line: 4127, Word: 1
+?, Line: 4129, Word: 1
+Dialog, Line: 4134, Word: 1
+MS Shell Dlg, Line: 4135, Word: 1
+Takï¿½m Yï¿½zeyi Seï¿½, Line: 4137, Word: 1
+Cancel, Line: 4138, Word: 1
+Calculate, Line: 4139, Word: 1
+Curve Seï¿½, Line: 4140, Word: 1
+Turn Tool, Line: 4145, Word: 1
+MS Shell Dlg, Line: 4146, Word: 1
+OK, Line: 4148, Word: 1
+Cancel, Line: 4149, Word: 1
+Select Tool, Line: 4150, Word: 1
+..., Line: 4151, Word: 1
+X, Line: 4155, Word: 1
+Y, Line: 4156, Word: 1
+Z, Line: 4157, Word: 1
+Contour Start Point Dialog, Line: 4162, Word: 1
+MS Shell Dlg, Line: 4163, Word: 1
+OK, Line: 4165, Word: 1
+Cancel, Line: 4166, Word: 1
+Line Direction Angle, Line: 4167, Word: 1
+Use dialog sorting start point, Line: 4169, Word: 1
+Button, Line: 4170, Word: 1
+Start from imaginary line intersection point. Line first point: Closed loop center, Line: 4171, Word: 1
+Button, Line: 4172, Word: 1
+Nearest point on contour to selected geometries, Line: 4173, Word: 1
+Button, Line: 4174, Word: 1
+Curve start point, Line: 4175, Word: 1
+Button, Line: 4175, Word: 2
+Tangent angle, Line: 4176, Word: 1
+Button, Line: 4176, Word: 2
+Dialog sorting start point, Line: 4178, Word: 1
+..., Line: 4179, Word: 1
+..., Line: 4180, Word: 1
+Result point on source contour, Line: 4181, Word: 1
+Update dialog sorting start point after calculating result point on contour, Line: 4183, Word: 1
+Button, Line: 4184, Word: 1
+Apply collision check for entry and exit moves after calculation.Entry/exit move will be removed if colliding., Line: 4185, Word: 1
+Button, Line: 4186, Word: 1
+Static, Line: 4187, Word: 1
+Ask start point at the begining, Line: 4189, Word: 1
+Button, Line: 4190, Word: 1
+MS Shell Dlg, Line: 4195, Word: 1
+Mold, Line: 4197, Word: 1
+Upper Limit, Line: 4198, Word: 1
+Select point, Line: 4199, Word: 1
+Split, Line: 4200, Word: 1
+Make Toolpath, Line: 4202, Word: 1
+Clear, Line: 4204, Word: 1
+Free, Line: 4205, Word: 1
+Button, Line: 4205, Word: 2
+On mold surface, Line: 4206, Word: 1
+Button, Line: 4206, Word: 2
+On Upper Limit, Line: 4207, Word: 1
+Button, Line: 4207, Word: 2
+Delete entity, Line: 4208, Word: 1
+Make, Line: 4211, Word: 1
+Disable, Line: 4213, Word: 1
+Button, Line: 4213, Word: 2
+Bulge, Line: 4214, Word: 1
+, Line: 4215, Word: 1
+SysTreeView32, Line: 4215, Word: 2
+Add row to properties, Line: 4218, Word: 1
+Properties to checked, Line: 4219, Word: 1
+, Line: 4220, Word: 1
+SysListView32, Line: 4220, Word: 2
+Clear properties, Line: 4221, Word: 1
+Start, Line: 4222, Word: 1
+Button, Line: 4222, Word: 2
+End, Line: 4223, Word: 1
+Button, Line: 4223, Word: 2
+From curves, Line: 4224, Word: 1
+Transform, Line: 4225, Word: 1
+Reverse, Line: 4226, Word: 1
+Tool geo, Line: 4227, Word: 1
+Reset snap distance, Line: 4228, Word: 1
+Move only checked arcs, Line: 4230, Word: 1
+Button, Line: 4231, Word: 1
+Show arc names, Line: 4232, Word: 1
+Button, Line: 4232, Word: 2
+Undo last move, Line: 4233, Word: 1
+MS Shell Dlg, Line: 4238, Word: 1
+SolidCNC selection bar, Line: 4240, Word: 1
+Compact Cut Report Attributes Dialog, Line: 4245, Word: 1
+MS Shell Dlg, Line: 4246, Word: 1
+OK, Line: 4248, Word: 1
+Cancel, Line: 4249, Word: 1
+Distance between groups, Line: 4251, Word: 1
+Grouping Xno , Yno, Line: 4254, Word: 1
+Change Contour Visaul Attributes, Line: 4255, Word: 1
+Change Inner Contour Visual Attributes, Line: 4256, Word: 1
+Change Text Visual Attributes, Line: 4257, Word: 1
+Group equal plates, Line: 4258, Word: 1
+Button, Line: 4258, Word: 2
+Add curves to report, Line: 4259, Word: 1
+Button, Line: 4260, Word: 1
+Save report as DXF automatically, Line: 4262, Word: 1
+Button, Line: 4263, Word: 1
+Reorder closed plate operations start point, Line: 4264, Word: 1
+Resort plate operations, Line: 4266, Word: 1
+DXF Export Dialog, Line: 4271, Word: 1
+MS Shell Dlg, Line: 4272, Word: 1
+OK, Line: 4274, Word: 1
+Cancel, Line: 4275, Word: 1
+Make arc fit for polyline, Line: 4276, Word: 1
+Button, Line: 4276, Word: 2
+Blade Cutting, Line: 4281, Word: 1
+MS Shell Dlg, Line: 4282, Word: 1
+Tool, Line: 4285, Word: 1
+Part Height, Line: 4286, Word: 1
+Lift up, Line: 4289, Word: 1
+Select Contour, Line: 4290, Word: 1
+Type, Line: 4291, Word: 1
+Safe Z, Line: 4294, Word: 1
+Plunge H, Line: 4295, Word: 1
+Max cutting depth lines, Line: 4297, Word: 1
+Max cutting depth arcs, Line: 4298, Word: 1
+Add, Line: 4302, Word: 1
+Delete, Line: 4303, Word: 1
+C Angle Change Parameters, Line: 4304, Word: 1
+Angle Start, Line: 4305, Word: 1
+Angle End, Line: 4307, Word: 1
+C Angle Offset, Line: 4312, Word: 1
+Cutting, Line: 4314, Word: 1
+Entry, Line: 4315, Word: 1
+Exit, Line: 4316, Word: 1
+Link, Line: 4317, Word: 1
+Spindle, Line: 4318, Word: 1
+Lines, Line: 4319, Word: 1
+Arcs, Line: 4320, Word: 1
+, Line: 4321, Word: 1
+SysListView32, Line: 4321, Word: 2
+Recalculate, Line: 4322, Word: 1
+Feedrates, Line: 4323, Word: 1
+Set, Line: 4334, Word: 1
+Z overcut, Line: 4335, Word: 1
+Calculate, Line: 4337, Word: 1
+A Angle Parameters, Line: 4338, Word: 1
+Taper angle, Line: 4340, Word: 1
+Attach taper value to edge, Line: 4342, Word: 1
+Stock to leave, Line: 4343, Word: 1
+Tool rotate CCW, Line: 4345, Word: 1
+Button, Line: 4345, Word: 2
+Taper Height, Line: 4346, Word: 1
+Trim extension type, Line: 4349, Word: 1
+Trim distance for start, Line: 4350, Word: 1
+Trim distance for end, Line: 4352, Word: 1
+Reverse tool side, Line: 4354, Word: 1
+Dialog, Line: 4360, Word: 1
+MS Shell Dlg, Line: 4361, Word: 1
+, Line: 4363, Word: 1
+msctls_trackbar32, Line: 4363, Word: 2
+>, Line: 4364, Word: 1
+Stop, Line: 4365, Word: 1
+Chamfer Solid 2.5, Line: 4370, Word: 1
+MS Shell Dlg, Line: 4371, Word: 1
+Top, Line: 4373, Word: 1
+Button, Line: 4373, Word: 2
+Bottom, Line: 4374, Word: 1
+Button, Line: 4374, Word: 2
+Chamfer width, Line: 4377, Word: 1
+Chamfer height, Line: 4378, Word: 1
+Select bodies, Line: 4379, Word: 1
+Chamfer inner loops, Line: 4380, Word: 1
+Button, Line: 4381, Word: 1
+Chamfer outer loop, Line: 4382, Word: 1
+Button, Line: 4383, Word: 1
+Fillet Solid2.5 D, Line: 4388, Word: 1
+MS Shell Dlg, Line: 4389, Word: 1
+Fillet radius, Line: 4391, Word: 1
+Fillet Top, Line: 4393, Word: 1
+Button, Line: 4393, Word: 2
+Fillet Bottom, Line: 4394, Word: 1
+Button, Line: 4394, Word: 2
+Select bodies, Line: 4395, Word: 1
+Fillet inner loops, Line: 4396, Word: 1
+Button, Line: 4397, Word: 1
+Fillet outer loop, Line: 4398, Word: 1
+Button, Line: 4399, Word: 1
+Helical revolution, Line: 4404, Word: 1
+MS Shell Dlg, Line: 4405, Word: 1
+Revolve, Line: 4407, Word: 1
+Select section to revolve (X axis along diameter , Y axis along cylinder ax), Line: 4408, Word: 1
+Select origin of diameter on section, Line: 4409, Word: 1
+Select origin of z (cylinder axis) on section, Line: 4410, Word: 1
+Start Diameter for origin, Line: 4413, Word: 1
+Delta Diameter per round, Line: 4414, Word: 1
+Start Angle, Line: 4415, Word: 1
+Number of revolutions, Line: 4417, Word: 1
+Base z limit, Line: 4419, Word: 1
+Top z limit, Line: 4420, Word: 1
+Pitch, Line: 4423, Word: 1
+Delta pitch per round, Line: 4425, Word: 1
+Tranform on workplane, Line: 4431, Word: 1
+MS Shell Dlg, Line: 4432, Word: 1
+OK, Line: 4434, Word: 1
+, Line: 4435, Word: 1
+SysTabControl32, Line: 4435, Word: 2
+Transform all, Line: 4436, Word: 1
+Button, Line: 4436, Word: 2
+Transform only workCS, Line: 4437, Word: 1
+Button, Line: 4437, Word: 2
+MS Shell Dlg, Line: 4442, Word: 1
+Delta X, Line: 4447, Word: 1
+Delta Y, Line: 4448, Word: 1
+Delta Z, Line: 4449, Word: 1
+Lock, Line: 4450, Word: 1
+Button, Line: 4450, Word: 2
+Lock, Line: 4451, Word: 1
+Button, Line: 4451, Word: 2
+Lock, Line: 4452, Word: 1
+Button, Line: 4452, Word: 2
+Click on graphics window to lock , double click to unlock, Line: 4453, Word: 1
+MS Shell Dlg, Line: 4458, Word: 1
+Angle, Line: 4461, Word: 1
+Lock, Line: 4462, Word: 1
+Button, Line: 4462, Word: 2
+Click on graphics window to lock , double click to unlock, Line: 4463, Word: 1
+MS Shell Dlg, Line: 4468, Word: 1
+Mirror Axis, Line: 4470, Word: 1
+X, Line: 4471, Word: 1
+Button, Line: 4471, Word: 2
+Y, Line: 4472, Word: 1
+Button, Line: 4472, Word: 2
+Apply, Line: 4473, Word: 1
+MS Shell Dlg, Line: 4478, Word: 1
+X factor, Line: 4483, Word: 1
+Y factor, Line: 4484, Word: 1
+Z factor, Line: 4485, Word: 1
+Apply, Line: 4486, Word: 1
+Import points from text file, Line: 4491, Word: 1
+MS Shell Dlg, Line: 4492, Word: 1
+OK, Line: 4494, Word: 1
+Cancel, Line: 4495, Word: 1
+..., Line: 4497, Word: 1
+Lua script file for importing text, Line: 4498, Word: 1
+Lua script for exporting geo, Line: 4499, Word: 1
+..., Line: 4501, Word: 1
+Keywords to parse (comma separated), Line: 4502, Word: 1
+Extend trim geometry, Line: 4508, Word: 1
+MS Shell Dlg, Line: 4509, Word: 1
+String mode, Line: 4511, Word: 1
+Button, Line: 4511, Word: 2
+By length, Line: 4512, Word: 1
+Till point, Line: 4513, Word: 1
+Till element, Line: 4514, Word: 1
+Strech, Line: 4515, Word: 1
+Meet vertex, Line: 4517, Word: 1
+Kinematic Part Dialog, Line: 4522, Word: 1
+MS Shell Dlg, Line: 4523, Word: 1
+OK, Line: 4525, Word: 1
+Cancel, Line: 4526, Word: 1
+Part Name, Line: 4527, Word: 1
+Axis Name, Line: 4529, Word: 1
+None, Line: 4531, Word: 1
+Button, Line: 4531, Word: 2
+Linear, Line: 4532, Word: 1
+Button, Line: 4532, Word: 2
+Rotation, Line: 4533, Word: 1
+Button, Line: 4533, Word: 2
+Fixed axis rotation, Line: 4534, Word: 1
+Button, Line: 4534, Word: 2
+Transformation, Line: 4535, Word: 1
+Select geometry, Line: 4536, Word: 1
+Tool no, Line: 4539, Word: 1
+Dialog Kinematic Simulation, Line: 4544, Word: 1
+MS Shell Dlg, Line: 4545, Word: 1
+NC file, Line: 4547, Word: 1
+Pause, Line: 4549, Word: 1
+Button, Line: 4549, Word: 2
+Next line, Line: 4550, Word: 1
+Command, Line: 4553, Word: 1
+>, Line: 4554, Word: 1
+<, Line: 4555, Word: 1
+0, Line: 4556, Word: 1
+Debug, Line: 4557, Word: 1
+Button, Line: 4557, Word: 2
+Kinematic set dialog, Line: 4562, Word: 1
+MS Shell Dlg, Line: 4563, Word: 1
+OK, Line: 4565, Word: 1
+Cancel, Line: 4566, Word: 1
+Set name, Line: 4568, Word: 1
+Simulation Lua script path, Line: 4570, Word: 1
+..., Line: 4571, Word: 1
+Select parent dialog, Line: 4576, Word: 1
+MS Shell Dlg, Line: 4577, Word: 1
+OK, Line: 4579, Word: 1
+Cancel, Line: 4580, Word: 1
+Ellipse, Line: 4586, Word: 1
+MS Shell Dlg, Line: 4587, Word: 1
+X Diameter, Line: 4589, Word: 1
+Y Diameter, Line: 4590, Word: 1
+Insert, Line: 4593, Word: 1
+Angle 1, Line: 4596, Word: 1
+Angle 2, Line: 4597, Word: 1
+Add line to kinematic set dialog, Line: 4602, Word: 1
+MS Shell Dlg, Line: 4603, Word: 1
+OK, Line: 4605, Word: 1
+Cancel, Line: 4606, Word: 1
+Start point, Line: 4609, Word: 1
+End point, Line: 4610, Word: 1
+Pick start, Line: 4611, Word: 1
+Pick end, Line: 4612, Word: 1
+Attach to axis, Line: 4615, Word: 1
+Line name, Line: 4617, Word: 1
+Add/Set, Line: 4619, Word: 1
+Delete, Line: 4620, Word: 1
+Set lines, Line: 4621, Word: 1
+Compact true shape cutting, Line: 4626, Word: 1
+MS Shell Dlg, Line: 4627, Word: 1
+, Line: 4629, Word: 1
+SysListView32, Line: 4629, Word: 2
+Select part outline, Line: 4630, Word: 1
+Select inner holes, Line: 4631, Word: 1
+Select bend lines, Line: 4632, Word: 1
+, Line: 4636, Word: 1
+SysListView32, Line: 4636, Word: 2
+Defaults..., Line: 4637, Word: 1
+Operation templates, Line: 4638, Word: 1
+Add rectangle stock, Line: 4641, Word: 1
+X length, Line: 4642, Word: 1
+Y length, Line: 4643, Word: 1
+Count, Line: 4644, Word: 1
+Add free shape stock, Line: 4647, Word: 1
+Sets, Line: 4648, Word: 1
+Add new set, Line: 4649, Word: 1
+Utilize, Line: 4650, Word: 1
+Parameters..., Line: 4651, Word: 1
+Clearence, Line: 4653, Word: 1
+One by one, Line: 4654, Word: 1
+Button, Line: 4654, Word: 2
+Part list sorting, Line: 4656, Word: 1
+Stock, Line: 4657, Word: 1
+Manuel nesting, Line: 4658, Word: 1
+Part parameters, Line: 4663, Word: 1
+MS Shell Dlg, Line: 4664, Word: 1
+OK, Line: 4666, Word: 1
+Cancel, Line: 4667, Word: 1
+Rotation Step, Line: 4669, Word: 1
+Allow mirror, Line: 4670, Word: 1
+Button, Line: 4670, Word: 2
+User data, Line: 4671, Word: 1
+Copy count, Line: 4674, Word: 1
+Clearence from tool, Line: 4675, Word: 1
+Button, Line: 4676, Word: 1
+Extra clearence, Line: 4678, Word: 1
+Compact true shape parameters, Line: 4683, Word: 1
+MS Shell Dlg, Line: 4684, Word: 1
+OK, Line: 4686, Word: 1
+Cancel, Line: 4687, Word: 1
+Start corner, Line: 4688, Word: 1
+Lower left, Line: 4689, Word: 1
+Button, Line: 4689, Word: 2
+Lower right, Line: 4690, Word: 1
+Button, Line: 4690, Word: 2
+Upper right, Line: 4691, Word: 1
+Button, Line: 4691, Word: 2
+Upper left, Line: 4692, Word: 1
+Button, Line: 4692, Word: 2
+Nesting precision, Line: 4694, Word: 1
+Touch gap, Line: 4696, Word: 1
+Touch percentage, Line: 4698, Word: 1
+First push along y axis, Line: 4699, Word: 1
+Button, Line: 4700, Word: 1
+First push along x axis, Line: 4701, Word: 1
+Button, Line: 4702, Word: 1
+Order direction, Line: 4703, Word: 1
+Material table, Line: 4704, Word: 1
+User data table, Line: 4706, Word: 1
+Must be selected prior to adding parts and stocks, Line: 4708, Word: 1
+Button, Line: 4709, Word: 1
+Materials, Line: 4711, Word: 1
+Color, Line: 4712, Word: 1
+, Line: 4713, Word: 1
+Copy count detection key words (coma seperated), Line: 4715, Word: 1
+Dimension scale factor for area, Line: 4717, Word: 1
+Text search enlarge value, Line: 4720, Word: 1
+Define color dialog, Line: 4725, Word: 1
+MS Shell Dlg, Line: 4726, Word: 1
+, Line: 4728, Word: 1
+Color Dialog, Line: 4730, Word: 1
+Select model for color, Line: 4731, Word: 1
+Add color, Line: 4732, Word: 1
+, Line: 4733, Word: 1
+msctls_updown32, Line: 4733, Word: 2
+X, Line: 4734, Word: 1
+File Explorer, Line: 4740, Word: 1
+MS Shell Dlg, Line: 4741, Word: 1
+OK, Line: 4743, Word: 1
+Cancel, Line: 4744, Word: 1
+, Line: 4745, Word: 1
+SysTreeView32, Line: 4745, Word: 2
+Get Selected Item, Line: 4746, Word: 1
+Refresh, Line: 4747, Word: 1
+GetMyContour, Line: 4748, Word: 1
+Sorting Dialog, Line: 4753, Word: 1
+MS Shell Dlg, Line: 4754, Word: 1
+, Line: 4756, Word: 1
+SysListView32, Line: 4756, Word: 2
+Add to list, Line: 4757, Word: 1
+Delete key, Line: 4758, Word: 1
+Add to list, Line: 4759, Word: 1
+Delete value, Line: 4760, Word: 1
+, Line: 4764, Word: 1
+SysListView32, Line: 4764, Word: 2
+Priority, Line: 4766, Word: 1
+Keys, Line: 4767, Word: 1
+Values, Line: 4768, Word: 1
+Blade cutting parameters, Line: 4778, Word: 1
+MS Shell Dlg, Line: 4779, Word: 1
+OK, Line: 4781, Word: 1
+Cancel, Line: 4782, Word: 1
+Part height, Line: 4783, Word: 1
+Tangent threshold angle, Line: 4786, Word: 1
+Continueous rotation, Line: 4787, Word: 1
+Button, Line: 4787, Word: 2
+n rounds, Line: 4788, Word: 1
+Angle step for digitising, Line: 4790, Word: 1
+True ofset, Line: 4792, Word: 1
+Button, Line: 4792, Word: 2
+Lift up, Line: 4794, Word: 1
+Profile machining, Line: 4795, Word: 1
+Button, Line: 4795, Word: 2
+Roughing Clearence, Line: 4799, Word: 1
+Rough step, Line: 4800, Word: 1
+Fine step, Line: 4801, Word: 1
+Machining interval, Line: 4804, Word: 1
+Start angle, Line: 4805, Word: 1
+End angle, Line: 4806, Word: 1
+Spindle right, Line: 4807, Word: 1
+Button, Line: 4807, Word: 2
+Spindle left, Line: 4808, Word: 1
+Button, Line: 4808, Word: 2
+Trim extension at start, Line: 4810, Word: 1
+Button, Line: 4811, Word: 1
+Trim extension at end, Line: 4812, Word: 1
+Button, Line: 4812, Word: 2
+Rough, Line: 4813, Word: 1
+Button, Line: 4813, Word: 2
+Finish, Line: 4814, Word: 1
+Button, Line: 4814, Word: 2
+Curve clone by sweep, Line: 4819, Word: 1
+MS Shell Dlg, Line: 4820, Word: 1
+Count per curve, Line: 4823, Word: 1
+Select curves, Line: 4824, Word: 1
+Scale factor, Line: 4827, Word: 1
+Manuel Nesting, Line: 4832, Word: 1
+MS Shell Dlg, Line: 4833, Word: 1
+Push Left, Line: 4835, Word: 1
+Push Right, Line: 4836, Word: 1
+Push Up, Line: 4837, Word: 1
+Push Down, Line: 4838, Word: 1
+Rotate, Line: 4839, Word: 1
+CCW, Line: 4840, Word: 1
+CW, Line: 4841, Word: 1
+Pin, Line: 4844, Word: 1
+Properties, Line: 4850, Word: 1
+MS Shell Dlg, Line: 4851, Word: 1
+OK, Line: 4853, Word: 1
+Cancel, Line: 4854, Word: 1
+, Line: 4855, Word: 1
+SysListView32, Line: 4855, Word: 2
+Add, Line: 4856, Word: 1
+Tool Axis Control, Line: 4863, Word: 1
+MS Shell Dlg, Line: 4864, Word: 1
+OK, Line: 4866, Word: 1
+Cancel, Line: 4867, Word: 1
+Work plane Z direction, Line: 4868, Word: 1
+Button, Line: 4868, Word: 2
+Rotate around tangent direction, Line: 4869, Word: 1
+Button, Line: 4870, Word: 1
+Angle, Line: 4872, Word: 1
+Tool axis angle max  step, Line: 4873, Word: 1
+Linear move max step, Line: 4875, Word: 1
+Laser offset, Line: 4877, Word: 1
+Make taper interactor, Line: 4879, Word: 1
+Button, Line: 4880, Word: 1
+Taper interactor extension, Line: 4882, Word: 1
+Tool axis during entry, Line: 4884, Word: 1
+Tool axis during exit, Line: 4885, Word: 1
+Segmentation Parameters Dialog, Line: 4891, Word: 1
+MS Shell Dlg, Line: 4892, Word: 1
+OK, Line: 4894, Word: 1
+Cancel, Line: 4895, Word: 1
+Extract region pixel selection options, Line: 4896, Word: 1
+White threshold, Line: 4897, Word: 1
+Button, Line: 4897, Word: 2
+RGB threshold, Line: 4898, Word: 1
+Button, Line: 4898, Word: 2
+Pixel selection by script, Line: 4899, Word: 1
+Button, Line: 4900, Word: 1
+threshold, Line: 4902, Word: 1
+Lua script path, Line: 4905, Word: 1
+..., Line: 4906, Word: 1
+Set, Line: 4907, Word: 1
+Pick RGB, Line: 4909, Word: 1
+Set RGB As Min, Line: 4910, Word: 1
+Set RGB As Max, Line: 4911, Word: 1
+Offset RGB, Line: 4913, Word: 1
+Median filter page n, Line: 4916, Word: 1
+Delta check threshold, Line: 4917, Word: 1
+Segmented Solid Dialog, Line: 4922, Word: 1
+MS Shell Dlg, Line: 4923, Word: 1
+Make voxel models from all, Line: 4925, Word: 1
+Close, Line: 4926, Word: 1
+Name, Line: 4928, Word: 1
+Work plane, Line: 4930, Word: 1
+Side undefined, Line: 4931, Word: 1
+Button, Line: 4931, Word: 2
+Left, Line: 4932, Word: 1
+Button, Line: 4932, Word: 2
+Right, Line: 4933, Word: 1
+Button, Line: 4933, Word: 2
+Side, Line: 4934, Word: 1
+, Line: 4937, Word: 1
+SysListView32, Line: 4937, Word: 2
+Pixels min, Line: 4938, Word: 1
+Pixels max, Line: 4939, Word: 1
+Is neighbor threshold, Line: 4941, Word: 1
+Net settings..., Line: 4942, Word: 1
+Segmented solid net, Line: 4947, Word: 1
+MS Shell Dlg, Line: 4948, Word: 1
+Calculate, Line: 4950, Word: 1
+Close, Line: 4951, Word: 1
+Max radius change offset, Line: 4954, Word: 1
+Net angle step, Line: 4955, Word: 1
+Make net triangles, Line: 4956, Word: 1
+Button, Line: 4956, Word: 2
+Make net curves, Line: 4957, Word: 1
+Button, Line: 4957, Word: 2
+, Line: 4958, Word: 1
+SysListView32, Line: 4958, Word: 2
+Net height step, Line: 4960, Word: 1
+Picture resolution length, Line: 4963, Word: 1
+Decimation N, Line: 4964, Word: 1
+Region hull break count, Line: 4968, Word: 1
+Region inner loops hull break count, Line: 4969, Word: 1
+Small loop area threshold, Line: 4970, Word: 1
+Two convex points close threshold, Line: 4972, Word: 1
+Subdivision Curves Dialog , Line: 4977, Word: 1
+MS Shell Dlg, Line: 4978, Word: 1
+Close, Line: 4980, Word: 1
+Chaikin subdivision, Line: 4981, Word: 1
+Subdivision count, Line: 4982, Word: 1
+Dialog image filter, Line: 4988, Word: 1
+MS Shell Dlg, Line: 4989, Word: 1
+Moving avarage filter, Line: 4993, Word: 1
+Apply filter along width, Line: 4994, Word: 1
+Button, Line: 4995, Word: 1
+Apply filter along height, Line: 4996, Word: 1
+Button, Line: 4997, Word: 1
+Kernel size in width, Line: 4998, Word: 1
+Kernel size in height, Line: 4999, Word: 1
+Conditional (apply filter to pixels in selection range), Line: 5000, Word: 1
+Button, Line: 5001, Word: 1
+Median filter, Line: 5002, Word: 1
+Make lines on surface, Line: 5007, Word: 1
+MS Shell Dlg, Line: 5008, Word: 1
+Line generation type, Line: 5011, Word: 1
+Normal Line Length, Line: 5013, Word: 1
+Select surfaces to make lines, Line: 5014, Word: 1
+Side tilt angle, Line: 5017, Word: 1
+Forward tilt angle, Line: 5018, Word: 1
+Delta Angle, Line: 5020, Word: 1
+Make negative normal lines, Line: 5021, Word: 1
+Button, Line: 5022, Word: 1
+Make surface boundary curves, Line: 5023, Word: 1
+Button, Line: 5024, Word: 1
+Make positive normal lines, Line: 5025, Word: 1
+Button, Line: 5026, Word: 1
+Boundary offset, Line: 5028, Word: 1
+Loop points count, Line: 5029, Word: 1
+Shift normal lines, Line: 5031, Word: 1
+Dialog Segment Surface Point Generator, Line: 5036, Word: 1
+MS Shell Dlg, Line: 5037, Word: 1
+, Line: 5039, Word: 1
+SysListView32, Line: 5039, Word: 2
+Make segment surface, Line: 5041, Word: 1
+Grid Maker Dialog, Line: 5046, Word: 1
+MS Shell Dlg, Line: 5047, Word: 1
+OK, Line: 5049, Word: 1
+X coordinates(; seperated), Line: 5052, Word: 1
+Y coordinates(; seperated), Line: 5053, Word: 1
++ Add range, Line: 5054, Word: 1
++ Add range, Line: 5055, Word: 1
+Clear, Line: 5056, Word: 1
+Clear, Line: 5057, Word: 1
+Make geometry, Line: 5058, Word: 1
+Make  net, Line: 5059, Word: 1
+Zc, Line: 5061, Word: 1
+X sections, Line: 5062, Word: 1
+Button, Line: 5062, Word: 2
+Y sections, Line: 5063, Word: 1
+Button, Line: 5063, Word: 2
+Make sections, Line: 5064, Word: 1
+Net from curves, Line: 5065, Word: 1
+Cartesian, Line: 5066, Word: 1
+Button, Line: 5066, Word: 2
+Cylindirical, Line: 5067, Word: 1
+Button, Line: 5067, Word: 2
+Spherical, Line: 5068, Word: 1
+Button, Line: 5068, Word: 2
+Net type, Line: 5069, Word: 1
+Boundary, Line: 5070, Word: 1
+Button, Line: 5070, Word: 2
+3D Trimming, Line: 5072, Word: 1
+Button, Line: 5072, Word: 2
+Array maker dialog, Line: 5077, Word: 1
+MS Shell Dlg, Line: 5078, Word: 1
+OK, Line: 5080, Word: 1
+Cancel, Line: 5081, Word: 1
+Array limits, Line: 5082, Word: 1
+Length, Line: 5083, Word: 1
+Button, Line: 5083, Word: 2
+Start and end values, Line: 5084, Word: 1
+Button, Line: 5084, Word: 2
+Array elements, Line: 5088, Word: 1
+Count, Line: 5089, Word: 1
+Button, Line: 5089, Word: 2
+Distance between elements, Line: 5090, Word: 1
+Button, Line: 5091, Word: 1
+Geometry min. max., Line: 5094, Word: 1
+Digitise curve, Line: 5095, Word: 1
+Along work Xc, Line: 5096, Word: 1
+Button, Line: 5096, Word: 2
+Along work Yc, Line: 5097, Word: 1
+Button, Line: 5097, Word: 2
+Make array, Line: 5098, Word: 1
+Clear array, Line: 5099, Word: 1
+Dialog, Line: 5105, Word: 1
+MS Shell Dlg, Line: 5106, Word: 1
+OK, Line: 5108, Word: 1
+Cancel, Line: 5109, Word: 1
+, Line: 5110, Word: 1
+SysListView32, Line: 5110, Word: 2
+Add, Line: 5113, Word: 1
+X-Y, Line: 5114, Word: 1
+Check All, Line: 5115, Word: 1
+Uncheck All, Line: 5116, Word: 1
+Delete Checked, Line: 5117, Word: 1
+Calculate, Line: 5118, Word: 1
+Helical wrapping, Line: 5123, Word: 1
+MS Shell Dlg, Line: 5124, Word: 1
+Calculate, Line: 5126, Word: 1
+Close, Line: 5127, Word: 1
+Select surfaces or triangle model for wrapping, Line: 5129, Word: 1
+Select Z axis line, Line: 5130, Word: 1
+Pick point on X axis. (Wrapping start angle), Line: 5132, Word: 1
+Pitch, Line: 5135, Word: 1
+Wrapping count, Line: 5136, Word: 1
+Start with positive rotation, Line: 5138, Word: 1
+Button, Line: 5139, Word: 1
+Z digitise step, Line: 5141, Word: 1
+Draw tangent lines, Line: 5142, Word: 1
+Button, Line: 5142, Word: 2
+Output path, Line: 5144, Word: 1
+..., Line: 5145, Word: 1
+Y axis offset, Line: 5147, Word: 1
+Machine parameters, Line: 5148, Word: 1
+X axis limit1, Line: 5150, Word: 1
+X axis limit 2, Line: 5151, Word: 1
+Y axis limit1, Line: 5155, Word: 1
+Y axis limit2, Line: 5156, Word: 1
+Angle limit 1, Line: 5159, Word: 1
+Angle limit2, Line: 5160, Word: 1
+Output machining file, Line: 5161, Word: 1
+Button, Line: 5162, Word: 1
+Extend surface control points, Line: 5167, Word: 1
+MS Shell Dlg, Line: 5168, Word: 1
+Extend, Line: 5170, Word: 1
+Cancel, Line: 5171, Word: 1
+U direction, Line: 5172, Word: 1
+Button, Line: 5172, Word: 2
+V direction, Line: 5173, Word: 1
+Button, Line: 5173, Word: 2
+Closed polygon, Line: 5174, Word: 1
+Button, Line: 5174, Word: 2
+Surface, Line: 5175, Word: 1
+Button, Line: 5175, Word: 2
+Edit line dialog, Line: 5180, Word: 1
+MS Shell Dlg, Line: 5181, Word: 1
+OK, Line: 5183, Word: 1
+Cancel, Line: 5184, Word: 1
+Line length, Line: 5187, Word: 1
+Angle to work X axis, Line: 5188, Word: 1
+Groove Calculator Dialog, Line: 5193, Word: 1
+MS Shell Dlg, Line: 5194, Word: 1
+OK, Line: 5196, Word: 1
+Cancel, Line: 5197, Word: 1
+Disc diameter, Line: 5198, Word: 1
+Groove depth, Line: 5200, Word: 1
+Groove width, Line: 5202, Word: 1
+Auto trim, Line: 5204, Word: 1
+Preview groove, Line: 5205, Word: 1
+Button, Line: 5205, Word: 2
+Calculate trim distance, Line: 5207, Word: 1
+Trim distance, Line: 5208, Word: 1
+Tolerance, Line: 5210, Word: 1
+Angle threshold, Line: 5212, Word: 1
+Advanced milling extra parameters dialog, Line: 5217, Word: 1
+MS Shell Dlg, Line: 5218, Word: 1
+OK, Line: 5220, Word: 1
+Cancel, Line: 5221, Word: 1
+Tools, Line: 5223, Word: 1
+Tool no, Line: 5224, Word: 1
+Spindle speed (rpm), Line: 5225, Word: 1
+Operation Name, Line: 5229, Word: 1
+Extra parameters, Line: 5230, Word: 1
+Dialog, Line: 5235, Word: 1
+MS Shell Dlg, Line: 5236, Word: 1
+OK, Line: 5238, Word: 1
+Cancel, Line: 5239, Word: 1
+SelTool, Line: 5240, Word: 1
+SelToolRefPoint, Line: 5241, Word: 1
+SelGeo, Line: 5242, Word: 1
+Tool Digitise, Line: 5244, Word: 1
+StartPoint, Line: 5245, Word: 1
+LeftRightBoth, Line: 5247, Word: 1
+Stone nesting rotate, Line: 5252, Word: 1
+MS Shell Dlg, Line: 5253, Word: 1
+OK, Line: 5255, Word: 1
+Cancel, Line: 5256, Word: 1
+Angle step, Line: 5257, Word: 1
++, Line: 5259, Word: 1
+-, Line: 5260, Word: 1
+Best box, Line: 5261, Word: 1
+-90, Line: 5262, Word: 1
++90, Line: 5263, Word: 1
+Turning Dialog, Line: 5268, Word: 1
+MS Shell Dlg, Line: 5269, Word: 1
+Tool, Line: 5272, Word: 1
+Select Contour, Line: 5273, Word: 1
+Type, Line: 5274, Word: 1
+Safe Diameter, Line: 5277, Word: 1
+Plunge Diameter, Line: 5278, Word: 1
+Max cutting depth, Line: 5280, Word: 1
+Cutting, Line: 5282, Word: 1
+Entry, Line: 5283, Word: 1
+Exit, Line: 5284, Word: 1
+Link, Line: 5285, Word: 1
+Spindle, Line: 5286, Word: 1
+, Line: 5287, Word: 1
+SysListView32, Line: 5287, Word: 2
+Recalculate, Line: 5288, Word: 1
+Feedrates, Line: 5289, Word: 1
+Set, Line: 5295, Word: 1
+Calculate, Line: 5296, Word: 1
+Stock to leave, Line: 5297, Word: 1
+Part rotate CCW, Line: 5299, Word: 1
+Button, Line: 5299, Word: 2
+One way cutting, Line: 5300, Word: 1
+Button, Line: 5300, Word: 2
+Tolerances, Line: 5301, Word: 1
+Tolerance, Line: 5303, Word: 1
+Initial tool digitise step, Line: 5304, Word: 1
+Initial contour digitise step, Line: 5307, Word: 1
+Tool free shape data 2D, Line: 5312, Word: 1
+MS Shell Dlg, Line: 5313, Word: 1
+Select complete tool contour, Line: 5315, Word: 1
+Select tool reference point, Line: 5317, Word: 1
+Select tool cutter part start,mid,end points, Line: 5319, Word: 1
+Calculate tool data, Line: 5322, Word: 1
+Static, Line: 5323, Word: 1
+Clear all selection, Line: 5324, Word: 1
+View, Line: 5325, Word: 1
+View, Line: 5326, Word: 1
+View, Line: 5327, Word: 1
+View, Line: 5328, Word: 1
+Stone Parameters Dialog, Line: 5333, Word: 1
+MS Shell Dlg, Line: 5334, Word: 1
+OK, Line: 5336, Word: 1
+Cancel, Line: 5337, Word: 1
+Stone part reference point size, Line: 5338, Word: 1
+Stone stock reference point size, Line: 5339, Word: 1
+Distance per one degree, Line: 5340, Word: 1
+C Angle minimisation active, Line: 5344, Word: 1
+Button, Line: 5345, Word: 1
+Toolpath sorting optimisation, Line: 5346, Word: 1
+Snap cut plane gap tolerance, Line: 5347, Word: 1
+Vacuum drawing, Line: 5349, Word: 1
+Left vacuum delta X Y, Line: 5351, Word: 1
+Right vacuum delta X Y, Line: 5354, Word: 1
+Vacuum delta Z, Line: 5357, Word: 1
+Sorting, Line: 5360, Word: 1
+Merge coincident operations, Line: 5362, Word: 1
+Button, Line: 5363, Word: 1
+Add, Line: 5365, Word: 1
+Camera , Line: 5368, Word: 1
+X length, Line: 5369, Word: 1
+Y height, Line: 5371, Word: 1
+Load picture, Line: 5373, Word: 1
+..., Line: 5374, Word: 1
+Stone part operations, Line: 5379, Word: 1
+MS Shell Dlg, Line: 5380, Word: 1
+OK, Line: 5382, Word: 1
+Cancel, Line: 5383, Word: 1
+, Line: 5384, Word: 1
+SysListView32, Line: 5384, Word: 2
+Settings, Line: 5389, Word: 1
+MS Shell Dlg, Line: 5390, Word: 1
+Record, Line: 5392, Word: 1
+Active, Line: 5393, Word: 1
+Button, Line: 5393, Word: 2
+Try match threshold area  enclosing box area ratio, Line: 5395, Word: 1
+Match accept threshold area enclosing box area ratio, Line: 5397, Word: 1
+Try edge threshold edge length perimeter ratio, Line: 5398, Word: 1
+Try edge threshold no rotation angle between edges, Line: 5400, Word: 1
+Concave convex threshold area convex hull area  ratio, Line: 5402, Word: 1
+Try edges threshold edge lengths ratio, Line: 5404, Word: 1
+Draw curves, Line: 5406, Word: 1
+Button, Line: 5406, Word: 2
+Allow 180 degrees rotation for no rotation, Line: 5407, Word: 1
+Button, Line: 5408, Word: 1
+Number parameter, Line: 5413, Word: 1
+MS Shell Dlg, Line: 5414, Word: 1
+OK, Line: 5416, Word: 1
+Cancel, Line: 5417, Word: 1
+Enum parameter, Line: 5423, Word: 1
+MS Shell Dlg, Line: 5424, Word: 1
+OK, Line: 5426, Word: 1
+Cancel, Line: 5427, Word: 1
+Shape offset dialog, Line: 5433, Word: 1
+MS Shell Dlg, Line: 5434, Word: 1
+OK, Line: 5436, Word: 1
+Cancel, Line: 5437, Word: 1
+Offset type, Line: 5439, Word: 1
+Offset value, Line: 5441, Word: 1
+Supports and vacuums, Line: 5446, Word: 1
+MS Shell Dlg, Line: 5447, Word: 1
+OK, Line: 5449, Word: 1
+Cancel, Line: 5450, Word: 1
+, Line: 5451, Word: 1
+SysListView32, Line: 5451, Word: 2
+Select part contour, Line: 5452, Word: 1
+Static, Line: 5453, Word: 1
+Support or vacuum, Line: 5458, Word: 1
+MS Shell Dlg, Line: 5459, Word: 1
+OK, Line: 5461, Word: 1
+Cancel, Line: 5462, Word: 1
+Name, Line: 5464, Word: 1
+Diameter, Line: 5466, Word: 1
+Shapes 2D, Line: 5471, Word: 1
+MS Shell Dlg, Line: 5472, Word: 1
+, Line: 5474, Word: 1
+SysListView32, Line: 5474, Word: 2
+Add, Line: 5475, Word: 1
+Hollow, Line: 5476, Word: 1
+Button, Line: 5476, Word: 2
+, Line: 5477, Word: 1
+Static, Line: 5477, Word: 2
+, Line: 5478, Word: 1
+SysListView32, Line: 5478, Word: 2
+Shape Automation, Line: 5479, Word: 1
+Number, Line: 5484, Word: 1
+MS Shell Dlg, Line: 5485, Word: 1
+OK, Line: 5487, Word: 1
+Cancel, Line: 5488, Word: 1
+Static, Line: 5489, Word: 1
+x -1, Line: 5491, Word: 1
+Shape Automation Parameters, Line: 5496, Word: 1
+MS Shell Dlg, Line: 5497, Word: 1
+OK, Line: 5499, Word: 1
+Cancel, Line: 5500, Word: 1
+Form Solid2d, Line: 5501, Word: 1
+Button, Line: 5501, Word: 2
+Form Solid2_5, Line: 5502, Word: 1
+Button, Line: 5502, Word: 2
+Machine shape, Line: 5503, Word: 1
+Button, Line: 5503, Word: 2
+Form stone part, Line: 5505, Word: 1
+Button, Line: 5505, Word: 2
+Configuration, Line: 5510, Word: 1
+MS Shell Dlg, Line: 5511, Word: 1
+OK, Line: 5513, Word: 1
+Cancel, Line: 5514, Word: 1
+Load, Line: 5516, Word: 1
+Save current configuration, Line: 5517, Word: 1
+Pack, Line: 5519, Word: 1
+Unpack, Line: 5520, Word: 1
+, Line: 5521, Word: 1
+SysTreeView32, Line: 5521, Word: 2
+Post process simulation, Line: 5526, Word: 1
+MS Shell Dlg, Line: 5527, Word: 1
+Pages, Line: 5530, Word: 1
+, Line: 5531, Word: 1
+SysListView32, Line: 5531, Word: 2
+G code output, Line: 5532, Word: 1
+Play, Line: 5533, Word: 1
+Pause, Line: 5534, Word: 1
+Bottom, Line: 5535, Word: 1
+Top, Line: 5536, Word: 1
+, Line: 5537, Word: 1
+SysListView32, Line: 5537, Word: 2
+Position solid2d on solid2d, Line: 5542, Word: 1
+MS Shell Dlg, Line: 5543, Word: 1
+OK, Line: 5545, Word: 1
+Cancel, Line: 5546, Word: 1
+Transformation, Line: 5548, Word: 1
+Host, Line: 5549, Word: 1
+Visitor, Line: 5550, Word: 1
+All edges, Line: 5551, Word: 1
+Apply angle, Line: 5556, Word: 1
+Extra angle, Line: 5557, Word: 1
+Distance, Line: 5558, Word: 1
+Apply distance, Line: 5560, Word: 1
+Edit reorder operations, Line: 5565, Word: 1
+MS Shell Dlg, Line: 5566, Word: 1
+, Line: 5568, Word: 1
+SysListView32, Line: 5568, Word: 2
+Move up, Line: 5569, Word: 1
+Move down, Line: 5570, Word: 1
+Operation parameters, Line: 5571, Word: 1
+Send to machine, Line: 5572, Word: 1
+Delete operation, Line: 5573, Word: 1
+Optimisation parameters, Line: 5575, Word: 1
+Sort, Line: 5576, Word: 1
+Send to output folder, Line: 5577, Word: 1
+Transformation groups, Line: 5582, Word: 1
+MS Shell Dlg, Line: 5583, Word: 1
+, Line: 5585, Word: 1
+SysListView32, Line: 5585, Word: 2
+Load checked, Line: 5586, Word: 1
+All post process simulations, Line: 5591, Word: 1
+MS Shell Dlg, Line: 5592, Word: 1
+Hide, Line: 5595, Word: 1
+Show, Line: 5596, Word: 1
+Settings root directory, Line: 5601, Word: 1
+MS Shell Dlg, Line: 5602, Word: 1
+..., Line: 5605, Word: 1
+Settings root directory, Line: 5606, Word: 1
+Delete, Line: 5607, Word: 1
+Function, Line: 5612, Word: 1
+MS Shell Dlg, Line: 5613, Word: 1
+OK, Line: 5615, Word: 1
+, Line: 5616, Word: 1
+SysListView32, Line: 5616, Word: 2
+Do match, Line: 5617, Word: 1
+Control panel, Line: 5622, Word: 1
+MS Shell Dlg, Line: 5623, Word: 1
+Close, Line: 5625, Word: 1
+Add command line to list, Line: 5627, Word: 1
+>, Line: 5628, Word: 1
+, Line: 5629, Word: 1
+SysListView32, Line: 5629, Word: 2
+?, Line: 5630, Word: 1
+Delete checked, Line: 5631, Word: 1
+, Line: 5632, Word: 1
+SysListView32, Line: 5632, Word: 2
+, Line: 5633, Word: 1
+SysListView32, Line: 5633, Word: 2
+List top, Line: 5634, Word: 1
+List bottom, Line: 5635, Word: 1
+|>, Line: 5636, Word: 1
+||, Line: 5637, Word: 1
+Write, Line: 5639, Word: 1
+Read, Line: 5640, Word: 1
+, Line: 5641, Word: 1
+SysListView32, Line: 5641, Word: 2
+<|, Line: 5643, Word: 1
+Select CS, Line: 5648, Word: 1
+MS Shell Dlg, Line: 5649, Word: 1
+OK, Line: 5651, Word: 1
+Cancel, Line: 5652, Word: 1
+Select CS for..., Line: 5653, Word: 1
+Selection filtering, Line: 5659, Word: 1
+MS Shell Dlg, Line: 5660, Word: 1
+Apply, Line: 5662, Word: 1
+Clear, Line: 5663, Word: 1
+, Line: 5664, Word: 1
+SysListView32, Line: 5664, Word: 2
+Filter by, Line: 5666, Word: 1
+Static, Line: 5667, Word: 1
+Machine tolerances and probabalities, Line: 5672, Word: 1
+MS Shell Dlg, Line: 5673, Word: 1
+Axis, Line: 5676, Word: 1
+Deviation min value, Line: 5677, Word: 1
+Active deviation value, Line: 5679, Word: 1
+Deviation max value, Line: 5681, Word: 1
+Deviation Type, Line: 5684, Word: 1
+, Line: 5685, Word: 1
+msctls_trackbar32, Line: 5685, Word: 2
+Reset all deviation to zero, Line: 5686, Word: 1
+Show all, Line: 5687, Word: 1
+Calculate functional point probability space, Line: 5688, Word: 1
+Axis direction vector, Line: 5689, Word: 1
+Axis orthogonal vector N1, Line: 5690, Word: 1
+Axis orthogonal vector N2, Line: 5691, Word: 1
+Statik, Line: 5695, Word: 1
+Tool wear, Line: 5700, Word: 1
+MS Shell Dlg, Line: 5701, Word: 1
+OK, Line: 5703, Word: 1
+Cancel, Line: 5704, Word: 1
+Maximum tool diameter, Line: 5705, Word: 1
+Tool wear model, Line: 5708, Word: 1
+Minimum tool diameter, Line: 5709, Word: 1
+Tool diameter step for multiple operations calculation, Line: 5711, Word: 1
+Manage templates, Line: 5717, Word: 1
+MS Shell Dlg, Line: 5718, Word: 1
+, Line: 5720, Word: 1
+SysListView32, Line: 5720, Word: 2
+Delete checked, Line: 5721, Word: 1
+Import, Line: 5722, Word: 1
+Export, Line: 5723, Word: 1
+Rename selected, Line: 5724, Word: 1
+Spiral Dialog, Line: 5729, Word: 1
+MS Shell Dlg, Line: 5730, Word: 1
+Make, Line: 5732, Word: 1
+Close, Line: 5733, Word: 1
+Start radius, Line: 5734, Word: 1
+End radius, Line: 5735, Word: 1
+Delta radius per round, Line: 5736, Word: 1
+End angle extension in degrees, Line: 5737, Word: 1
+Counter clockwise rotation CCW, Line: 5742, Word: 1
+Button, Line: 5743, Word: 1
+Make full circle at start, Line: 5744, Word: 1
+Button, Line: 5745, Word: 1
+Make full circle at end, Line: 5746, Word: 1
+Button, Line: 5747, Word: 1
+Digitise angle step in degrees, Line: 5748, Word: 1
+Tool holder, Line: 5754, Word: 1
+MS Shell Dlg, Line: 5755, Word: 1
+Tamam, Line: 5757, Word: 1
+Ýptal, Line: 5758, Word: 1
+Make new tool holder, Line: 5759, Word: 1
+Name, Line: 5761, Word: 1
+Triangle geometries, Line: 5763, Word: 1
+Geometries, Line: 5765, Word: 1
+ConnectedHolders. If more than one use ; seperator. Tool is closer to this holder. Vice-versa connected holders are closer to base., Line: 5767, Word: 1
+..., Line: 5769, Word: 1
+..., Line: 5770, Word: 1
+..., Line: 5771, Word: 1
+..., Line: 5772, Word: 1
+..., Line: 5774, Word: 1
+Origin offset, Line: 5775, Word: 1
+Delete selected holder, Line: 5776, Word: 1
+wireAdd.ico, Line: 7534, Word: 1
+res\\icon2.ico, Line: 7536, Word: 1
+res\\icon3.ico, Line: 7538, Word: 1
+res\\ico00001.ico, Line: 7540, Word: 1
+wireNext.ico, Line: 7542, Word: 1
+wireBack.ico, Line: 7544, Word: 1
+icon1.ico, Line: 7546, Word: 1
+res\\icon1.ico, Line: 7548, Word: 1
+res\\ico00002.ico, Line: 7550, Word: 1
+res\\ico00003.ico, Line: 7552, Word: 1
+RecyleBin, Line: 7562, Word: 1
+Undelete, Line: 7564, Word: 1
+Wire, Line: 7570, Word: 1
+Single Contour Cutting..., Line: 7572, Word: 1
+Multi Contour Cutting..., Line: 7573, Word: 1
+4 Axis Cutting..., Line: 7574, Word: 1
+Post Processor Settings..., Line: 7575, Word: 1
+Technologic Parameters DB..., Line: 7576, Word: 1
+Surface Wire Cutting..., Line: 7577, Word: 1
+Surface Wire Cutting 2..., Line: 7578, Word: 1
+Conic + vertical cut..., Line: 7579, Word: 1
+WirePathsHeader, Line: 7585, Word: 1
+Insert..., Line: 7587, Word: 1
+Post..., Line: 7588, Word: 1
+Operation, Line: 7594, Word: 1
+Edit..., Line: 7596, Word: 1
+Simulate..., Line: 7597, Word: 1
+X Delete, Line: 7598, Word: 1
+Tools Menu, Line: 7604, Word: 1
+Insert Tool..., Line: 7606, Word: 1
+Save tools to file..., Line: 7607, Word: 1
+Tool context, Line: 7613, Word: 1
+Edit..., Line: 7615, Word: 1
+Delete, Line: 7616, Word: 1
+Postbox, Line: 7622, Word: 1
+Post..., Line: 7624, Word: 1
+Time estimation..., Line: 7625, Word: 1
+Group by, Line: 7626, Word: 1
+1, Line: 7628, Word: 1
+2, Line: 7629, Word: 1
+3, Line: 7630, Word: 1
+4, Line: 7631, Word: 1
+5, Line: 7632, Word: 1
+6, Line: 7633, Word: 1
+7, Line: 7634, Word: 1
+8, Line: 7635, Word: 1
+9, Line: 7636, Word: 1
+10, Line: 7637, Word: 1
+Sort, Line: 7639, Word: 1
+Alphabethical, Line: 7641, Word: 1
+Numerical, Line: 7642, Word: 1
+WCS coordinates, Line: 7643, Word: 1
+Nearest position, Line: 7644, Word: 1
+Sort recursive, Line: 7646, Word: 1
+Alphabethical, Line: 7648, Word: 1
+Numerical, Line: 7649, Word: 1
+WCS coordinates, Line: 7650, Word: 1
+Nearest position, Line: 7651, Word: 1
+Sort settings..., Line: 7653, Word: 1
+Change post settings..., Line: 7654, Word: 1
+Clear postbox, Line: 7655, Word: 1
+Operation, Line: 7661, Word: 1
+Show toolpath, Line: 7663, Word: 1
+Hide toolpath, Line: 7664, Word: 1
+Change geometry, Line: 7665, Word: 1
+See parameters..., Line: 7666, Word: 1
+Post..., Line: 7667, Word: 1
+Send to postbox, Line: 7668, Word: 1
+Simple animation..., Line: 7669, Word: 1
+MachSim, Line: 7670, Word: 1
+Time Estimation..., Line: 7671, Word: 1
+Delete, Line: 7672, Word: 1
+To Iges..., Line: 7673, Word: 1
+Arc Fit..., Line: 7674, Word: 1
+Add to templates, Line: 7675, Word: 1
+Copy Transform..., Line: 7676, Word: 1
+Check All, Line: 7677, Word: 1
+Uncheck All, Line: 7678, Word: 1
+Send checked to post, Line: 7679, Word: 1
+Check selected, Line: 7680, Word: 1
+Taper interactor, Line: 7681, Word: 1
+Show checked, Line: 7683, Word: 1
+Hide all, Line: 7684, Word: 1
+MachSurfHeader, Line: 7691, Word: 1
+Insert..., Line: 7693, Word: 1
+MachSurf commands, Line: 7699, Word: 1
+Delete , Line: 7701, Word: 1
+Show, Line: 7702, Word: 1
+Hide, Line: 7703, Word: 1
+MachCurvHeader, Line: 7709, Word: 1
+Insert..., Line: 7711, Word: 1
+MachCurv Menu, Line: 7717, Word: 1
+Delete, Line: 7719, Word: 1
+Show, Line: 7720, Word: 1
+Hide, Line: 7721, Word: 1
+LeadsHeaderContext, Line: 7727, Word: 1
+Insert Lead..., Line: 7729, Word: 1
+Save Leads to file..., Line: 7730, Word: 1
+Leads Context , Line: 7736, Word: 1
+Edit, Line: 7738, Word: 1
+Delete, Line: 7739, Word: 1
+GaugeChecksHeader, Line: 7745, Word: 1
+Insert, Line: 7747, Word: 1
+Milling, Line: 7753, Word: 1
+Tools..., Line: 7755, Word: 1
+Tables..., Line: 7756, Word: 1
+Select machining surfaces..., Line: 7757, Word: 1
+Select machining curves..., Line: 7758, Word: 1
+Make lead-links..., Line: 7759, Word: 1
+Make machining operation..., Line: 7760, Word: 1
+Contour 2D..., Line: 7761, Word: 1
+Compact Cutting..., Line: 7762, Word: 1
+Compact true shape cutting..., Line: 7763, Word: 1
+Drilling Page..., Line: 7764, Word: 1
+Blade Cutting, Line: 7765, Word: 1
+Multi Axis Edge Cutting..., Line: 7766, Word: 1
+NC Toolpaths..., Line: 7767, Word: 1
+Torna Stok Hesaplama..., Line: 7768, Word: 1
+Automated contour cutting..., Line: 7769, Word: 1
+Mill Turn Operation..., Line: 7770, Word: 1
+Settings..., Line: 7771, Word: 1
+&Help, Line: 7777, Word: 1
+Help..., Line: 7779, Word: 1
+Tutorials..., Line: 7780, Word: 1
+&About..., Line: 7781, Word: 1
+Wire, Line: 7787, Word: 1
+Single Contour Cutting..., Line: 7789, Word: 1
+Multi Contour Cutting..., Line: 7790, Word: 1
+4 Axis Cutting..., Line: 7791, Word: 1
+Post Processor Settings..., Line: 7792, Word: 1
+Technologic Parameters DB..., Line: 7793, Word: 1
+Surface Wire Cutting..., Line: 7794, Word: 1
+Surface Wire Cutting 2..., Line: 7795, Word: 1
+Conic + vertical cut..., Line: 7796, Word: 1
+MicroPattern, Line: 7802, Word: 1
+Make torch path..., Line: 7804, Word: 1
+Snapshot..., Line: 7805, Word: 1
+MicroPattern, Line: 7811, Word: 1
+5 axis laser texturing..., Line: 7813, Word: 1
+Selection, Line: 7819, Word: 1
+Clear all, Line: 7821, Word: 1
+Check all, Line: 7822, Word: 1
+Kinematic tree header, Line: 7828, Word: 1
+Import kinematic set..., Line: 7830, Word: 1
+Add new kinematic set..., Line: 7831, Word: 1
+Kinematic set, Line: 7837, Word: 1
+Add new part, Line: 7839, Word: 1
+Edit set..., Line: 7840, Word: 1
+Simulate operation..., Line: 7841, Word: 1
+Export set..., Line: 7842, Word: 1
+Add line..., Line: 7843, Word: 1
+Delete set  X, Line: 7844, Word: 1
+Kinematic part, Line: 7850, Word: 1
+Add part under..., Line: 7852, Word: 1
+Change parent..., Line: 7853, Word: 1
+Hide, Line: 7854, Word: 1
+Show, Line: 7855, Word: 1
+Edit part..., Line: 7856, Word: 1
+Set axis ofset zero, Line: 7857, Word: 1
+Delete part  X, Line: 7858, Word: 1
+CopyAnyPart, Line: 7864, Word: 1
+Set priority..., Line: 7866, Word: 1
+Manuel Nest..., Line: 7867, Word: 1
+Delete  X, Line: 7868, Word: 1
+CopyAnyStock, Line: 7874, Word: 1
+Post, Line: 7876, Word: 1
+Set priority..., Line: 7877, Word: 1
+Make default, Line: 7878, Word: 1
+Delete   X, Line: 7879, Word: 1
+ThreadExplorerMenu, Line: 7885, Word: 1
+Suspend, Line: 7887, Word: 1
+Resume, Line: 7888, Word: 1
+Hide GUI, Line: 7889, Word: 1
+GroupAndSort, Line: 7895, Word: 1
+Group by, Line: 7897, Word: 1
+1, Line: 7899, Word: 1
+2, Line: 7900, Word: 1
+3, Line: 7901, Word: 1
+Sort by, Line: 7903, Word: 1
+1, Line: 7905, Word: 1
+2, Line: 7906, Word: 1
+3, Line: 7907, Word: 1
+Delete           X, Line: 7909, Word: 1
+, Line: 7915, Word: 1
+Hide, Line: 7917, Word: 1
+Group, Line: 7918, Word: 1
+Insert tree link..., Line: 7920, Word: 1
+Auto loop..., Line: 7921, Word: 1
+Search overlaps..., Line: 7922, Word: 1
+Transform, Line: 7924, Word: 1
+Move, Line: 7926, Word: 1
+Rotate, Line: 7927, Word: 1
+Scale, Line: 7928, Word: 1
+Mirror, Line: 7929, Word: 1
+Dynamic, Line: 7930, Word: 1
+Move on work, Line: 7931, Word: 1
+Curve, Line: 7933, Word: 1
+Offset, Line: 7935, Word: 1
+Split curves, Line: 7936, Word: 1
+Fillet, Line: 7937, Word: 1
+Project, Line: 7938, Word: 1
+Min distance line, Line: 7939, Word: 1
+Join curves, Line: 7940, Word: 1
+Extrude, Line: 7941, Word: 1
+Revolve, Line: 7942, Word: 1
+Make Solid 2.5D, Line: 7943, Word: 1
+Make convex hull..., Line: 7944, Word: 1
+Make hull..., Line: 7945, Word: 1
+Edit control points, Line: 7946, Word: 1
+Break planar curves by slope, Line: 7947, Word: 1
+From surface silhouette, Line: 7948, Word: 1
+Surface, Line: 7950, Word: 1
+Extract surface edges, Line: 7952, Word: 1
+Fill gaps, Line: 7953, Word: 1
+Offset surface, Line: 7954, Word: 1
+Make normal lines..., Line: 7955, Word: 1
+Edit control points, Line: 7956, Word: 1
+Delta move control points by surface, Line: 7957, Word: 1
+Extend control points of surface..., Line: 7958, Word: 1
+Path2D, Line: 7960, Word: 1
+Make from curves, Line: 7962, Word: 1
+Explode to curves, Line: 7963, Word: 1
+Position on solid 2D, Line: 7964, Word: 1
+Solid2D, Line: 7966, Word: 1
+Parametric shapes, Line: 7968, Word: 1
+Make from curves, Line: 7969, Word: 1
+Boolean unite, Line: 7970, Word: 1
+Boolean subtract, Line: 7971, Word: 1
+Boolean intersect, Line: 7972, Word: 1
+Hatch, Line: 7973, Word: 1
+Offset, Line: 7974, Word: 1
+Explode to curves, Line: 7975, Word: 1
+Hollow, Line: 7976, Word: 1
+Add path, Line: 7977, Word: 1
+Position on solid 2D, Line: 7978, Word: 1
+Fillet, Line: 7979, Word: 1
+Chamfer, Line: 7980, Word: 1
+Reorder loop, Line: 7981, Word: 1
+Contour 2D, Line: 7983, Word: 1
+Machine selected curves by active template, Line: 7985, Word: 1
+Wire, Line: 7987, Word: 1
+Single contour cutting..., Line: 7989, Word: 1
+Multi contour cutting..., Line: 7990, Word: 1
+Compact cutting..., Line: 7992, Word: 1
+Compact true shape cutting, Line: 7993, Word: 1
+Select part outline..., Line: 7995, Word: 1
+Select part inner holes..., Line: 7996, Word: 1
+Select bend lines..., Line: 7997, Word: 1
+Add rectangle stock..., Line: 7998, Word: 1
+Add free shape stock..., Line: 7999, Word: 1
+Manuel nesting..., Line: 8000, Word: 1
+Show dialog..., Line: 8001, Word: 1
+Visual properties..., Line: 8003, Word: 1
+Edit text, Line: 8004, Word: 1
+MwTemplates, Line: 8010, Word: 1
+Load, Line: 8012, Word: 1
+Rename, Line: 8013, Word: 1
+Delete, Line: 8014, Word: 1
+MwTemplateHeader, Line: 8020, Word: 1
+Import, Line: 8022, Word: 1
+Export, Line: 8023, Word: 1
+VSPGen, Line: 8029, Word: 1
+Edit synchronization..., Line: 8031, Word: 1
+TextureMap Header, Line: 8037, Word: 1
+Show, Line: 8039, Word: 1
+Hide, Line: 8040, Word: 1
+Segmentation..., Line: 8041, Word: 1
+Attach geometry to textures..., Line: 8042, Word: 1
+Coordinate Systems, Line: 8048, Word: 1
+Show, Line: 8050, Word: 1
+Hide, Line: 8051, Word: 1
+Set as active system, Line: 8052, Word: 1
+Attach geometries..., Line: 8053, Word: 1
+Dynamic Transform, Line: 8054, Word: 1
+Reorient to active system, Line: 8055, Word: 1
+Delete, Line: 8056, Word: 1
+Languanges, Line: 8062, Word: 1
+TR, Line: 8064, Word: 1
+ENG, Line: 8065, Word: 1
+Write2SRC, Line: 8066, Word: 1
+Stone nesting, Line: 8072, Word: 1
+Freeze transformation, Line: 8074, Word: 1
+Let transformation, Line: 8075, Word: 1
+Lock button, Line: 8076, Word: 1
+Unlock button, Line: 8077, Word: 1
+Reset button position, Line: 8078, Word: 1
+Edit reorder operations, Line: 8079, Word: 1
+Move to..., Line: 8080, Word: 1
+Rotate..., Line: 8081, Word: 1
+Copy clone, Line: 8082, Word: 1
+Delete, Line: 8083, Word: 1
+This part, Line: 8085, Word: 1
+Selected parts, Line: 8086, Word: 1
+Undelete all, Line: 8087, Word: 1
+Show, Line: 8089, Word: 1
+Information, Line: 8091, Word: 1
+Tool section lines, Line: 8092, Word: 1
+Hatch, Line: 8093, Word: 1
+Operations, Line: 8094, Word: 1
+Hide, Line: 8096, Word: 1
+Information, Line: 8098, Word: 1
+Tool section lines, Line: 8099, Word: 1
+Hatch, Line: 8100, Word: 1
+Operations, Line: 8101, Word: 1
+Stone nesting stock, Line: 8108, Word: 1
+Select this, Line: 8110, Word: 1
+Show information, Line: 8111, Word: 1
+Hide information, Line: 8112, Word: 1
+Delete, Line: 8113, Word: 1
+Delete selected stock, Line: 8115, Word: 1
+Undelete all parts, Line: 8116, Word: 1
+Undelete all stock, Line: 8117, Word: 1
+Optimize and send to machine, Line: 8119, Word: 1
+Blade cut context menu, Line: 8125, Word: 1
+Add to templates, Line: 8127, Word: 1
+Delete template if, Line: 8128, Word: 1
+Rename, Line: 8129, Word: 1
+ValueCollector, Line: 8135, Word: 1
+Edit value, Line: 8137, Word: 1
+Supports and vacuums, Line: 8143, Word: 1
+Add..., Line: 8145, Word: 1
+Delete, Line: 8146, Word: 1
+Stone part solid reference point, Line: 8152, Word: 1
+Add milling operation, Line: 8154, Word: 1
+Add sew blade operation, Line: 8155, Word: 1
+Add 5 axis operation, Line: 8156, Word: 1
+Edit reorder operations, Line: 8157, Word: 1
+Set priority grade, Line: 8158, Word: 1
+Show operations, Line: 8159, Word: 1
+Hide operations, Line: 8160, Word: 1
+Reset loop start position, Line: 8161, Word: 1
+Clear operations, Line: 8162, Word: 1
+Solid2dGraphic, Line: 8168, Word: 1
+Edit parameters..., Line: 8170, Word: 1
+Solid2dTransform, Line: 8176, Word: 1
+Retransform, Line: 8178, Word: 1
+Shapes2d, Line: 8184, Word: 1
+Export, Line: 8186, Word: 1
+Import, Line: 8187, Word: 1
+Tree VConfig, Line: 8193, Word: 1
+Load, Line: 8195, Word: 1
+Save, Line: 8196, Word: 1
+Pack, Line: 8197, Word: 1
+Unpack, Line: 8198, Word: 1
+VTransformationGroup, Line: 8204, Word: 1
+Show, Line: 8206, Word: 1
+Hide, Line: 8207, Word: 1
+Write to disk, Line: 8208, Word: 1
+Control panel, Line: 8209, Word: 1
+Transform all, Line: 8210, Word: 1
+Add part by link name, Line: 8211, Word: 1
+Add tool by name, Line: 8212, Word: 1
+Direct transformation, Line: 8213, Word: 1
+Inverse transformation, Line: 8214, Word: 1
+Show WCS, Line: 8215, Word: 1
+Tolerances and probabilities, Line: 8216, Word: 1
+res\\html_ata.htm, Line: 8444, Word: 1
+StlModel, Line: 8454, Word: 1
+CoordinateSystem, Line: 8455, Word: 1
+Point, Line: 8456, Word: 1
+Curve, Line: 8457, Word: 1
+Surface, Line: 8458, Word: 1
+Folder, Line: 8459, Word: 1
+InfoTexts, Line: 8460, Word: 1
+RecycleBin, Line: 8461, Word: 1
+RecycledItem, Line: 8462, Word: 1
+Transformation, Line: 8463, Word: 1
+Point, Line: 8464, Word: 1
+Vector, Line: 8465, Word: 1
+Box, Line: 8466, Word: 1
+Dimension, Line: 8467, Word: 1
+View, Line: 8468, Word: 1
+Table, Line: 8473, Word: 1
+Text, Line: 8474, Word: 1
+TriangleModel, Line: 8475, Word: 1
+Label, Line: 8476, Word: 1
+VisualModel, Line: 8477, Word: 1
+BoundaryCurve, Line: 8478, Word: 1
+Number of surfaces: , Line: 8479, Word: 1
+File unit is NOT METRIC. You may need to scale !, Line: 8480, Word: 1
+ surfaces successfully imported., Line: 8481, Word: 1
+Number of curves: , Line: 8482, Word: 1
+curves succesfully imported., Line: 8483, Word: 1
+Number of points: , Line: 8484, Word: 1
+points successfully imported., Line: 8485, Word: 1
+Ready to serve you..., Line: 8486, Word: 1
+--> Saving to file..., Line: 8487, Word: 1
+Directory creation failed!, Line: 8488, Word: 1
+Save directory can not be removed!, Line: 8493, Word: 1
+Save not completed!, Line: 8494, Word: 1
+--> Opening file..., Line: 8495, Word: 1
+Fileintro.txt could not be opened!, Line: 8496, Word: 1
+Delete file failed!, Line: 8497, Word: 1
+Remove directory failed!, Line: 8498, Word: 1
+Open done..., Line: 8499, Word: 1
+Open file not completed!, Line: 8500, Word: 1
+Failed to add file to zip archive, Line: 8501, Word: 1
+ added to archive, Line: 8502, Word: 1
+Delete file failed, Line: 8503, Word: 1
+Extracting files from zip archive..., Line: 8504, Word: 1
+Extract done., Line: 8505, Word: 1
+ saving, Line: 8506, Word: 1
+ objects, Line: 8507, Word: 1
+ file can not be opened!, Line: 8508, Word: 1
+ saved..., Line: 8513, Word: 1
+Unknown exception while saving file!, Line: 8514, Word: 1
+ reading , Line: 8515, Word: 1
+File can not be opened for reading, Line: 8516, Word: 1
+Imported..., Line: 8517, Word: 1
+Save done..., Line: 8518, Word: 1
+Untrimmed surfaces are read..., Line: 8519, Word: 1
+Trimmed surfaces are read..., Line: 8520, Word: 1
+Bounded surfaces are read..., Line: 8521, Word: 1
+Curves are read..., Line: 8522, Word: 1
+IGES FILE EXPORT --->, Line: 8523, Word: 1
+SELECT SURFACES , CURVES , POINTS , TABLES TO EXPORT..., Line: 8524, Word: 1
+DEFINE A VECTOR BY 2 POINTS -->, Line: 8525, Word: 1
+SELECT START POINT OF VECTOR..., Line: 8526, Word: 1
+SELECT END POINT OF VECTOR..., Line: 8527, Word: 1
+MAKE A LINK NODE IN TREE VIEW -->, Line: 8528, Word: 1
+SELECT MODELS THAT LINK WILL POINT TO..., Line: 8533, Word: 1
+CHANGE VIEW DIRECTION -->, Line: 8534, Word: 1
+SELECT A VECTOR TO DEFINE NEW VIEW DIRECTION..., Line: 8535, Word: 1
+CLIP VIEW WITH PLANE -->, Line: 8536, Word: 1
+DEFINE CLIP PLANE'S NORMAL VECTOR..., Line: 8537, Word: 1
+DIMENSION DISTANCE -->, Line: 8538, Word: 1
+SELECT FIRST POINT FOR DISTANCE DIMENSIONING..., Line: 8539, Word: 1
+SELECT SECOND POINT FOR DISTANCE DIMENSIONING..., Line: 8540, Word: 1
+Coordinate system origin and X direction point can not be coincident !, Line: 8541, Word: 1
+X direction point can not be on Z axis line!, Line: 8542, Word: 1
+MAKE A COORDINATE SYSTEM -->, Line: 8543, Word: 1
+SELECT COORDINATE SYSTEM ORIGIN POINT..., Line: 8544, Word: 1
+DEFINE A VECTOR FOR Z AXIS OF COORDINATE SYSTEM..., Line: 8545, Word: 1
+SELECT A POINT ON POSITIVE X AXIS LINE..., Line: 8546, Word: 1
+DYNAMIC TRANSFORMATION -->, Line: 8547, Word: 1
+SELECT MODELS TO TRANSFORM DYNAMICALLY..., Line: 8548, Word: 1
+CHANGE VISUAL ATTRIBUTES -->, Line: 8553, Word: 1
+SELECT MODELS TO CHANGE VISUAL ATTRIBUTES..., Line: 8554, Word: 1
+EXPORT STL FILE -->, Line: 8555, Word: 1
+SELECT SURFACE MODELS TO EXPORT TO STL FILE..., Line: 8556, Word: 1
+HIDE MODELS -->, Line: 8557, Word: 1
+SELECT MODELS TO HIDE..., Line: 8558, Word: 1
+POINT:, Line: 8559, Word: 1
+POINT 1:, Line: 8560, Word: 1
+POINT 2:, Line: 8561, Word: 1
+DELTA:, Line: 8562, Word: 1
+ANGLE IN DEGREES: , Line: 8563, Word: 1
+VOLUME TO DEFINED PLANE :, Line: 8564, Word: 1
+AREA:, Line: 8565, Word: 1
+AREA XY:, Line: 8566, Word: 1
+AREA XZ:, Line: 8567, Word: 1
+AREA YZ:, Line: 8568, Word: 1
+MAKE LABEL -->, Line: 8573, Word: 1
+SELECT START POINT OF LABEL..., Line: 8574, Word: 1
+only principal planes are supported for mirror, Line: 8575, Word: 1
+MIRROR MODELS -->, Line: 8576, Word: 1
+Move, Line: 8577, Word: 1
+Rotate, Line: 8578, Word: 1
+Mirror, Line: 8579, Word: 1
+Scale, Line: 8580, Word: 1
+Stepover=, Line: 8581, Word: 1
+Stepdown=, Line: 8582, Word: 1
+Tolerance=, Line: 8583, Word: 1
+Thickness=, Line: 8584, Word: 1
+Angle to X axis=, Line: 8585, Word: 1
+Max z=, Line: 8586, Word: 1
+Min z=, Line: 8587, Word: 1
+SELECT MODELS TO MIRROR..., Line: 8592, Word: 1
+SELECT MIRROR PLANE BASE POINT..., Line: 8593, Word: 1
+MODIFY COORDINATE SYSTEM -->, Line: 8594, Word: 1
+SELECT A COORDINATE SYSTEM..., Line: 8595, Word: 1
+MOVE MODEL -->, Line: 8600, Word: 1
+SELECT MODELS TO MOVE..., Line: 8601, Word: 1
+SELECT TRANSLATION LINE FIRST POINT..., Line: 8602, Word: 1
+SELECT TRANSLATION LINE SECOND POINT..., Line: 8603, Word: 1
+REORIENT MODELS -->, Line: 8604, Word: 1
+SELECT MODELS TO REORIENT..., Line: 8605, Word: 1
+SELECT START COORDINATE SYSTEM..., Line: 8606, Word: 1
+SELECT DESTINATION COORDINATE SYSTEM..., Line: 8607, Word: 1
+SELECTION ABORTED BY USER!, Line: 8608, Word: 1
+Unknown exception occured!, Line: 8609, Word: 1
+Operation could not be completed!, Line: 8610, Word: 1
+Command completed succesfully., Line: 8611, Word: 1
+ROTATE MODEL -->, Line: 8612, Word: 1
+SELECT MODELS TO ROTATE ..., Line: 8613, Word: 1
+SELECT ROTATION CENTER ..., Line: 8614, Word: 1
+SELECT ROTATION AXIS ..., Line: 8615, Word: 1
+SCALE MODELS-->, Line: 8620, Word: 1
+SELECT MODELS TO SCALE..., Line: 8621, Word: 1
+SET ROTATION CENTER POINT-->, Line: 8622, Word: 1
+SELECT ROTATION CENTER POINT..., Line: 8623, Word: 1
+UNHIDE MODELS..., Line: 8624, Word: 1
+SELECT MODELS TO UNHIDE..., Line: 8625, Word: 1
+Triangulation tolerance should be greater than 0.00005!, Line: 8626, Word: 1
+Vector's magnitude is 0!, Line: 8627, Word: 1
+ERROR:  Could not load dll  , Line: 8628, Word: 1
+You can not delete this view!, Line: 8629, Word: 1
+Please start a new project by File-->New command , then retry to open., Line: 8630, Word: 1
+Fail to load toolbar!, Line: 8631, Word: 1
+Fail to load menu!, Line: 8632, Word: 1
+You should select at least one model, Line: 8633, Word: 1
+SolidCNC, Line: 8638, Word: 1
+SolidCNC Doc, Line: 8639, Word: 1
+ON, Line: 8640, Word: 1
+Record bin file:, Line: 8641, Word: 1
+OFF, Line: 8642, Word: 1
+ON, Line: 8643, Word: 1
+Part min-max z:, Line: 8644, Word: 1
+user defined, Line: 8645, Word: 1
+automatic, Line: 8646, Word: 1
+Rotation direction:, Line: 8647, Word: 1
+CW, Line: 8648, Word: 1
+CCW, Line: 8649, Word: 1
+Cutting direction:, Line: 8650, Word: 1
+Climb, Line: 8651, Word: 1
+Conventional, Line: 8652, Word: 1
+Trim to flute length:, Line: 8653, Word: 1
+Init dll failed!, Line: 8658, Word: 1
+License error !, Line: 8659, Word: 1
+LEVELS, Line: 8660, Word: 1
+RECYLE BIN, Line: 8661, Word: 1
+SELECT A POINT TO SCALE AROUND..., Line: 8662, Word: 1
+DELETE MODELS-->, Line: 8663, Word: 1
+SELECT MODELS TO DELETE..., Line: 8664, Word: 1
+GEO, Line: 8665, Word: 1
+Select points on spline, Line: 8670, Word: 1
+Select curve start point, Line: 8671, Word: 1
+Select curve end point, Line: 8672, Word: 1
+Select source curves to make points, Line: 8673, Word: 1
+Make box, Line: 8674, Word: 1
+Select box lower left point, Line: 8675, Word: 1
+Make circle, Line: 8676, Word: 1
+Pick center point, Line: 8677, Word: 1
+Pick point on circle, Line: 8678, Word: 1
+Define radius, Line: 8679, Word: 1
+Define axis vector, Line: 8680, Word: 1
+Center of circle point is not on circle plane, Line: 8681, Word: 1
+Make line by picking start and end points, Line: 8686, Word: 1
+Pick line start point, Line: 8687, Word: 1
+Pick line end point, Line: 8688, Word: 1
+Make lines by picking points sequentially, Line: 8689, Word: 1
+Pick points sequentially, Line: 8690, Word: 1
+Make line by start point , length and direction vector definitions, Line: 8692, Word: 1
+Select line direction vector, Line: 8693, Word: 1
+Make line by  start point , angle and length definitions, Line: 8695, Word: 1
+Pick start point of line, Line: 8696, Word: 1
+Make points from surface, Line: 8697, Word: 1
+Select source surfaces to make points, Line: 8698, Word: 1
+Trim surface, Line: 8699, Word: 1
+Select surface and trimming curves, Line: 8700, Word: 1
+Extrude curves to make surface, Line: 8701, Word: 1
+Select curves to extrude, Line: 8706, Word: 1
+Select direction vector for extrusion, Line: 8707, Word: 1
+Extrude length, Line: 8708, Word: 1
+Make ruled surface, Line: 8709, Word: 1
+Select first curve set, Line: 8710, Word: 1
+Select second curve set, Line: 8711, Word: 1
+Revolve curves to make surface, Line: 8712, Word: 1
+Select curves, Line: 8713, Word: 1
+Select rotation center, Line: 8714, Word: 1
+Select rotation axis vector, Line: 8715, Word: 1
+The document changed!  Would you like to save before closing ? , Line: 8716, Word: 1
+Make lines, Line: 8721, Word: 1
+Make circles/arcs, Line: 8722, Word: 1
+Make spline curve, Line: 8723, Word: 1
+Make fillet, Line: 8724, Word: 1
+Make minimum distance line or point between models, Line: 8725, Word: 1
+Make surfaces to fill holes, Line: 8726, Word: 1
+Project curves, Line: 8727, Word: 1
+Split curves, Line: 8728, Word: 1
+Make offset curves, Line: 8729, Word: 1
+Extend curves, Line: 8734, Word: 1
+Single contour wire cut, Line: 8739, Word: 1
+Multi contour wire cut, Line: 8740, Word: 1
+4 axis wire cut, Line: 8741, Word: 1
+Surface wire cutting, Line: 8742, Word: 1
+Conic+vertical cut, Line: 8743, Word: 1
+Machining interval angle1=, Line: 8748, Word: 1
+Machining interval angle2=, Line: 8749, Word: 1
+Minimum width=, Line: 8750, Word: 1
+Center X=, Line: 8751, Word: 1
+Center Y=, Line: 8752, Word: 1
+Center Z=, Line: 8753, Word: 1
+Radius start=, Line: 8754, Word: 1
+Radius end=, Line: 8755, Word: 1
+Projection interval angle1=, Line: 8756, Word: 1
+Projection interval angle2=, Line: 8757, Word: 1
+Offset count=, Line: 8758, Word: 1
+Start corner:, Line: 8759, Word: 1
+Lower left, Line: 8760, Word: 1
+Lower right, Line: 8761, Word: 1
+Upper right, Line: 8762, Word: 1
+Upper left, Line: 8763, Word: 1
+Machine between slope angles:, Line: 8768, Word: 1
+OFF, Line: 8769, Word: 1
+ON, Line: 8774, Word: 1
+OFF, Line: 8775, Word: 1
+Adaptive scan:, Line: 8776, Word: 1
+ON, Line: 8777, Word: 1
+OFF, Line: 8778, Word: 1
+Center point:, Line: 8779, Word: 1
+POINT, Line: 8780, Word: 1
+BOUNDARY CURVES:, Line: 8781, Word: 1
+BOUNDARY, Line: 8782, Word: 1
+MACHINING SURFACES:, Line: 8783, Word: 1
+Previous Tool Diameter=, Line: 8784, Word: 1
+Ramp angle=, Line: 8785, Word: 1
+Ramp length=, Line: 8786, Word: 1
+Ramp helical diameter=, Line: 8787, Word: 1
+Draft angle=, Line: 8788, Word: 1
+Ramp Type:, Line: 8789, Word: 1
+Auto, Line: 8794, Word: 1
+Helical, Line: 8795, Word: 1
+Zigzag, Line: 8796, Word: 1
+Line, Line: 8797, Word: 1
+Profile, Line: 8798, Word: 1
+Smooth corners:, Line: 8799, Word: 1
+ON, Line: 8800, Word: 1
+OFF, Line: 8801, Word: 1
+Smooth Links:, Line: 8802, Word: 1
+ON, Line: 8803, Word: 1
+OFF, Line: 8804, Word: 1
+Remove corner pegs:, Line: 8805, Word: 1
+ON, Line: 8806, Word: 1
+OFF, Line: 8807, Word: 1
+Rest Machining:, Line: 8808, Word: 1
+OFF, Line: 8809, Word: 1
+ON, Line: 8814, Word: 1
+Offset direction:, Line: 8815, Word: 1
+LEFT, Line: 8816, Word: 1
+RIGHT, Line: 8817, Word: 1
+BOTH DIRECTIONS, Line: 8818, Word: 1
+Cut:, Line: 8819, Word: 1
+One direction, Line: 8820, Word: 1
+Zigzag, Line: 8821, Word: 1
+Direction for one way machining:, Line: 8822, Word: 1
+Climb, Line: 8823, Word: 1
+Conventional, Line: 8824, Word: 1
+Machine by:, Line: 8825, Word: 1
+Levels, Line: 8826, Word: 1
+Regions, Line: 8827, Word: 1
+Start:, Line: 8828, Word: 1
+Top, Line: 8829, Word: 1
+Bottom, Line: 8834, Word: 1
+Check collision between points:, Line: 8835, Word: 1
+ON, Line: 8836, Word: 1
+OFF, Line: 8837, Word: 1
+Extend tool to infinity:, Line: 8838, Word: 1
+ON , Line: 8839, Word: 1
+OFF, Line: 8840, Word: 1
+Check collision for link moves:, Line: 8841, Word: 1
+ON, Line: 8842, Word: 1
+OFF, Line: 8843, Word: 1
+Report remaining collisions:, Line: 8844, Word: 1
+ON, Line: 8845, Word: 1
+OFF, Line: 8846, Word: 1
+Drop Tool whenever needed:, Line: 8847, Word: 1
+ON, Line: 8848, Word: 1
+OFF, Line: 8849, Word: 1
+Remove gauging points, Line: 8854, Word: 1
+Move along tool axis, Line: 8855, Word: 1
+Move along contact line, Line: 8856, Word: 1
+Move along Z, Line: 8857, Word: 1
+Move along -Z, Line: 8858, Word: 1
+Move along X, Line: 8859, Word: 1
+Move along -X, Line: 8860, Word: 1
+Move along Y, Line: 8861, Word: 1
+Move along -Y, Line: 8862, Word: 1
+Move in XY plane, Line: 8863, Word: 1
+Move in XZ plane, Line: 8864, Word: 1
+Move in YZ plane, Line: 8865, Word: 1
+Move opt. in XY plane, Line: 8866, Word: 1
+Move opt. in XZ plane, Line: 8867, Word: 1
+Move opt. in YZ plane, Line: 8868, Word: 1
+Move along surface normal, Line: 8869, Word: 1
+Report remaining collisions, Line: 8874, Word: 1
+Check cutter part of tool:, Line: 8875, Word: 1
+Check tool extension:, Line: 8876, Word: 1
+ON, Line: 8877, Word: 1
+OFF, Line: 8878, Word: 1
+ON, Line: 8879, Word: 1
+OFF, Line: 8880, Word: 1
+Cutter clearence=, Line: 8881, Word: 1
+Tool extension clearence=, Line: 8882, Word: 1
+Check machining surfaces:, Line: 8883, Word: 1
+ON, Line: 8884, Word: 1
+OFF, Line: 8885, Word: 1
+Thickness for check surfaces=, Line: 8886, Word: 1
+PARALLEL CUTS ALONG X AXIS, Line: 8887, Word: 1
+PARALLEL CUTS ALONG Y AXIS, Line: 8888, Word: 1
+PARALLEL CUTS WITH ANGLE TO X AXIS, Line: 8889, Word: 1
+Z CONSTANT MACHINING, Line: 8894, Word: 1
+FLAT LANDS MACHINING, Line: 8895, Word: 1
+SPIRAL PROJECTION, Line: 8896, Word: 1
+RADIAL PROJECTION, Line: 8897, Word: 1
+CONST CUSP MACHINING, Line: 8898, Word: 1
+GEODESIC, Line: 8899, Word: 1
+CORNER MACHINING, Line: 8900, Word: 1
+CURVE PROJECTION, Line: 8901, Word: 1
+CYLINDIRIC PROJECTION, Line: 8902, Word: 1
+ROUGH MACHINING, Line: 8903, Word: 1
+Check link moves to containment:, Line: 8904, Word: 1
+ON, Line: 8905, Word: 1
+OFF, Line: 8906, Word: 1
+Direct, Line: 8907, Word: 1
+Spline, Line: 8908, Word: 1
+Fallow surface, Line: 8909, Word: 1
+Rise to feed height, Line: 8914, Word: 1
+Rise to rapid height, Line: 8915, Word: 1
+Rise to safe plane, Line: 8916, Word: 1
+Start from safe plane, Line: 8917, Word: 1
+Start from rapid move height, Line: 8918, Word: 1
+Start from feed height, Line: 8919, Word: 1
+Rise to safe plane at the end, Line: 8920, Word: 1
+Rise to rapid height at the end, Line: 8921, Word: 1
+Rise to feed height at the end, Line: 8922, Word: 1
+Tang.Arc, Line: 8923, Word: 1
+ReverseTang.Arc, Line: 8924, Word: 1
+VerticalTang.Arc, Line: 8925, Word: 1
+HorizantalTang.Arc, Line: 8926, Word: 1
+Ortho.Arc, Line: 8927, Word: 1
+Tang.Line, Line: 8928, Word: 1
+Ortho.Line, Line: 8929, Word: 1
+ReverseTang.Line, Line: 8934, Word: 1
+ReverseVerticalProfileRamp, Line: 8935, Word: 1
+Direct, Line: 8936, Word: 1
+ABSOLUTE, Line: 8937, Word: 1
+%STEPOVER, Line: 8938, Word: 1
+%TOOLDIAM, Line: 8939, Word: 1
+ALL TOOL, Line: 8940, Word: 1
+There is no job selected. Please select a job and then continue., Line: 8941, Word: 1
+The file for writing could not be opened!, Line: 8942, Word: 1
+Unknown exception!, Line: 8943, Word: 1
+Unexpected exception during mwMachSimFacade::Destroy call, Line: 8944, Word: 1
+Before machining you should select machining geometry!, Line: 8945, Word: 1
+There is no machining surface!, Line: 8946, Word: 1
+One of the parameters is wrong,please correct it and retry!, Line: 8947, Word: 1
+While reading the settings an error occured and defaults are loaded!, Line: 8948, Word: 1
+An error occured while writing project settings!, Line: 8949, Word: 1
+Please choose a tool!, Line: 8954, Word: 1
+You can select a single item, please reselect!, Line: 8955, Word: 1
+After selection press OK!, Line: 8956, Word: 1
+This cycle is not implemented yet!, Line: 8957, Word: 1
+Please select machining surface!, Line: 8958, Word: 1
+You can use maximum 4 collision checks, Line: 8959, Word: 1
+Invalid tool profile!, Line: 8960, Word: 1
+You need to select a toolpath for animation, Line: 8961, Word: 1
+You need to select a toolpath for posting., Line: 8962, Word: 1
+File could not be opened!, Line: 8963, Word: 1
+Tool, Line: 8964, Word: 1
+Surface area point cloud, Line: 8965, Word: 1
+3ax form milling analysis, Line: 8966, Word: 1
+Toolpath, Line: 8967, Word: 1
+Machining surfaces, Line: 8968, Word: 1
+Machining curves, Line: 8969, Word: 1
+Lead in-out, Line: 8974, Word: 1
+Machining session, Line: 8975, Word: 1
+Lead-Link set, Line: 8976, Word: 1
+Collision Control, Line: 8977, Word: 1
+DEFINE MACHINING CURVES-->, Line: 8978, Word: 1
+SELECT CURVES FOR MACHINING..., Line: 8979, Word: 1
+CALCULATING MACHINING OPERATION -->, Line: 8980, Word: 1
+   Calculating..., Line: 8981, Word: 1
+Calculation cancelled by user!, Line: 8982, Word: 1
+Calculation successfully done in , Line: 8983, Word: 1
+MW Error message: , Line: 8984, Word: 1
+Error: Unknown exception!, Line: 8985, Word: 1
+Select a start point for sorting the curves..., Line: 8986, Word: 1
+DEFINE MACHINING SURFACES -->, Line: 8987, Word: 1
+SELECT MACHINING SURFACES..., Line: 8988, Word: 1
+Rotate around X axis:, Line: 8989, Word: 1
+Start machining project\nStart machining project, Line: 8994, Word: 1
+NCPOSTBOX, Line: 8999, Word: 1
+Angle of rotation around X=, Line: 9000, Word: 1
+Post box is empty ! Add an operation and then post., Line: 9001, Word: 1
+OPERATIONS, Line: 9002, Word: 1
+Roughing Block Enlarge=, Line: 9003, Word: 1
+ROUGHING STOCK MODEL, Line: 9004, Word: 1
+This entity is used by other entities.You can not delete it!, Line: 9005, Word: 1
+COLLISION CONTROL, Line: 9006, Word: 1
+TOOLS, Line: 9007, Word: 1
+- PLEASE SELECT A TOOL -, Line: 9008, Word: 1
+CylinderAxStartX=, Line: 9009, Word: 1
+CylinderAxStartY=, Line: 9010, Word: 1
+CylinderAxStartZ=, Line: 9011, Word: 1
+StartHeight=, Line: 9012, Word: 1
+EndHeight=, Line: 9013, Word: 1
+StartAngle=, Line: 9014, Word: 1
+Tools, Line: 9019, Word: 1
+Make machining surfaces, Line: 9020, Word: 1
+Make machining curves, Line: 9021, Word: 1
+Make lead in out, Line: 9022, Word: 1
+Make operation, Line: 9023, Word: 1
+Contour 2D, Line: 9024, Word: 1
+Drilling, Line: 9025, Word: 1
+Compact Cutting, Line: 9026, Word: 1
+Post Processor Settings, Line: 9027, Word: 1
+Settings, Line: 9028, Word: 1
+EndAngle=, Line: 9033, Word: 1
+AngleStep=, Line: 9034, Word: 1
+CylinderRadius=, Line: 9035, Word: 1
+Cylindiric cut method:, Line: 9036, Word: 1
+spiral, Line: 9037, Word: 1
+oneway, Line: 9038, Word: 1
+zigzag, Line: 9039, Word: 1
+Cylindiric cut order:, Line: 9040, Word: 1
+standard, Line: 9041, Word: 1
+from center a way, Line: 9042, Word: 1
+from outside to center, Line: 9043, Word: 1
+MultiPasses:, Line: 9044, Word: 1
+ON, Line: 9045, Word: 1
+OFF, Line: 9046, Word: 1
+ProjectionStyle:, Line: 9047, Word: 1
+AROUND, Line: 9048, Word: 1
+ALONG, Line: 9053, Word: 1
+ProjectionDirection:, Line: 9054, Word: 1
+INWARDS, Line: 9055, Word: 1
+OUTWARDS, Line: 9056, Word: 1
+No of intermediate slices=, Line: 9057, Word: 1
+Number of rough passes=, Line: 9058, Word: 1
+Rough spacing=, Line: 9059, Word: 1
+Number of finish passes=, Line: 9060, Word: 1
+Finish spacing=, Line: 9061, Word: 1
+SortType:, Line: 9062, Word: 1
+BY PASSES, Line: 9063, Word: 1
+BY SLICES, Line: 9064, Word: 1
+TOOLNAME:, Line: 9065, Word: 1
+DIAMETER:, Line: 9066, Word: 1
+CORNERRADIUS:, Line: 9067, Word: 1
+HEIGHT:, Line: 9068, Word: 1
+Operations, Line: 9073, Word: 1
+DRILL, Line: 9074, Word: 1
+Pecking:, Line: 9075, Word: 1
+ON, Line: 9076, Word: 1
+OFF, Line: 9077, Word: 1
+Peck Depth=, Line: 9078, Word: 1
+NC FILE WRITTEN. , Line: 9079, Word: 1
+Silhoutte Containment:, Line: 9080, Word: 1
+None, Line: 9081, Word: 1
+Part silhouette, Line: 9082, Word: 1
+Part end height, Line: 9083, Word: 1
+Collision Checks, Line: 9084, Word: 1
+Projection Curves, Line: 9085, Word: 1
+Drilling Lines, Line: 9086, Word: 1
+Check tool tip collision:, Line: 9087, Word: 1
+ON, Line: 9088, Word: 1
+OFF, Line: 9093, Word: 1
+Check tool extension collision:, Line: 9094, Word: 1
+ON, Line: 9095, Word: 1
+OFF, Line: 9096, Word: 1
+Tool contact, Line: 9097, Word: 1
+Top of vertical walls, Line: 9098, Word: 1
+Bottom of vertical walls, Line: 9099, Word: 1
+OPERATIONS 2.5, Line: 9100, Word: 1
+Start Position:, Line: 9101, Word: 1
+AUTOMATIC, Line: 9102, Word: 1
+USER DEFINED, Line: 9103, Word: 1
+Start Position Definition:, Line: 9104, Word: 1
+BY POINT, Line: 9105, Word: 1
+BY SURFACE NORMAL, Line: 9106, Word: 1
+Start Point X=, Line: 9107, Word: 1
+Start Point Y=, Line: 9108, Word: 1
+Start Point Z=, Line: 9113, Word: 1
+Start Normal I=, Line: 9114, Word: 1
+Start Normal J=, Line: 9115, Word: 1
+Start Normal K=, Line: 9116, Word: 1
+Start Point In Subsequent Cuts:, Line: 9117, Word: 1
+SHIFT BY VALUE, Line: 9118, Word: 1
+MINIMIZE SURFACE NORMAL CHANGE, Line: 9119, Word: 1
+Shift Value=, Line: 9120, Word: 1
+Adaptive Roughing:, Line: 9121, Word: 1
+ON, Line: 9122, Word: 1
+OFF, Line: 9123, Word: 1
+Machine Flat Lands:, Line: 9124, Word: 1
+ON, Line: 9125, Word: 1
+OFF, Line: 9126, Word: 1
+CylinderAxisX=, Line: 9127, Word: 1
+CylinderAxisY=, Line: 9128, Word: 1
+CylinderAxisZ=, Line: 9133, Word: 1
+Force rotary calculation:, Line: 9134, Word: 1
+ON, Line: 9135, Word: 1
+OFF, Line: 9136, Word: 1
+Point distribution max dist flag:, Line: 9137, Word: 1
+ON, Line: 9138, Word: 1
+OFF, Line: 9139, Word: 1
+Point distribution min dist flag:, Line: 9140, Word: 1
+ON, Line: 9141, Word: 1
+OFF, Line: 9142, Word: 1
+Point distribution max dist=, Line: 9143, Word: 1
+Point distribution min dist=, Line: 9144, Word: 1
+Roughing filter (% of tool diam)=, Line: 9145, Word: 1
+Geodesic type:, Line: 9146, Word: 1
+offset, Line: 9147, Word: 1
+morph, Line: 9148, Word: 1
+Geodesic step direction:, Line: 9153, Word: 1
+left, Line: 9154, Word: 1
+right, Line: 9155, Word: 1
+Geodesic no of cuts=, Line: 9156, Word: 1
+Geodesic cut order:, Line: 9157, Word: 1
+From center a way, Line: 9158, Word: 1
+From outside to center, Line: 9159, Word: 1
+Constant cusp cut order:, Line: 9160, Word: 1
+Standard, Line: 9161, Word: 1
+From center a way, Line: 9162, Word: 1
+From outside to center, Line: 9163, Word: 1
+From top to bottom, Line: 9164, Word: 1
+From bottom to top, Line: 9165, Word: 1
+Rest mach. prev. tool tip rad. =, Line: 9166, Word: 1
+Rest mach. prev. stock to leave =, Line: 9167, Word: 1
+Tool containment:, Line: 9168, Word: 1
+Inside curve, Line: 9173, Word: 1
+Center curve, Line: 9174, Word: 1
+Outside curve, Line: 9175, Word: 1
+Containment curve offset=, Line: 9176, Word: 1
+Silhoutte containment offset=, Line: 9177, Word: 1
+NCToolpath, Line: 9178, Word: 1
+ON, Line: 9183, Word: 1
+Bin packing parameters, Line: 9188, Word: 1
+FirstBoxHrsCoef, Line: 9193, Word: 1
+Work space diameter, Line: 9198, Word: 1
+Import inserts, Line: 9199, Word: 1
+Metric System, Line: 9200, Word: 1
+Inches, Line: 9201, Word: 1
+Make curves from text outline, Line: 9206, Word: 1
+Container sheet, Line: 9211, Word: 1
+Overwrite big z coordinates, Line: 9212, Word: 1
+Hide corrupted models, Line: 9213, Word: 1
+Z limit, Line: 9214, Word: 1
+Z replacement, Line: 9215, Word: 1
+\nMake points, Line: 9220, Word: 1
+\nMake Lines, Line: 9221, Word: 1
+\nMake Circles, Line: 9222, Word: 1
+\nMake Spline, Line: 9223, Word: 1
+\nFillet, Line: 9224, Word: 1
+\nMin. distance line, Line: 9225, Word: 1
+\nExtrude, Line: 9226, Word: 1
+\nRevolve, Line: 9227, Word: 1
+\nFill Gaps, Line: 9228, Word: 1
+\nRuled surface, Line: 9229, Word: 1
+\nMake box, Line: 9230, Word: 1
+\nTrim surfaces, Line: 9231, Word: 1
+\nProject wireframe, Line: 9232, Word: 1
+\nSplit curves, Line: 9233, Word: 1
+\nOffset, Line: 9234, Word: 1
+\nExtend, Line: 9235, Word: 1
+\nFit view, Line: 9240, Word: 1
+\nFront view, Line: 9241, Word: 1
+\nDynamic rotate, Line: 9242, Word: 1
+\nZoom pan, Line: 9243, Word: 1
+\nZoom to box, Line: 9244, Word: 1
+\nPan, Line: 9245, Word: 1
+\nRight view, Line: 9246, Word: 1
+\nTop view, Line: 9251, Word: 1
+\nDistances1, Line: 9256, Word: 1
+\nCoordinate System, Line: 9257, Word: 1
+\nPreferences, Line: 9258, Word: 1
+\nIsometric view, Line: 9259, Word: 1
+\nHide model, Line: 9264, Word: 1
+\nUnhide model, Line: 9265, Word: 1
+\nView manager, Line: 9270, Word: 1
+\nTransform, Line: 9275, Word: 1
+\nVisual attributes, Line: 9280, Word: 1
+\nScreen to BMP, Line: 9285, Word: 1
+\nMake text, Line: 9286, Word: 1
+\nDistances2, Line: 9291, Word: 1
+\nTrue shape compact cutting, Line: 9296, Word: 1
+\nMulti wireEDM cutting, Line: 9297, Word: 1
+\n4 axis wireEDM cutting, Line: 9298, Word: 1
+\nSurface section, Line: 9299, Word: 1
+\nTools page, Line: 9304, Word: 1
+\nMake stock, Line: 9305, Word: 1
+\nStone cut milling, Line: 9306, Word: 1
+\nSew blade cutting, Line: 9307, Word: 1
+\nAdvanced milling4, Line: 9308, Word: 1
+\n2D contour milling, Line: 9309, Word: 1
+\nCompact cutting, Line: 9310, Word: 1
+\nDrilling page, Line: 9311, Word: 1
+\nPost processor settings, Line: 9312, Word: 1
+\nMilling settings, Line: 9313, Word: 1
+\nTables Page, Line: 9314, Word: 1
+\nExtract surface edges, Line: 9319, Word: 1
+\nJoin Curves, Line: 9320, Word: 1
+\nStandard color mode, Line: 9325, Word: 1
+\nVariable color mode, Line: 9326, Word: 1
+/nPathCalc2D, Line: 9331, Word: 1
+Parametric shapes, Line: 9336, Word: 1
+Make solid2d, Line: 9341, Word: 1
+Hatch, Line: 9342, Word: 1
+Boolean unite, Line: 9347, Word: 1
+Boolean intersect, Line: 9348, Word: 1
+Boolean subtract, Line: 9349, Word: 1
+Explode, Line: 9354, Word: 1
+Hollow, Line: 9359, Word: 1

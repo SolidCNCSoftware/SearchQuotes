@@ -1,0 +1,4598 @@
+resource.h, Line: 3
+afxres.h, Line: 10
+bmp00002.bmp, Line: 27
+bitmap3.bmp, Line: 29
+bmp00001.bmp, Line: 31
+bmp00003.bmp, Line: 33
+bmp00004.bmp, Line: 35
+bitmap2.bmp, Line: 37
+res\\CompanyName.bmp, Line: 39
+MachSim Parameters, Line: 49
+MS Sans Serif, Line: 50
+Collision, Line: 52
+Collision control eanbled, Line: 53
+Button, Line: 53
+Part Tolerance, Line: 54
+Part Offset, Line: 56
+Collision control between moves, Line: 58
+Button, Line: 59
+Environment, Line: 60
+Enable machine definition editing, Line: 61
+Button, Line: 62
+Multisample, Line: 63
+Disabled, Line: 64
+Button, Line: 64
+2x, Line: 65
+Button, Line: 65
+4x, Line: 66
+Button, Line: 66
+Mesh smooth angle, Line: 67
+Part Origin, Line: 69
+X, Line: 70
+Y, Line: 72
+Z, Line: 74
+OK, Line: 76
+Cancel, Line: 77
+Machine Simulation, Line: 82
+MS Shell Dlg, Line: 83
+res\\bitmap1.bmp, Line: 138
+res\\Toolbar.bmp, Line: 140
+res\\toolbar2.bmp, Line: 142
+About SolidCNC..., Line: 152
+MS Sans Serif, Line: 153
+CNC Teknolojik Yazilim Sistemleri Ltd., Line: 156
+http://www.solidcnc.net, Line: 157
+OK, Line: 158
+MS Sans Serif, Line: 165
+TODO: layout dialog bar , Line: 167
+Diffuse, Line: 172
+MS Sans Serif, Line: 173
+-1...........................0...........................1, Line: 175
+R, Line: 176
+Slider1, Line: 177
+msctls_trackbar32, Line: 177
+G, Line: 178
+Slider1, Line: 179
+msctls_trackbar32, Line: 179
+B, Line: 180
+Slider1, Line: 181
+msctls_trackbar32, Line: 181
+A, Line: 182
+Slider1, Line: 183
+msctls_trackbar32, Line: 183
+Static, Line: 184
+Static, Line: 185
+Static, Line: 186
+Static, Line: 187
+License Manager, Line: 192
+MS Sans Serif, Line: 193
+OK, Line: 195
+Cancel, Line: 196
+Please enter key2, Line: 198
+, Line: 200
+{8856F961-340A-11D0-A96B-00C04FD705A2}, Line: 200
+Key1, Line: 201
+PLEASE COPY KEY1 TO THE WEB FORM'S KEY1 FIELD , Line: 202
+PLEASE COPY THE GENERATED KEY2 BELLOW , Line: 203
+Start up settings directory, Line: 204
+MS Shell Dlg, Line: 210
+Run, Line: 212
+, Line: 213
+SysListView32, Line: 213
+Make new line, Line: 215
+Delete line, Line: 216
+Record table, Line: 217
+res\\viewpoint.ico, Line: 275
+res\\viewpoint.ico, Line: 277
+res\\viewpoint.ico, Line: 279
+resource.h\0, Line: 290
+#include , Line: 295
+afxres.h, Line: 295
+\r\n, Line: 295
+\0, Line: 296
+\r\n, Line: 301
+\0, Line: 302
+W, Line: 315
+A, Line: 316
+L, Line: 317
+P, Line: 318
+C, Line: 319
+X, Line: 322
+F, Line: 323
+V, Line: 324
+Z, Line: 327
+Y, Line: 328
+N, Line: 329
+O, Line: 330
+P, Line: 331
+S, Line: 332
+StringFileInfo, Line: 357
+080004b0, Line: 359
+CompanyName, Line: 361
+CNC Technological Software Systems Ltd., Line: 361
+FileDescription, Line: 362
+SolidCNC Software, Line: 362
+FileVersion, Line: 363
+2024.2.24.2973, Line: 363
+InternalName, Line: 364
+SolidCNC, Line: 364
+LegalCopyright, Line: 365
+Copyright (C) 2013, Line: 365
+OriginalFilename, Line: 366
+SolidCNC.exe, Line: 366
+ProductName, Line: 367
+SolidCNC Software, Line: 367
+ProductVersion, Line: 368
+2024.2.24.2973, Line: 368
+VarFileInfo, Line: 371
+Translation, Line: 373
+&File, Line: 385
+&New\tCtrl+N, Line: 387
+&Open...\tCtrl+O, Line: 388
+P&rint Setup..., Line: 390
+Recent File, Line: 392
+E&xit, Line: 394
+&View, Line: 396
+&Araï¿½larr, Line: 398
+&Status Bar, Line: 399
+Project Explorer, Line: 400
+Output Window, Line: 401
+&Language, Line: 403
+Dummy, Line: 405
+&Help, Line: 407
+&About SolidCNC..., Line: 409
+Client Context, Line: 415
+Pan, Line: 417
+Zoom to Box, Line: 418
+Zoom & Pan, Line: 419
+Rotate, Line: 420
+Roll, Line: 421
+Fit, Line: 423
+ChangeViewTo, Line: 425
+Top, Line: 427
+Front, Line: 428
+Right, Line: 429
+Bottom, Line: 430
+Back, Line: 431
+Left, Line: 432
+DrawStyle, Line: 434
+ShadedAndWireFrame, Line: 436
+Shaded, Line: 437
+WireFrame, Line: 438
+HiddenLine, Line: 439
+Transparent HiddenLine, Line: 440
+Triangles, Line: 441
+ChangeViewDir..., Line: 443
+SetRotCenter..., Line: 444
+Dimensions, Line: 445
+List..., Line: 447
+On screen..., Line: 448
+Delete X, Line: 450
+&File, Line: 456
+&New\tCtrl+N, Line: 458
+&Open...\tCtrl+O, Line: 459
+Open multi files..., Line: 460
+&Close, Line: 461
+S&ave As..., Line: 462
+Save Iges..., Line: 463
+Save STL..., Line: 464
+Save Dxf..., Line: 465
+Read NC files..., Line: 466
+Export Surfaces&Curves To LuaScript..., Line: 467
+Recently Opened, Line: 470
+E&xit, Line: 472
+&Edit, Line: 474
+Undo last action(CTRL-Z), Line: 477
+Redo last undo(CTRL-Y), Line: 478
+Copy..., Line: 479
+Find text...(CTRL-F), Line: 480
+Visual Attributes..., Line: 481
+Transform, Line: 482
+Move..., Line: 484
+Rotate..., Line: 485
+Scale..., Line: 486
+Mirror..., Line: 487
+Reorient..., Line: 488
+Dynamic..., Line: 489
+Move on work plane..., Line: 490
+Coordinate system, Line: 492
+Select active coordinate system..., Line: 494
+Modify..., Line: 495
+Visibility..., Line: 497
+Delete..., Line: 498
+Analyze Mode, Line: 499
+Curve (F2), Line: 501
+Surface (F3), Line: 502
+Exit Analyze Mode (Esc), Line: 503
+Explode text to curves..., Line: 505
+Make unselectable, Line: 506
+Remake selectable, Line: 507
+&View, Line: 509
+&Toolbars, Line: 511
+Open, Line: 513
+Basic, Line: 514
+View, Line: 515
+Sketch, Line: 516
+WireEDM, Line: 517
+Mill, Line: 518
+Solid2d, Line: 519
+&Status Bar, Line: 521
+Treeview, Line: 522
+Plugin Window, Line: 523
+IE window, Line: 524
+Change view direction..., Line: 525
+Hide..., Line: 526
+Show hidden..., Line: 527
+Save screen view as bmp..., Line: 528
+Auto bmp generate from screen..., Line: 529
+Dynamic clipping..., Line: 530
+Status Window, Line: 531
+Selection Bar, Line: 532
+Coordinates Bar, Line: 533
+IE Window Home Page, Line: 534
+Regenerate graphics..., Line: 535
+ChangeViewTo, Line: 536
+Top, Line: 538
+Front, Line: 539
+Right, Line: 540
+Bottom, Line: 541
+Back, Line: 542
+Left, Line: 543
+Iso, Line: 544
+DrawStyle, Line: 546
+ShadedAndWireFrame, Line: 548
+Shaded, Line: 549
+WireFrame, Line: 550
+HiddenLine, Line: 551
+Transparent HiddenLine, Line: 552
+Triangles, Line: 553
+ChangeViewDir..., Line: 555
+ColorMode, Line: 556
+Standard, Line: 558
+Variable, Line: 559
+Free selection form, Line: 561
+Post process simulations, Line: 562
+Macro tables dialog, Line: 563
+&Insert, Line: 565
+Coordinate system, Line: 567
+Absolute, Line: 569
+As view direction, Line: 570
+By dialog..., Line: 571
+Box..., Line: 573
+Text..., Line: 574
+Label..., Line: 575
+Section..., Line: 576
+Tree link..., Line: 577
+Points from BMP..., Line: 578
+Silhoutte..., Line: 579
+Color definition..., Line: 580
+Glyph Sets..., Line: 581
+Color map..., Line: 582
+Attach texture to surface..., Line: 583
+Auto loop..., Line: 584
+Search overlaps..., Line: 585
+PathCalc2D, Line: 586
+Stone nesting, Line: 587
+Select stock..., Line: 589
+Make hull, Line: 591
+Supports and vacuum..., Line: 592
+Make transformation group, Line: 593
+&Preferences, Line: 595
+Triangles Read Write..., Line: 597
+IGES Read..., Line: 598
+Colors and display..., Line: 599
+Mouse Options..., Line: 600
+DXF Read..., Line: 601
+DXF Export..., Line: 602
+Lua Script..., Line: 603
+Segmentation Parameters..., Line: 604
+Stone Parameters..., Line: 605
+Free selection, Line: 606
+Factory Settings, Line: 607
+Load Factory Settings, Line: 609
+Create My Factory Settings, Line: 610
+Load My Factory Settings, Line: 611
+Load My Factory Settings to Cloud, Line: 612
+Get My Factoyr Settings From Cloud, Line: 613
+General settings..., Line: 615
+Configurations..., Line: 616
+Settings root directory, Line: 617
+&Dimensions, Line: 619
+&List..., Line: 621
+Dimension..., Line: 622
+Dynamic Curve Info, Line: 623
+Dynamic Surface Info, Line: 624
+Exit Dynamic Info, Line: 625
+&Window, Line: 627
+&New Window, Line: 629
+&Cascade, Line: 630
+&Tile, Line: 631
+&Arrange Icons, Line: 632
+Test..., Line: 633
+Geo, Line: 635
+Make Points..., Line: 637
+Make curves, Line: 638
+Lines..., Line: 640
+Circles/Arcs..., Line: 641
+Ellipse..., Line: 642
+Spiral, Line: 643
+Splines..., Line: 644
+Surface silhouette..., Line: 645
+Extract triangles edges..., Line: 646
+Normal lines from surface..., Line: 647
+Extract surface edges..., Line: 648
+Make convex hull..., Line: 649
+Make hull..., Line: 650
+Make reversed copy..., Line: 651
+Fillet, Line: 652
+Min distance, Line: 653
+Make net, Line: 655
+By grid dialog, Line: 657
+Make surfaces, Line: 659
+Ruled..., Line: 661
+Surface of revolution..., Line: 662
+Offset surface..., Line: 663
+Extrusion..., Line: 664
+From segments..., Line: 665
+From planar curves..., Line: 666
+From net..., Line: 667
+Maked reversed copy..., Line: 668
+Reform by B-Spline(s), Line: 669
+Make shell, Line: 671
+Filleting..., Line: 672
+Minimum Distance..., Line: 673
+Curve-curve..., Line: 675
+Close holes of a surface..., Line: 677
+Make Box..., Line: 678
+Solid2D, Line: 679
+Parametric shapes, Line: 681
+Make, Line: 682
+Boolean, Line: 683
+Unite, Line: 685
+Intersect, Line: 686
+Subtract, Line: 687
+Hatch, Line: 689
+Offset, Line: 690
+Explode to curves, Line: 691
+Hollow, Line: 692
+Add path, Line: 693
+Position on solid 2D, Line: 694
+Fillet, Line: 695
+Chamfer, Line: 696
+Solid 2.5D, Line: 698
+Make..., Line: 700
+Chamfer..., Line: 701
+Fillet..., Line: 702
+Explode to surfaces..., Line: 703
+Trimming, Line: 705
+Surfaces..., Line: 707
+Split curves..., Line: 708
+Split curves by work plane..., Line: 709
+Projection, Line: 711
+Project curves to work plane, Line: 713
+Project curves on a surface, Line: 714
+Unproject curve to curve, Line: 715
+Multi direction projection to work plane, Line: 716
+Join curves..., Line: 718
+Offset curves, Line: 719
+Offset, Line: 721
+Sharp offset, Line: 722
+3D offset, Line: 723
+Variable offset, Line: 724
+Extend curves..., Line: 726
+Sphere mapping, Line: 727
+Spine calculation, Line: 728
+Helical revolution..., Line: 729
+Subdivision Curves..., Line: 730
+Make convex hull..., Line: 731
+Helical wrapping, Line: 732
+Groove calculator..., Line: 733
+Turning, Line: 735
+Turn Form..., Line: 737
+Manuel G Cod, Line: 738
+Turning..., Line: 739
+Machining, Line: 741
+Tools, Line: 743
+Contour machining, Line: 744
+Drilling, Line: 745
+Sew blade machining, Line: 746
+Manuel nesting, Line: 747
+Make stock, Line: 749
+Make part, Line: 750
+Compact cutting, Line: 752
+Automated true shape cutting, Line: 753
+Tables, Line: 754
+Post processor settings, Line: 755
+Settings, Line: 756
+Advanced machining, Line: 758
+Show GUI..., Line: 760
+Set machining direction, Line: 761
+Set custom tool axis direction, Line: 762
+Edit contour 2D tool angle, Line: 763
+Start, Line: 765
+Close, Line: 766
+Wire machining, Line: 769
+Single contour, Line: 771
+Multi contours, Line: 772
+4 axis, Line: 773
+Surface machining, Line: 774
+Taper machining, Line: 775
+Wire machining post processor, Line: 776
+Help, Line: 778
+Manuel, Line: 780
+About, Line: 781
+Operations, Line: 787
+Insert Operation..., Line: 789
+Hide all toolpath, Line: 790
+Show all toolpath, Line: 791
+Send to postbox, Line: 792
+Clear, Line: 793
+Texture Map, Line: 799
+Show, Line: 801
+Hide, Line: 802
+Image, Line: 803
+Flip along U, Line: 805
+Flip along V, Line: 806
+Export image, Line: 807
+Apply median filter..., Line: 808
+Apply Sobel filter..., Line: 809
+Make grey scale, Line: 810
+Segmentation, Line: 812
+Make segmented solid..., Line: 814
+Attach geometry..., Line: 816
+Delete   X, Line: 817
+Client Context, Line: 823
+Show, Line: 825
+Hide, Line: 826
+Segment, Line: 832
+Show, Line: 834
+Hide, Line: 835
+Form region curves for checked, Line: 836
+Make convex hull for checked, Line: 837
+Make hull for checked, Line: 838
+Check selected..., Line: 839
+Uncheck selected..., Line: 840
+Delete checked  X, Line: 841
+Segmented Solid, Line: 847
+Show, Line: 849
+Hide, Line: 850
+Make outer net..., Line: 851
+Make inner net..., Line: 852
+Delete   X, Line: 853
+res\\bmp00001.bmp, Line: 933
+res\\CNCSTEP.bmp, Line: 935
+res\\toolbar1.bmp, Line: 937
+res\\bitmap_w.bmp, Line: 939
+res\\bitmap3.bmp, Line: 941
+res\\bitmap4.bmp, Line: 943
+res\\bmp00002.bmp, Line: 945
+res\\bitmap_f.bmp, Line: 947
+res\\toolbar3.bmp, Line: 949
+res\\toolbargeo.bmp, Line: 951
+res\\toolbarkki.bmp, Line: 953
+TaperInfo1.bmp, Line: 955
+bitmapwx3.bmp, Line: 957
+res\\bmp00003.bmp, Line: 959
+bitmapwi4.bmp, Line: 961
+bitmapta9.bmp, Line: 963
+bitmapta8.bmp, Line: 965
+res\\bitmap_t.bmp, Line: 967
+bitmapta10.bmp, Line: 969
+wiretoolbar1.bmp, Line: 971
+res\\toolbar4.bmp, Line: 973
+res\\wireprogramplane.bmp, Line: 975
+res\\bmp00004.bmp, Line: 977
+res\\solidcncresmilogo.BMP, Line: 979
+res\\bmpToolInfo.bmp, Line: 981
+res\\bmp00005.bmp, Line: 983
+res\\bitmapCylinderTool.bmp, Line: 985
+res\\bitmapSphereTool.bmp, Line: 987
+res\\bitmapTorusTool.bmp, Line: 989
+res\\bitmapConicTool.bmp, Line: 991
+res\\bitmapUserTool.bmp, Line: 993
+res\\zOverCut.bmp, Line: 995
+res\\bitmap_s.bmp, Line: 997
+res\\bitmap7.bmp, Line: 999
+res\\bmp00006.bmp, Line: 1001
+res\\bitmap8.bmp, Line: 1003
+res\\bmp00007.bmp, Line: 1005
+res\\bmp00008.bmp, Line: 1007
+res\\bmp00009.bmp, Line: 1009
+res\\bmp00010.bmp, Line: 1011
+res\\bmp00011.bmp, Line: 1013
+res\\bmp00012.bmp, Line: 1015
+res\\bmp00013.bmp, Line: 1017
+res\\bmp00014.bmp, Line: 1019
+res\\bmp00015.bmp, Line: 1021
+res\\bmp00016.bmp, Line: 1023
+res\\bmp00017.bmp, Line: 1025
+res\\bmp00018.bmp, Line: 1027
+res\\bmp00019.bmp, Line: 1029
+res\\bmp00020.bmp, Line: 1031
+res\\bmp00021.bmp, Line: 1033
+res\\bmp00022.bmp, Line: 1035
+res\\bmp00023.bmp, Line: 1037
+res\\bmp00024.bmp, Line: 1039
+res\\bmp00025.bmp, Line: 1041
+res\\bmp00026.bmp, Line: 1043
+res\\bmp00027.bmp, Line: 1045
+res\\bmp00028.bmp, Line: 1047
+res\\bmp00029.bmp, Line: 1049
+res\\bmp00030.bmp, Line: 1051
+res\\bmp00031.bmp, Line: 1053
+Visual Attributes, Line: 1063
+MS Sans Serif, Line: 1064
+OK, Line: 1066
+Cancel, Line: 1067
+Colors, Line: 1068
+Wireframe Color, Line: 1069
+Solid Color, Line: 1070
+, Line: 1071
+, Line: 1072
+Line Width, Line: 1073
+Thin, Line: 1074
+Button, Line: 1074
+Medium, Line: 1075
+Button, Line: 1075
+Thick, Line: 1076
+Button, Line: 1076
+Line Font, Line: 1077
+Normal, Line: 1078
+Button, Line: 1078
+Dash-Dot, Line: 1079
+Button, Line: 1079
+Dotted, Line: 1080
+Button, Line: 1080
+Point Size, Line: 1081
+Small, Line: 1082
+Button, Line: 1082
+Medium, Line: 1083
+Button, Line: 1083
+Large, Line: 1084
+Button, Line: 1084
+Translucent, Line: 1085
+Button, Line: 1085
+Draw, Line: 1086
+Only Solid, Line: 1087
+Button, Line: 1087
+Only Wire, Line: 1088
+Button, Line: 1088
+Both, Line: 1089
+Button, Line: 1089
+Set as default, Line: 1090
+, Line: 1091
+msctls_updown32, Line: 1091
+, Line: 1092
+msctls_updown32, Line: 1092
+Scale Model Dialog, Line: 1097
+MS Shell Dlg, Line: 1098
+OK, Line: 1101
+Cancel, Line: 1102
+Scale Factor, Line: 1103
+Multiply, Line: 1104
+Button, Line: 1104
+X fit, Line: 1105
+Button, Line: 1105
+Y fit, Line: 1106
+Button, Line: 1106
+X Y Z fit  , Line: 1107
+Button, Line: 1107
+New X length, Line: 1108
+New Y length, Line: 1109
+New Z length, Line: 1112
+Mirror Model, Line: 1118
+MS Shell Dlg, Line: 1119
+YZ plane, Line: 1121
+Button, Line: 1121
+XZ plane, Line: 1122
+Button, Line: 1122
+XY plane, Line: 1123
+Button, Line: 1123
+Copy, Line: 1125
+Button, Line: 1125
+Define point on mirror plane, Line: 1126
+OK, Line: 1127
+Cancel, Line: 1128
+Mirror Plane, Line: 1129
+Offset from origin, Line: 1130
+Move Model Dialog, Line: 1135
+MS Shell Dlg, Line: 1136
+OK, Line: 1138
+Cancel, Line: 1139
+DeltaX, Line: 1140
+DeltaY, Line: 1141
+DeltaZ, Line: 1142
+Move, Line: 1145
+Point To Point, Line: 1146
+Enclosingbox top center to origin, Line: 1148
+Point to origin, Line: 1149
+Rotate Model Dialog, Line: 1154
+MS Shell Dlg, Line: 1155
+OK, Line: 1158
+Cancel, Line: 1159
+Angle, Line: 1160
+ReorientModel, Line: 1165
+MS Shell Dlg, Line: 1166
+OK, Line: 1168
+Cancel, Line: 1169
+Copy, Line: 1170
+Button, Line: 1170
+DynamicClip Dialog, Line: 1175
+MS Shell Dlg, Line: 1176
+Pick section plane point, Line: 1178
+Angle, Line: 1180
+Add section models, Line: 1181
+Clear sections, Line: 1182
+Flip plane normal, Line: 1183
+Button, Line: 1183
+Dialog, Line: 1188
+MS Shell Dlg, Line: 1189
+Colors and display, Line: 1195
+MS Shell Dlg, Line: 1196
+Colors, Line: 1198
+, Line: 1199
+..., Line: 1201
+Reset factory settings, Line: 1202
+OK, Line: 1203
+Close, Line: 1204
+Number parameters, Line: 1207
+Styles, Line: 1209
+Add to styles, Line: 1210
+Enum parameters, Line: 1211
+Delete style, Line: 1213
+..., Line: 1214
+..., Line: 1215
+Text parameters, Line: 1217
+..., Line: 1220
+Box Parameter Dialog, Line: 1225
+MS Shell Dlg, Line: 1226
+OK, Line: 1228
+Cancel, Line: 1229
+X length:, Line: 1233
+Y length:, Line: 1234
+Z length:, Line: 1235
+Dynamic Transformation, Line: 1240
+MS Shell Dlg, Line: 1241
+OK, Line: 1243
+Cancel, Line: 1244
+Translation, Line: 1245
+Rotation, Line: 1246
+X, Line: 1247
+Button, Line: 1247
+Y, Line: 1248
+Button, Line: 1248
+Z, Line: 1249
+Button, Line: 1249
+L, Line: 1250
+Button, Line: 1250
+X, Line: 1251
+Button, Line: 1251
+Y, Line: 1252
+Button, Line: 1252
+Z, Line: 1253
+Button, Line: 1253
+L, Line: 1254
+Button, Line: 1254
+Reselect CS, Line: 1255
+Lock, Line: 1257
+Button, Line: 1257
+Lock, Line: 1259
+Button, Line: 1259
+Pick L start, Line: 1261
+Button, Line: 1261
+Pick L end, Line: 1262
+Button, Line: 1262
+None, Line: 1263
+Button, Line: 1263
+Coordinate System CS, Line: 1268
+MS Shell Dlg, Line: 1269
+CS of surface, Line: 1271
+CS of current view, Line: 1272
+Center , Z axis , point on X axis, Line: 1273
+Flip Active CS Z direction, Line: 1274
+Reselect Active CS X direction, Line: 1275
+CS of Solid2d , Toolpath, Line: 1276
+CS by least squares plane fit, Line: 1277
+IGES Read Preferences, Line: 1282
+MS Shell Dlg, Line: 1283
+OK, Line: 1285
+Cancel, Line: 1286
+Digitise Tolerance, Line: 1288
+Read untrimmed surfaces, Line: 1289
+Button, Line: 1289
+Read trimmed surfaces, Line: 1290
+Button, Line: 1290
+Read curves, Line: 1291
+Button, Line: 1291
+Read points, Line: 1292
+Button, Line: 1292
+Read notes, Line: 1293
+Button, Line: 1293
+Triangulate surfaces, Line: 1294
+Button, Line: 1294
+Check if cylindirical or planar, Line: 1295
+Button, Line: 1295
+Record exceptions, Line: 1296
+Button, Line: 1296
+Use BSP for in polygon checks, Line: 1297
+Button, Line: 1297
+Change tolerance of big surfaces, Line: 1298
+Button, Line: 1298
+Big surface diagonal length limit, Line: 1300
+Big surface digitise tolerance, Line: 1301
+Merge surfaces and make one body, Line: 1303
+Button, Line: 1303
+Lua script for geo export, Line: 1305
+Curve divide till recursive depth, Line: 1306
+Surface divide count max segment, Line: 1308
+Preference Dialog, Line: 1314
+MS Shell Dlg, Line: 1315
+Cancel, Line: 1317
+Lighting, Line: 1318
+Iges Read, Line: 1319
+Color, Line: 1320
+Preferences, Line: 1321
+Surface Point Navigator Dialog, Line: 1326
+MS Shell Dlg, Line: 1327
+OK, Line: 1329
++ u, Line: 1330
+u -, Line: 1331
++ v, Line: 1332
+v -, Line: 1333
+Record, Line: 1334
+Transform Model, Line: 1339
+MS Shell Dlg, Line: 1340
+Move, Line: 1342
+Rotate, Line: 1343
+Scale, Line: 1344
+Mirror, Line: 1345
+Reorient, Line: 1346
+Dynamic, Line: 1347
+Copy, Line: 1348
+Button, Line: 1348
+Repeat No, Line: 1350
+Move on work, Line: 1351
+Curve sweep clone, Line: 1352
+Rotate for smallest box, Line: 1353
+View List Dialog, Line: 1358
+MS Shell Dlg, Line: 1359
+OK, Line: 1361
+Cancel, Line: 1362
+Change View Direction, Line: 1364
+Add, Line: 1365
+Remove, Line: 1366
+Get, Line: 1367
+Dimension Dialog, Line: 1372
+MS Shell Dlg, Line: 1373
+Distance2Points, Line: 1375
+3D, Line: 1376
+Button, Line: 1376
+ProjectedXY, Line: 1377
+Button, Line: 1377
+ProjectedXZ, Line: 1378
+Button, Line: 1378
+ProjectedYZ, Line: 1379
+Button, Line: 1379
+AlongX, Line: 1380
+Button, Line: 1380
+AlongY, Line: 1381
+Button, Line: 1381
+AlongZ, Line: 1382
+Button, Line: 1382
+Angular, Line: 1383
+Button, Line: 1383
+Text Height, Line: 1385
+Visual Attributes, Line: 1386
+Radius, Line: 1387
+Button, Line: 1387
+Diameter, Line: 1388
+Button, Line: 1388
+Other, Line: 1389
+Done, Line: 1390
+Continuous, Line: 1391
+Button, Line: 1391
+Absolute CS, Line: 1392
+Button, Line: 1392
+Work CS, Line: 1393
+Button, Line: 1393
+Learn Dimensions, Line: 1398
+Microsoft Sans Serif, Line: 1399
+OK, Line: 1401
+Cancel, Line: 1402
+Single Point, Line: 1403
+Angle, Line: 1404
+2 Points, Line: 1405
+Arc , Circle, Line: 1406
+Info, Line: 1407
+Projected Volume, Line: 1409
+Area, Line: 1410
+Dialog, Line: 1415
+MS Shell Dlg, Line: 1416
+Check1, Line: 1418
+Button, Line: 1418
+Thread, Line: 1423
+MS Shell Dlg, Line: 1424
+Pause, Line: 1426
+Insert Link Dialog, Line: 1431
+MS Shell Dlg, Line: 1432
+OK, Line: 1434
+Cancel, Line: 1435
+Link path and name (put  /  between folders), Line: 1437
+Label Text Dialog, Line: 1442
+MS Shell Dlg, Line: 1443
+OK, Line: 1445
+Cancel, Line: 1446
+Label Text, Line: 1448
+Save Selection Dialog, Line: 1453
+MS Shell Dlg, Line: 1454
+Save, Line: 1456
+Cancel, Line: 1457
+, Line: 1458
+SysTreeView32, Line: 1458
+..., Line: 1460
+Microsoft Sans Serif, Line: 1465
+, Line: 1467
+SysListView32, Line: 1467
+Button1, Line: 1469
+Tahoma, Line: 1474
+, Line: 1476
+SysListView32, Line: 1476
+Tahoma, Line: 1481
+OK, Line: 1483
+Cancel, Line: 1484
+gï¿½siï¿½ï¿½, Line: 1486
+Tahoma, Line: 1491
++X, Line: 1496
++Y, Line: 1497
++Z, Line: 1498
+Reverse, Line: 1499
+Norm, Line: 1500
+2 points, Line: 1501
+View dir, Line: 1502
+Surf. Normal, Line: 1503
+Button, Line: 1503
+Tang. to edge, Line: 1504
+Button, Line: 1504
+OK, Line: 1505
+Cancel, Line: 1506
+I, Line: 1507
+J, Line: 1508
+K, Line: 1509
+^X, Line: 1510
+^Z, Line: 1511
+^Y, Line: 1512
+Tahoma, Line: 1517
+Origin, Line: 1522
+<, Line: 1523
+>, Line: 1524
+Free point click, Line: 1525
+Button, Line: 1525
+Select any vertices, Line: 1526
+Button, Line: 1526
+OK, Line: 1527
+Cancel, Line: 1528
+X, Line: 1529
+Y, Line: 1530
+Z, Line: 1531
+Tahoma, Line: 1536
+OK, Line: 1539
+Cancel, Line: 1540
+MODEL TYPES THAT CAN BE SELECTED, Line: 1541
+Color to select : All, Line: 1542
+Pick, Line: 1543
+All color, Line: 1544
+Deselect, Line: 1545
+Button, Line: 1545
+Chain curves, Line: 1546
+Button, Line: 1546
+Escape, Line: 1547
+MS Shell Dlg, Line: 1552
+Working Plane, Line: 1555
+Normal Coord, Line: 1557
+Set, Line: 1558
+Tahoma, Line: 1563
+X, Line: 1567
+Y, Line: 1569
+Z, Line: 1571
+Pick Work Origin, Line: 1573
+Grid, Line: 1575
+Button, Line: 1575
+..., Line: 1576
+Tolerance, Line: 1577
+MS Shell Dlg, Line: 1582
+Button1, Line: 1584
+Check1, Line: 1585
+Button, Line: 1585
+File Dialog, Line: 1590
+MS Shell Dlg, Line: 1591
+Open/Save, Line: 1593
+Cancel, Line: 1594
+File Name:, Line: 1596
+, Line: 1597
+SysListView32, Line: 1597
+Big stl clipping, Line: 1603
+MS Shell Dlg, Line: 1604
+OK, Line: 1606
+Cancel, Line: 1607
+Min, Line: 1608
+Max, Line: 1610
+X Plane, Line: 1612
+Button, Line: 1612
+Y Plane, Line: 1613
+Button, Line: 1613
+Z Plane, Line: 1614
+Button, Line: 1614
+Clip triangles by plane, Line: 1618
+Button, Line: 1618
+Clip negative, Line: 1619
+Button, Line: 1619
+MS Shell Dlg, Line: 1624
+, Line: 1626
+SysTabControl32, Line: 1626
+MS Shell Dlg, Line: 1632
+, Line: 1634
+SysTreeView32, Line: 1634
+>, Line: 1636
+<, Line: 1637
+, Line: 1638
+MS Shell Dlg, Line: 1643
+Grid dialog, Line: 1649
+MS Shell Dlg, Line: 1650
+OK, Line: 1658
+Cancel, Line: 1659
+Lower left, Line: 1660
+Lower right, Line: 1661
+Upper right, Line: 1662
+Upper left, Line: 1663
+Unit length, Line: 1664
+X count, Line: 1665
+Y count, Line: 1666
+X shift, Line: 1667
+Y shift, Line: 1668
+Z shift, Line: 1669
+Glyph Sets, Line: 1674
+MS Shell Dlg, Line: 1675
+Close, Line: 1677
+Char, Line: 1680
+Select Curves And Add Glyph, Line: 1681
+Delete Glyph, Line: 1682
+Add Glyph Set >, Line: 1683
+Glyph Set Name, Line: 1685
+Glyphs, Line: 1687
+Glyph Sets, Line: 1688
+Save, Line: 1689
+Load, Line: 1690
+Base y shift, Line: 1691
+< Edit Glyph Set, Line: 1693
+Glyph set height, Line: 1694
+Mouse Options, Line: 1700
+MS Shell Dlg, Line: 1701
+OK, Line: 1703
+Cancel, Line: 1704
+Mouse mid button, Line: 1705
+Dynamic rotation, Line: 1706
+Button, Line: 1706
+Pan, Line: 1707
+Button, Line: 1707
+Switch wheel zoom in-out direction, Line: 1708
+Button, Line: 1708
+-, Line: 1713
+MS Shell Dlg, Line: 1714
+Enter Text, Line: 1717
+Font Size, Line: 1718
+Tessellate, Line: 1722
+Insert Text, Line: 1723
+Italic, Line: 1724
+Button, Line: 1724
+Underline, Line: 1725
+Button, Line: 1725
+Strike out, Line: 1726
+Button, Line: 1726
+DXF Import Options, Line: 1732
+MS Shell Dlg, Line: 1733
+Override z coordinates which are bigger than limit, Line: 1735
+Button, Line: 1736
+Lines, Line: 1739
+Button, Line: 1739
+Circles, Line: 1740
+Button, Line: 1740
+Polylines, Line: 1741
+Button, Line: 1741
+LWPolylines, Line: 1742
+Button, Line: 1742
+Text, Line: 1743
+Button, Line: 1743
+MText, Line: 1744
+Button, Line: 1744
+Arcs, Line: 1745
+Button, Line: 1745
+Ellipse, Line: 1746
+Button, Line: 1746
+Splines, Line: 1747
+Button, Line: 1747
+Limit reading, Line: 1748
+Button, Line: 1748
+Explode polylines, Line: 1751
+Button, Line: 1751
+OK, Line: 1752
+Cancel, Line: 1753
+Import, Line: 1754
+Z Limit, Line: 1755
+Z coordinate after replacement, Line: 1756
+Start entity no, Line: 1757
+End entity no, Line: 1758
+Container sheet, Line: 1759
+Button, Line: 1759
+Work space diameter, Line: 1761
+Hide entities which are out of work space, Line: 1762
+Button, Line: 1763
+Work space center, Line: 1767
+Inserts, Line: 1768
+Button, Line: 1768
+Transform to work plane after importing, Line: 1769
+Button, Line: 1770
+Override entity colors by default wireframe color, Line: 1771
+Button, Line: 1772
+Hatch, Line: 1773
+Button, Line: 1773
+Add hatches as surface, Line: 1774
+Button, Line: 1774
+Translate text, Line: 1775
+Button, Line: 1775
+Make Arc, Line: 1780
+MS Shell Dlg, Line: 1781
+Center , radius, Line: 1783
+Center , radius , axis, Line: 1784
+3 points, Line: 1785
+Circle from 3 points, Line: 1786
+Center , point on circle, Line: 1787
+Center , axis , point on circle, Line: 1788
+Box, Line: 1793
+MS Shell Dlg, Line: 1794
+Close, Line: 1796
+, Line: 1797
+SysTabControl32, Line: 1797
+Only wireframe, Line: 1798
+Button, Line: 1798
+Translucent, Line: 1799
+Button, Line: 1799
+Spline fit dialog, Line: 1804
+MS Shell Dlg, Line: 1805
+Select points for spline fit, Line: 1807
+Close, Line: 1808
+0. degree (polyline), Line: 1809
+Button, Line: 1809
+3. degree, Line: 1810
+Button, Line: 1810
+Degree of curve, Line: 1811
+Make points on curve, Line: 1817
+MS Shell Dlg, Line: 1818
+OK, Line: 1820
+Cancel, Line: 1821
+By distance step, Line: 1822
+Button, Line: 1822
+By point count, Line: 1823
+Button, Line: 1823
+MS Shell Dlg, Line: 1830
+Box type, Line: 1838
++X offset, Line: 1839
+-X offset, Line: 1840
++Y offset, Line: 1841
+-Y offset, Line: 1842
++Z offset, Line: 1843
+-Z offset, Line: 1844
+Fit enclosing boxes, Line: 1845
+Fit recursion depth, Line: 1847
+Trim curves dialog, Line: 1853
+MS Shell Dlg, Line: 1854
+OK, Line: 1856
+Cancel, Line: 1857
+, Line: 1858
+SysTreeView32, Line: 1858
+Uncheck segments to remove., Line: 1859
+Make points on surface, Line: 1864
+MS Shell Dlg, Line: 1865
+OK, Line: 1867
+Cancel, Line: 1868
+By distance step, Line: 1869
+Button, Line: 1869
+By point count, Line: 1870
+Button, Line: 1870
+, Line: 1871
+along u, Line: 1874
+along v, Line: 1875
+, Line: 1876
+along u, Line: 1877
+along v, Line: 1878
+Surface of revolution, Line: 1885
+MS Shell Dlg, Line: 1886
+OK, Line: 1890
+Cancel, Line: 1891
+Start Angle, Line: 1892
+End Angle, Line: 1893
+Polygons to triangles, Line: 1898
+MS Shell Dlg, Line: 1899
+OK, Line: 1901
+Cancel, Line: 1902
+Toplam loop sayisi (dis arti iï¿½), Line: 1904
+Polygon Boolean , Line: 1909
+MS Shell Dlg, Line: 1910
+OK, Line: 1912
+Cancel, Line: 1913
+Union, Line: 1914
+Button, Line: 1914
+Intersection, Line: 1915
+Button, Line: 1915
+Difference, Line: 1916
+Button, Line: 1916
+Exclusive Or, Line: 1917
+Button, Line: 1917
+Do, Line: 1918
+Make points, Line: 1923
+MS Shell Dlg, Line: 1924
+Pick from graphic view, Line: 1926
+Button, Line: 1926
+Make points on curve, Line: 1927
+Button, Line: 1927
+Make points on surface, Line: 1928
+Button, Line: 1928
+OK, Line: 1929
+Cancel, Line: 1930
+MS Shell Dlg, Line: 1935
+X length, Line: 1940
+Y length, Line: 1941
+Z length, Line: 1942
+Radius, Line: 1945
+Angle, Line: 1946
+Lower left, Line: 1947
+Button, Line: 1947
+Center, Line: 1948
+Button, Line: 1948
+Make circles or arcs, Line: 1953
+MS Shell Dlg, Line: 1954
+Center , radius, Line: 1956
+Button, Line: 1956
+Arc by three points, Line: 1957
+Button, Line: 1957
+Circle by three points, Line: 1958
+Button, Line: 1958
+Center , point on arc, Line: 1959
+Button, Line: 1959
+Two points, bulge, Line: 1960
+Button, Line: 1960
+Two points, radius, Line: 1961
+Button, Line: 1961
+String, Line: 1964
+Button, Line: 1964
+Close, Line: 1965
+Radius, Line: 1966
+Angle, Line: 1967
+Mode, Line: 1968
+Trimming, Line: 1973
+MS Shell Dlg, Line: 1974
+OK, Line: 1976
+iptal, Line: 1977
+Trim outside, Line: 1978
+Button, Line: 1978
+Trim inside, Line: 1979
+Button, Line: 1979
+Make lines, Line: 1984
+MS Shell Dlg, Line: 1985
+By 2 points, Line: 1987
+nokta , dogrultu , uzunluk, Line: 1988
+Between sequential points..., Line: 1989
+Curve joining options, Line: 1994
+Microsoft Sans Serif, Line: 1995
+OK, Line: 1997
+Cancel, Line: 1998
+Seï¿½ilen egriler arasinda bosluklar var. Birlestirme islemi iï¿½in asagidaki seï¿½eneklerden birini isaretleyin., Line: 1999
+UYARI!, Line: 2000
+Toleransdan bï¿½yï¿½k bosluk varsa islemi iptal et., Line: 2001
+Button, Line: 2002
+Tolerans, Line: 2004
+Join gaps by line., Line: 2005
+Button, Line: 2005
+Radyus atma , Line: 2010
+MS Shell Dlg, Line: 2011
+OK, Line: 2013
+Cancel, Line: 2014
+Yaricap, Line: 2016
+Yonu ters cevir, Line: 2017
+Draw on screen, Line: 2018
+Make Lines, Line: 2023
+MS Shell Dlg, Line: 2024
+By picking two points, Line: 2026
+Button, Line: 2026
+Sequential points, Line: 2027
+Button, Line: 2027
+Direction,point,length, Line: 2028
+Button, Line: 2028
+Point,angle,length, Line: 2029
+Button, Line: 2029
+Point, point along angle, Line: 2030
+Button, Line: 2030
+Direction,point,point, Line: 2031
+Button, Line: 2031
+90, Line: 2033
+180, Line: 2034
+0, Line: 2036
+270, Line: 2037
+Ortho snap, Line: 2038
+Button, Line: 2038
+Length:, Line: 2039
+Method, Line: 2040
+^, Line: 2041
+v, Line: 2042
+*-1, Line: 2043
+Increment step, Line: 2045
+Direction vector i,j,k, Line: 2046
+..., Line: 2048
+^, Line: 2049
+v, Line: 2050
+Angle, Line: 2052
+Spine Curve Calculation, Line: 2057
+MS Shell Dlg, Line: 2058
+OK, Line: 2060
+Cancel, Line: 2061
+X, Line: 2062
+Button, Line: 2062
+Y, Line: 2063
+Button, Line: 2063
+Z, Line: 2064
+Button, Line: 2064
+Section Plane Normal, Line: 2065
+Section Step, Line: 2066
+Wire Dialog, Line: 2072
+MS Shell Dlg, Line: 2073
+OK, Line: 2075
+Cancel, Line: 2076
+Contour Type:, Line: 2078
+Operation Name, Line: 2080
+Contour join tolerance, Line: 2081
+Contour digitise tolerance, Line: 2084
+Wire diameter:, Line: 2086
+Make part, Line: 2087
+Button, Line: 2087
+Lead in-out radius or length, Line: 2088
+Circular, Line: 2090
+Button, Line: 2090
+Line, Line: 2091
+Button, Line: 2091
+Tapper angle, Line: 2093
+Part Height, Line: 2094
+Wire arc clearence:, Line: 2097
+Top trim plane ext., Line: 2098
+Lead in-out, Line: 2100
+Base trim plane ext., Line: 2102
+WireEDM Cut Direction and Number, Line: 2107
+MS Shell Dlg, Line: 2108
+Next, Line: 2110
+Back, Line: 2111
+Number of cuts, Line: 2113
+, Line: 2115
+Static, Line: 2115
+, Line: 2117
+msctls_updown32, Line: 2117
+Stock to leave, Line: 2119
+Cut No:, Line: 2120
+Feedrate, Line: 2121
+, Line: 2122
+SysListView32, Line: 2122
+, Line: 2123
+CCW, Line: 2124
+Button, Line: 2124
+CW, Line: 2125
+Button, Line: 2125
+Set Values, Line: 2126
+Taper angle and extensions dialog, Line: 2131
+MS Shell Dlg, Line: 2132
+Taper Angle (A), Line: 2134
+DA, Line: 2136
+Static, Line: 2139
+I, Line: 2140
+Button, Line: 2140
+II, Line: 2141
+Button, Line: 2141
+DB, Line: 2142
+Static, Line: 2143
+Static, Line: 2144
+Multi Post Dialog, Line: 2149
+MS Shell Dlg, Line: 2150
+, Line: 2152
+SysListView32, Line: 2152
+Select All, Line: 2153
+Deselect All, Line: 2154
+Estimate time, Line: 2155
+..., Line: 2157
+Close, Line: 2158
+Post Selected, Line: 2159
+Simulate Dialog, Line: 2164
+MS Shell Dlg, Line: 2165
+Write NC File, Line: 2167
+Back, Line: 2168
+Moves, Line: 2170
+>>, Line: 2171
+<<, Line: 2172
+Cut No:, Line: 2174
+Draw all, Line: 2175
+Hide All, Line: 2176
+Cutting Parameters, Line: 2182
+MS Shell Dlg, Line: 2183
+Do Cut Off, Line: 2186
+Button, Line: 2186
+DB Search, Line: 2189
+Extra param, Line: 2190
+Back, Line: 2191
+Next, Line: 2192
+Cut Number :, Line: 2193
+Wire Diameter, Line: 2195
+WireEDM Entry Exit Dialog, Line: 2200
+MS Shell Dlg, Line: 2201
+Select start point, Line: 2203
+Nearest point, Line: 2205
+Button, Line: 2205
+Angle, Line: 2206
+Button, Line: 2206
+..., Line: 2209
+CCW, Line: 2212
+Button, Line: 2212
+CW, Line: 2213
+Button, Line: 2213
+Direct, Line: 2214
+Button, Line: 2214
+Circular, Line: 2215
+Button, Line: 2215
+, Line: 2217
+SysListView32, Line: 2217
+Back, Line: 2218
+Reverse wire ofset direction, Line: 2219
+Button, Line: 2219
+Next, Line: 2220
+Entry/Exit , Line: 2221
+Circle radius, Line: 2222
+Cut off distance :, Line: 2223
+Cut over distance :, Line: 2224
+Exit distance :, Line: 2225
+Direction, Line: 2226
+Start point dialog, Line: 2231
+MS Shell Dlg, Line: 2232
+Closest point, Line: 2234
+Button, Line: 2234
+Angle, Line: 2235
+Button, Line: 2235
+OK, Line: 2237
+Cancel, Line: 2238
+Start point on contour, Line: 2239
+Angle, Line: 2240
+Initial point coordinates, Line: 2245
+MS Shell Dlg, Line: 2246
+OK, Line: 2248
+Cancel, Line: 2249
+X, Line: 2253
+Y, Line: 2254
+Z, Line: 2255
+Operation Parameters, Line: 2260
+MS Shell Dlg, Line: 2261
+Rename selected operation, Line: 2266
+CCW, Line: 2268
+Button, Line: 2268
+CW, Line: 2269
+Button, Line: 2269
+Type 1, Line: 2270
+Button, Line: 2270
+Type 2, Line: 2271
+Button, Line: 2271
+Do cut off, Line: 2276
+Button, Line: 2276
+Set all operations, Line: 2277
+Set selected operation, Line: 2278
+Calculate, Line: 2279
+Cancel, Line: 2280
+Cut off distance, Line: 2281
+Over cut distance, Line: 2282
+Exit distance, Line: 2283
+Direction, Line: 2284
+Taper Angle, Line: 2285
+Cut Number, Line: 2286
+Operations, Line: 2287
+, Line: 2288
+Static, Line: 2288
+Angle type, Line: 2289
+DA, Line: 2293
+DB, Line: 2294
+Wire Diameter, Line: 2295
+Rename operation, Line: 2300
+MS Shell Dlg, Line: 2301
+OK, Line: 2303
+Cancel, Line: 2304
+Post Processor Settings Dialog, Line: 2310
+MS Shell Dlg, Line: 2311
+Save Setting, Line: 2314
+Delete Setting, Line: 2315
+Incremental U-V output in 4 axis cutting, Line: 2323
+Button, Line: 2324
+..., Line: 2326
+..., Line: 2328
+..., Line: 2330
+OK, Line: 2331
+Cancel, Line: 2332
+Settings, Line: 2333
+Setting Name, Line: 2334
+Editor, Line: 2335
+First position G code, Line: 2336
+Taper angle options, Line: 2337
+Coordinate numbers format, Line: 2338
+Default post path:, Line: 2339
+Operation last move, Line: 2340
+Lua script to run for post processing, Line: 2341
+Technological Parameters Dialog, Line: 2346
+MS Shell Dlg, Line: 2347
+Copy Process Texts And Close, Line: 2349
+Cancel, Line: 2350
+, Line: 2351
+SysListView32, Line: 2351
+Wire Diameter, Line: 2352
+Workpiece, Line: 2353
+MC Method, Line: 2354
+Finish, Line: 2355
+Thickness, Line: 2356
+Model No, Line: 2357
+Cut Number, Line: 2358
+Var1, Line: 2359
+Var2, Line: 2360
+Process 1, Line: 2361
+Process 2, Line: 2362
+Process 3, Line: 2363
+Process 4, Line: 2364
+Process 5, Line: 2365
+Insert, Line: 2381
+Delete Selected, Line: 2382
+Edit Selected, Line: 2391
+Show All-No filter, Line: 2392
+WireEDM Geometry Dialog, Line: 2397
+MS Shell Dlg, Line: 2398
+Reselect, Line: 2401
+Add b, Line: 2405
+, Line: 2406
+SysListView32, Line: 2406
+Close, Line: 2410
+Next, Line: 2411
+Contour Type, Line: 2412
+Curve joining tolerance, Line: 2413
+Coincident tolerance, Line: 2414
+Z top, Line: 2415
+Z base, Line: 2416
+Operation Name, Line: 2417
+Extra offset, Line: 2418
+Time Estimation Dialog, Line: 2424
+MS Shell Dlg, Line: 2425
+OK, Line: 2427
+Cancel, Line: 2428
+Cutting Feedrate, Line: 2429
+Rapid Feedrate, Line: 2430
+Update, Line: 2433
+Rotary Silhoutte Cutting Dialog, Line: 2439
+MS Shell Dlg, Line: 2440
+OK, Line: 2442
+Cancel, Line: 2443
+Start Angle, Line: 2444
+End Angle, Line: 2445
+Angle Step, Line: 2448
+Filter Tol, Line: 2451
+First Start Point, Line: 2452
+First End Point, Line: 2456
+X, Line: 2460
+X, Line: 2461
+Y, Line: 2462
+Y, Line: 2463
+Z, Line: 2464
+Z, Line: 2465
+Contour Point Matching Dialog, Line: 2470
+MS Shell Dlg, Line: 2471
+, Line: 2473
+SysListView32, Line: 2473
+Preview lines, Line: 2477
+Insert new, Line: 2478
+Reset selected, Line: 2479
+Delete selected, Line: 2480
+Preview all lines, Line: 2481
+Delete lines, Line: 2485
+Mindist, Line: 2486
+Button, Line: 2486
+Equal parameter, Line: 2487
+Button, Line: 2487
+Curve to curve, Line: 2488
+Button, Line: 2488
+OK, Line: 2489
+Cancel, Line: 2490
+Point pairs, Line: 2491
+Number of lines, Line: 2492
+t base, Line: 2493
+t top, Line: 2494
+Distance Step, Line: 2495
+Z top, Line: 2496
+Z base, Line: 2497
+Matching, Line: 2498
+SEMI VE FINISH ISLEME DIYALOGU, Line: 2503
+MS Shell Dlg, Line: 2504
+^, Line: 2510
+, Line: 2512
+SysTreeView32, Line: 2512
+Calculate, Line: 2514
+Add Collision Check, Line: 2515
+Entry,Exit,Links..., Line: 2516
+Close, Line: 2518
+STRATEJI, Line: 2519
+Takimyolu Ad:, Line: 2520
+SAYISAL PARAMETRELER, Line: 2521
+SECIMLER--Degistirmek icin cift tikla--, Line: 2522
+Secili Parametre, Line: 2523
+Machining direction, Line: 2524
+Work piece, Line: 2529
+MS Shell Dlg, Line: 2530
+OK, Line: 2532
+Cancel, Line: 2533
+Name, Line: 2536
+Tolerans, Line: 2537
+Stock Definition, Line: 2538
+Button, Line: 2538
+POST SETTINGS, Line: 2543
+MS Shell Dlg, Line: 2544
+..., Line: 2549
+, Line: 2554
+Button, Line: 2554
+Don't print G43H, Line: 2556
+Button, Line: 2556
+Post process options, Line: 2557
+Print line numbers, Line: 2560
+Button, Line: 2560
+Print tool properties as command, Line: 2561
+Button, Line: 2562
+Print operation name as comment, Line: 2563
+Button, Line: 2564
+Use G1 instead of G0, Line: 2565
+Button, Line: 2565
+Print M6 first in tool change, Line: 2566
+Button, Line: 2567
+Don't print M6, Line: 2568
+Button, Line: 2568
+..., Line: 2571
+..., Line: 2574
+Save This Setting, Line: 2575
+OK, Line: 2576
+Close, Line: 2577
+Comment end chars, Line: 2578
+Machine Definition:, Line: 2579
+Header, Line: 2580
+Footer, Line: 2581
+Current Setting, Line: 2582
+Setting Name, Line: 2583
+Comment begin chars, Line: 2584
+Before tool change, Line: 2585
+After tool change, Line: 2586
+G0 Feedrate, Line: 2587
+G code editor, Line: 2588
+Setting properties, Line: 2589
+Z   G43 , Line: 2590
+Lua post script, Line: 2591
+Split operations before angle limits, Line: 2592
+Button, Line: 2593
+G code extension, Line: 2594
+Geometri Secme Diyalogu:, Line: 2599
+MS Shell Dlg, Line: 2600
+OK, Line: 2602
+Cancel, Line: 2603
+Insert, Line: 2605
+Sil, Line: 2607
+GEOMETRI, Line: 2608
+SECIM , Line: 2609
+Roughing time estimation dialog, Line: 2614
+MS Shell Dlg, Line: 2615
+Calculate, Line: 2617
+Close, Line: 2618
+Step down (mm), Line: 2620
+Yatay adim (mm), Line: 2622
+Volume to machine, Line: 2624
+Feedrate  (units/min), Line: 2625
+Sï¿½re Tahmini (dak), Line: 2628
+Time Estimation and Edit Feed Rates Dialog, Line: 2633
+MS Shell Dlg, Line: 2634
+Close, Line: 2636
+Actual Feed Rate, Line: 2649
+Feed Rate to change to, Line: 2650
+Actual time estimation, Line: 2653
+Time estimation with new feeds, Line: 2654
+Update Time Estimation, Line: 2655
+Set new feedrates, Line: 2656
+Rapid Feedrate, Line: 2657
+Roughing parameters, Line: 2663
+MS Shell Dlg, Line: 2664
+Dusey Adim, Line: 2666
+Rampa Tipi, Line: 2668
+Automatic, Line: 2669
+Button, Line: 2669
+Helical, Line: 2670
+Button, Line: 2670
+Zigzag, Line: 2671
+Button, Line: 2671
+Linear, Line: 2672
+Button, Line: 2672
+Profil, Line: 2673
+Button, Line: 2673
+Rampa Acisi (Derece), Line: 2675
+Helical diameter or length for zigzag, Line: 2677
+Start z coordinate, Line: 2679
+Final Z coordinate, Line: 2680
+Z limits from model min max, Line: 2682
+Button, Line: 2683
+Smooth corners., Line: 2684
+Button, Line: 2684
+Smooth links., Line: 2685
+Button, Line: 2685
+Yukari Dogru Genisleme Acisi(derece), Line: 2687
+Rest roughing, Line: 2688
+Rest roughing, Line: 2689
+Button, Line: 2689
+Roughing tool radius, Line: 2691
+Stock to leave, Line: 2693
+Takimyolu Ad:, Line: 2695
+Yatay Adim, Line: 2696
+Roughing tools, Line: 2699
+VVVVV, Line: 2700
+            SELECTED TOOL:, Line: 2702
+Tolerans, Line: 2704
+Links,lead in outs, Line: 2705
+Takimyolu hesaplaninca mw bin dosyasi olarak kayit et., Line: 2706
+Button, Line: 2707
+OK, Line: 2709
+Cancel, Line: 2710
+Remaining material dot count, Line: 2715
+MS Shell Dlg, Line: 2716
+OK, Line: 2718
+Cancel, Line: 2719
+X yonundeadim, Line: 2722
+Y yonunde adim, Line: 2723
+Mill Tools Dialog, Line: 2728
+MS Shell Dlg, Line: 2729
+OK, Line: 2731
+iptal, Line: 2732
+Mill Tools, Line: 2733
+Insert..., Line: 2735
+Edit..., Line: 2736
+ï¿½ikar, Line: 2737
+Takimlari kayit et..., Line: 2738
+Tool Dialog, Line: 2743
+MS Shell Dlg, Line: 2744
+Insert, Line: 2756
+Clear, Line: 2757
+Tool wear, Line: 2761
+Button, Line: 2761
+Draw tool, Line: 2762
+Button, Line: 2762
+Add/Save, Line: 2763
+Close, Line: 2764
+Cutter geometry, Line: 2765
+Name, Line: 2766
+Diameter, Line: 2767
+Tip radius, Line: 2768
+Height, Line: 2769
+Conic angle, Line: 2770
+Extension, Line: 2771
+Upper Diam., Line: 2772
+Lower Diam., Line: 2773
+Feedrate, Line: 2774
+Spindle speed, Line: 2775
+Tool No, Line: 2776
+Type Text, Line: 2777
+Select tool, Line: 2778
+Record to program DB, Line: 2779
+Button, Line: 2780
+Extra parameters, Line: 2781
+Height, Line: 2782
+, Line: 2784
+SysListView32, Line: 2784
+Open set..., Line: 2785
+Save set..., Line: 2786
+Select shape 2D, Line: 2787
+Is only tip radius cutting, Line: 2788
+Button, Line: 2789
+Entry feedrate, Line: 2791
+Exit feedrate, Line: 2792
+Link feedrate, Line: 2794
+Default speeds, Line: 2796
+Tool overall length, Line: 2797
+Tool default operation length, Line: 2800
+Priority, Line: 2801
+Tool wear, Line: 2803
+Select tool holder, Line: 2804
+?, Line: 2806
+Link moves:, Line: 2811
+MS Shell Dlg, Line: 2812
+OK, Line: 2814
+Cancel, Line: 2815
+Program Start:, Line: 2817
+Program End:, Line: 2819
+Short distance, Line: 2823
+UZUN MESAFE, Line: 2824
+Lead in, Line: 2830
+Lead out, Line: 2831
+Link moves in a section, Line: 2832
+Link moves between sections, Line: 2834
+Short distance, Line: 2840
+UZUN MESAFE, Line: 2841
+Lead in, Line: 2842
+Lead out, Line: 2843
+Short-long threshold, Line: 2845
+Short-long threshold, Line: 2847
+%TOOLDIAMETER, Line: 2848
+Button, Line: 2848
+%STEP, Line: 2849
+Button, Line: 2849
+To material, Line: 2850
+Entry, Line: 2851
+From material, Line: 2852
+EXIT, Line: 2853
+Safe z, Line: 2858
+(relative to max z), Line: 2859
+Collision , Line: 2860
+yuksekligi, Line: 2861
+Hizli hareket, Line: 2862
+(G0) height, Line: 2863
+Plunge Feedrate, Line: 2864
+Roughing link moves, Line: 2869
+MS Shell Dlg, Line: 2870
+OK, Line: 2872
+Cancel, Line: 2873
+Safe z coordinate relative to model max.?, Line: 2874
+Height where plunge feedrate is active, Line: 2878
+Rapid (G0) height, Line: 2879
+Rampa giris, Line: 2881
+Button, Line: 2881
+Program baslangici, Line: 2882
+Program Sonu, Line: 2883
+Z seviyelerinin baglantisi, Line: 2885
+Rampa giris, Line: 2887
+Button, Line: 2887
+Link moves on same level(close), Line: 2888
+Rampa giris, Line: 2890
+Button, Line: 2890
+Link moves on same level(far), Line: 2891
+Rampa giris, Line: 2893
+Button, Line: 2893
+Passes links, Line: 2894
+Rampa giris, Line: 2896
+Button, Line: 2896
+Plunge Feedrate, Line: 2897
+TAKIM GIRIS-CIKIS , Line: 2903
+MS Shell Dlg, Line: 2904
+, Line: 2907
+Radyus-Aci, Line: 2908
+Button, Line: 2908
+OK, Line: 2915
+Cancel, Line: 2916
+Tip:, Line: 2917
+Uzunluk-Genislik, Line: 2918
+Button, Line: 2918
+Width, Line: 2919
+Uzunluk, Line: 2920
+Angle, Line: 2921
+R/takimR%, Line: 2922
+Yukseklik, Line: 2923
+Name:, Line: 2924
+General Settings, Line: 2929
+MS Shell Dlg, Line: 2930
+Metric, Line: 2932
+Button, Line: 2932
+Inch, Line: 2933
+Button, Line: 2933
+OK, Line: 2934
+Cancel, Line: 2935
+Units, Line: 2936
+Active contour2d machining template, Line: 2938
+Auto post after every calculation session, Line: 2939
+Button, Line: 2940
+Serialize manufacturing module, Line: 2941
+Button, Line: 2942
+Serialize wire module, Line: 2943
+Button, Line: 2943
+Serialize geo module, Line: 2944
+Button, Line: 2944
+Locale string, Line: 2946
+Numbers locale string, Line: 2947
+Ask for saving on exit, Line: 2949
+Button, Line: 2949
+Maximum item count for online drawing, Line: 2950
+Enable bin pack improver, Line: 2952
+Button, Line: 2953
+Warn for small operations, Line: 2954
+Button, Line: 2954
+Small threshold, Line: 2956
+3 axis form machining times, Line: 2961
+MS Shell Dlg, Line: 2962
+Calculate, Line: 2964
+Close, Line: 2965
+Takim, Line: 2971
+Machining Area, Line: 2972
+Avarage step, Line: 2973
+Avarage feedrate, Line: 2974
+Machining time, Line: 2975
+(mm2), Line: 2976
+(min), Line: 2977
+VVVV, Line: 2979
+^^^^, Line: 2980
+2, Line: 2985
+MS Shell Dlg, Line: 2986
+Calculate, Line: 2988
+Cancel, Line: 2989
+YATAY ISLEME TAKIMLARI SEï¿½..., Line: 2990
+Select Machining Surfaces..., Line: 2991
+TEZGAG SEï¿½..., Line: 2992
+DIK ISLEME TAKIMLARI SEï¿½..., Line: 2993
+SELECT FACE MILLING TOOL, Line: 2994
+, Line: 2995
+Name, Line: 2996
+Point step, Line: 2998
+TAKIMLAR DIYALOGU, Line: 3004
+MS Shell Dlg, Line: 3005
+Tamam, Line: 3007
+Cancel, Line: 3008
+TAKIMLAR, Line: 3009
+SEï¿½IM Kï¿½MESI, Line: 3010
+Seï¿½ime Ekle      >>>>, Line: 3011
+Sil, Line: 3014
+Tï¿½mï¿½nï¿½ Sil, Line: 3015
+Safe plane dialog, Line: 3020
+MS Shell Dlg, Line: 3021
+OK, Line: 3023
+Cancel, Line: 3024
+..., Line: 3028
+Point on safe plane  X - Y - Z, Line: 3029
+Safe plane normal I - J - K , Line: 3033
+..., Line: 3034
+Move to safe plane threshold, Line: 3036
+Su Jeti Operasyon Sayfasï¿½, Line: 3041
+MS Shell Dlg, Line: 3042
+, Line: 3044
+SysListView32, Line: 3044
+Takï¿½m, Line: 3047
+Feedrates, Line: 3049
+Cutting, Line: 3050
+Entry, Line: 3051
+ï¿½ï¿½kï¿½ï¿½, Line: 3052
+Link, Line: 3053
+Tip, Line: 3057
+Yeni Operasyon, Line: 3058
+Start point, Line: 3059
+Seï¿½ileni tekrar hesapla, Line: 3060
+Safe plane, Line: 3061
+Plunge Height, Line: 3065
+Rapid H., Line: 3066
+Edges, Line: 3067
+Start, Line: 3072
+Son, Line: 3073
+Tanjant ile aï¿½ï¿½, Line: 3074
+Angle on plane, Line: 3075
+Tekrar Kaydet, Line: 3076
+Normali ï¿½evir, Line: 3077
+Paylar, Line: 3078
+Axial, Line: 3079
+Radyal, Line: 3082
+Reverse motion, Line: 3083
+Point step, Line: 3085
+Area Cleaning Parameters, Line: 3090
+MS Shell Dlg, Line: 3091
+Rise up to safe z while linking ofsets, Line: 3095
+Button, Line: 3096
+OK, Line: 3097
+Cancel, Line: 3098
+Stepover, Line: 3099
+Offset count, Line: 3100
+Clean By Offset, Line: 3101
+Button, Line: 3101
+Clean By Raster, Line: 3102
+Button, Line: 3102
+Raster Angle, Line: 3104
+Raster Type, Line: 3105
+Line, Line: 3106
+Button, Line: 3106
+Arc (bulge), Line: 3107
+Button, Line: 3107
+Concentric arcs, Line: 3108
+Button, Line: 3109
+Arc bulge, Line: 3110
+Concentric arc center, Line: 3113
+..., Line: 3114
+Tool Motion, Line: 3119
+MS Shell Dlg, Line: 3120
+Exit, Line: 3122
+|>, Line: 3124
+<|, Line: 3125
+^, Line: 3126
+V, Line: 3127
+O >, Line: 3128
+All toolpath, Line: 3129
+Button, Line: 3129
+Passes, Line: 3130
+Button, Line: 3130
+Slices, Line: 3131
+Button, Line: 3131
+Sections, Line: 3132
+Button, Line: 3132
+Prev., Line: 3134
+Next, Line: 3135
+, Line: 3136
+msctls_trackbar32, Line: 3136
+Tool Axis Control Dialog, Line: 3141
+MS Shell Dlg, Line: 3142
+OK, Line: 3144
+Cancel, Line: 3145
+Tool degree of freedom, Line: 3146
+Axis control type, Line: 3148
+4 Ax - Rotary Axis (i,j,k), Line: 3150
+Project start dialog:, Line: 3158
+MS Shell Dlg, Line: 3159
+OK, Line: 3161
+Cancel, Line: 3162
+Project Name:, Line: 3164
+Save directory:, Line: 3165
+Dialog, Line: 3171
+MS Shell Dlg, Line: 3172
+OK, Line: 3174
+Cancel, Line: 3175
+..., Line: 3177
+Post Process Options Dialog, Line: 3182
+MS Shell Dlg, Line: 3183
+Write arcs as line segments (No G02-G03 codes), Line: 3185
+Button, Line: 3186
+Decrease feedrate for arcs whose radius is small, Line: 3187
+Button, Line: 3188
+OK, Line: 3191
+Cancel, Line: 3192
+Small radius threshold, Line: 3193
+Feedrate decrease percentage, Line: 3194
+Max distance between positions, Line: 3195
+Button, Line: 3196
+Post 4Ax Head, Line: 3202
+MS Shell Dlg, Line: 3203
+OK, Line: 3205
+Cancel, Line: 3206
+Takï¿½m ucundan dï¿½nme merkezine mesafe, Line: 3208
+Rotary axis name (A-B-C), Line: 3210
+Machine origin relative to CAD origin, Line: 3211
+X, Line: 3215
+Y, Line: 3216
+Z, Line: 3217
+Safei Z, Line: 3219
+Dialog, Line: 3224
+MS Shell Dlg, Line: 3225
+OK, Line: 3227
+Cancel, Line: 3228
+, Line: 3229
+Static, Line: 3229
+NC Toolpaths, Line: 3234
+MS Shell Dlg, Line: 3235
+Close, Line: 3237
+Read NC File, Line: 3240
+Reset Tool For Selected NC, Line: 3241
+Simulate Selected NC, Line: 3242
+Show Selected, Line: 3243
+HideSelected, Line: 3244
+Calculate Lift , Line: 3245
+Draw Lift Lines, Line: 3246
+Button, Line: 3246
+Remake zmap with visible geo, Line: 3247
+Sampling Length, Line: 3249
+Nctoolpath  Info+ZMap info, Line: 3250
+Export, Line: 3251
+Lua path, Line: 3253
+Key words for parsing (seperate by ;), Line: 3255
+State value pairs (seperate by ; First value will be the default for the state), Line: 3256
+Coordinates, Line: 3259
+Multi Plates Post Process Dialog, Line: 3264
+MS Shell Dlg, Line: 3265
+Add selected, Line: 3269
+Add all, Line: 3270
+Delete selected, Line: 3271
+Delete all, Line: 3272
+..., Line: 3274
+Prepare report, Line: 3275
+Button, Line: 3275
+Write, Line: 3276
+All Plates, Line: 3277
+Plates to post, Line: 3278
+Report Attributes, Line: 3279
+>, Line: 3282
+Clear, Line: 3283
+All types, Line: 3284
+Types to write, Line: 3285
+Add extra cuts, Line: 3288
+Work piece selection, Line: 3293
+MS Shell Dlg, Line: 3294
+OK, Line: 3296
+Cancel, Line: 3297
+Select part to machine:, Line: 3299
+Machine Simulation, Line: 3304
+MS Shell Dlg, Line: 3305
+Dialog, Line: 3311
+MS Shell Dlg, Line: 3312
+OK, Line: 3314
+Cancel, Line: 3315
+Machining curve, Line: 3320
+MS Shell Dlg, Line: 3321
+Containment Curve, Line: 3326
+Button, Line: 3326
+Drilling Line, Line: 3327
+Button, Line: 3327
+Projection Curve, Line: 3328
+Button, Line: 3328
+OK, Line: 3329
+Cancel, Line: 3330
+Name, Line: 3331
+Tol, Line: 3332
+Join tolerance, Line: 3333
+Type, Line: 3334
+Dialog, Line: 3339
+MS Shell Dlg, Line: 3340
+, Line: 3342
+SysListView32, Line: 3342
+ï¿½izgileri ekle, Line: 3343
+Number of fine points, Line: 3345
+Leads Dialog, Line: 3350
+MS Shell Dlg, Line: 3351
+OK, Line: 3353
+Cancel, Line: 3354
+Add..., Line: 3356
+Delete, Line: 3357
+Save..., Line: 3358
+Make Drilling Lines Dialog, Line: 3363
+MS Shell Dlg, Line: 3364
+OK, Line: 3366
+Cancel, Line: 3367
+Hole Diameter, Line: 3368
+Machining Direction, Line: 3370
+i, Line: 3371
+j, Line: 3372
+k, Line: 3373
+Hole Depth, Line: 3377
+Drilling Dialog, Line: 3384
+MS Shell Dlg, Line: 3385
+, Line: 3387
+SysListView32, Line: 3387
+New Operation, Line: 3388
+Recalculate Selected, Line: 3389
+Reverse Axes, Line: 3390
+Sorting start point, Line: 3396
+Use circle's height, Line: 3397
+Button, Line: 3397
+Plunge, Line: 3401
+Button, Line: 3401
+Rapid, Line: 3402
+Button, Line: 3402
+Safe Z, Line: 3403
+Button, Line: 3403
+Close, Line: 3409
+Tools, Line: 3410
+Peck Depth, Line: 3411
+Plunge H., Line: 3412
+Rapid H., Line: 3413
+Safe Z, Line: 3414
+Pecking rise height, Line: 3415
+Feedrates, Line: 3416
+Cutting, Line: 3417
+Plunge, Line: 3418
+Riseup, Line: 3419
+Link, Line: 3420
+Spindle, Line: 3421
+Type Str, Line: 3422
+0 value is used for rapid moves.(G00), Line: 3423
+Tool Height, Line: 3425
+Template, Line: 3427
+Delete Selected X, Line: 3428
+Start H., Line: 3429
+Depth, Line: 3430
+Drill List Dialog, Line: 3435
+MS Shell Dlg, Line: 3436
+Calculate, Line: 3438
+Close, Line: 3439
+, Line: 3440
+SysListView32, Line: 3440
+Machining Direction, Line: 3441
+I, Line: 3445
+J, Line: 3446
+K, Line: 3447
+..., Line: 3448
+Tools, Line: 3449
+^, Line: 3451
+Depth, Line: 3452
+Button3, Line: 3453
+Add Arcs, Line: 3454
+Pecking, Line: 3456
+Button, Line: 3456
+Peck Depth, Line: 3458
+..., Line: 3462
+X, Line: 3463
+Y, Line: 3464
+Z, Line: 3465
+Start Point, Line: 3466
+Plunge H., Line: 3468
+Rapid H., Line: 3469
+Safe Z, Line: 3472
+Plunge, Line: 3473
+Button, Line: 3473
+Rapid, Line: 3474
+Button, Line: 3474
+Safe Z, Line: 3475
+Button, Line: 3475
+Compact Cut Result Dialog, Line: 3480
+MS Shell Dlg, Line: 3481
+Next, Line: 3486
+Post Process, Line: 3487
+Post Process All, Line: 3488
+Simulate Selected , Line: 3491
+Draw Plate, Line: 3494
+Button, Line: 3494
+Draw Part Outlines, Line: 3495
+Button, Line: 3495
+>, Line: 3497
+Clear, Line: 3498
+Close, Line: 3499
+Post process type, Line: 3500
+All types, Line: 3501
+Types to write, Line: 3502
+Compact Cut Dialog, Line: 3507
+MS Shell Dlg, Line: 3508
+Lower left corner, Line: 3512
+Button, Line: 3512
+Center, Line: 3513
+Button, Line: 3513
+, Line: 3514
+SysListView32, Line: 3514
+Set selected part, Line: 3515
+X    Delete Selected, Line: 3516
+Match..., Line: 3517
+Auto fill, Line: 3518
+Can I rotate, Line: 3522
+Button, Line: 3522
+, Line: 3523
+SysListView32, Line: 3523
+Advanced..., Line: 3524
+Results..., Line: 3525
+Calculate, Line: 3526
+Cancel, Line: 3527
+Plate to cut, Line: 3528
+X Length, Line: 3529
+Y Length, Line: 3530
+Machining origin, Line: 3531
+Clearence, Line: 3532
+Parts to cut, Line: 3533
+Name, Line: 3534
+Count, Line: 3535
+Plate numbers, Line: 3537
+As needed, Line: 3538
+Button, Line: 3538
+Limited, Line: 3539
+Button, Line: 3539
+Select name text, Line: 3541
+Select count text, Line: 3542
+Flip all rot, Line: 3543
+List to excel, Line: 3544
+X Y Clearences, Line: 3545
+Collision Check, Line: 3552
+MS Shell Dlg, Line: 3553
+OK, Line: 3555
+Cancel, Line: 3556
+, Line: 3557
+SysListView32, Line: 3557
+Geometry:, Line: 3558
+Action, Line: 3559
+Secimler-Degistirmek icin cift tiklayin-, Line: 3562
+Sayisal Parametreler:, Line: 3564
+^, Line: 3566
+Value=, Line: 3567
+Name:, Line: 3569
+Dialog, Line: 3574
+MS Shell Dlg, Line: 3575
+Bin Packing Parameters Dialog, Line: 3581
+MS Shell Dlg, Line: 3582
+firstBoxesHrt, Line: 3584
+Button, Line: 3584
+isCloseHrt, Line: 3586
+Button, Line: 3586
+rightAndTopBoxHrt, Line: 3589
+Button, Line: 3589
+Big parts first, Line: 3590
+Button, Line: 3590
+firstLeftHrt, Line: 3594
+Button, Line: 3594
+Add Parameter Set, Line: 3595
+, Line: 3596
+SysListView32, Line: 3596
+Activate All, Line: 3597
+Deactivate All, Line: 3598
+Delete, Line: 3599
+OK, Line: 3600
+Cancel, Line: 3601
+firstBoxesHrt_Coef, Line: 3602
+item_epsilon_Coef, Line: 3603
+item_epsilon_StartingRatio, Line: 3604
+box_epsilon_Coef , Line: 3605
+box_epsilon_StartingRatio, Line: 3606
+Parameter Sets, Line: 3607
+Parameters, Line: 3608
+One D epsilon coef X-Y , Line: 3611
+Max combinations, Line: 3613
+Multi plates step, Line: 3614
+Max combinations item count, Line: 3617
+Animate 2.5, Line: 3622
+MS Shell Dlg, Line: 3623
+OK, Line: 3625
+Cancel, Line: 3626
+>>, Line: 3628
+<<, Line: 3629
+Draw All, Line: 3630
+Hide All, Line: 3631
+--------Operations-------, Line: 3636
+MS Shell Dlg, Line: 3637
+OK, Line: 3639
+Cancel, Line: 3640
+Edit, Line: 3641
+Save, Line: 3642
+..., Line: 3644
+Read..., Line: 3645
+, Line: 3646
+SysListView32, Line: 3646
+Contour2D Dialog, Line: 3651
+MS Shell Dlg, Line: 3652
+, Line: 3654
+SysListView32, Line: 3654
+Geometry selection, Line: 3655
+Recalculate Selected, Line: 3656
+Sorting Start Point, Line: 3657
+Avoid curves, Line: 3658
+Area Cleaning, Line: 3666
+Button, Line: 3666
+Tool wear, Line: 3667
+Button, Line: 3667
+Zigzag, Line: 3668
+Button, Line: 3668
+Record, Line: 3669
+Stepdown, Line: 3675
+Tool, Line: 3676
+Stock to leave, Line: 3677
+Machining Side, Line: 3678
+Safe Z, Line: 3679
+Feedrates - 0 value is used for rapid moves (G00), Line: 3680
+Cutting, Line: 3681
+Entry, Line: 3682
+Exit, Line: 3683
+Link, Line: 3684
+Spindle Speed, Line: 3685
+Type, Line: 3686
+Entry, Line: 3687
+Exit, Line: 3688
+Operation Templates, Line: 3690
+Plunge H, Line: 3692
+Start , End trim distances:, Line: 3693
+Z Min, Line: 3696
+Z Max, Line: 3697
+Tool Length, Line: 3698
+Blade, Line: 3700
+Button, Line: 3700
+Manage templates, Line: 3701
+Drop to faces, Line: 3702
+Climb, Line: 3703
+Button, Line: 3703
+Taper angle, Line: 3704
+Tool axis, Line: 3706
+Break contours at sharp corners, Line: 3707
+Button, Line: 3708
+Sharp offset, Line: 3709
+Button, Line: 3709
+Make loop CCW, Line: 3710
+Button, Line: 3710
+Tool rotate CCW, Line: 3711
+Button, Line: 3711
+Extra parameters, Line: 3712
+Break contours at sharp corners united, Line: 3714
+Button, Line: 3715
+Sharp angle threshold, Line: 3717
+Contour link type, Line: 3719
+iletisim diyalogu, Line: 3724
+Microsoft Sans Serif, Line: 3725
+OK, Line: 3728
+STOP, Line: 3729
+Cnc Milling Machine Tools Dialog, Line: 3734
+MS Shell Dlg, Line: 3735
+, Line: 3738
+{6262D3A0-531B-11CF-91F6-C2863C385E30}, Line: 3739
+Add CNC machine tool, Line: 3740
+Edit, Line: 3741
+Sil, Line: 3742
+Parï¿½aya Cnc Tezgah Seï¿½, Line: 3743
+OK, Line: 3744
+Cancel, Line: 3745
+CNC Milling Machine Dialog, Line: 3750
+MS Shell Dlg, Line: 3751
+ï¿½ok iyi, Line: 3759
+Button, Line: 3759
+Good, Line: 3760
+Button, Line: 3760
+Mid, Line: 3761
+Button, Line: 3761
+Bad, Line: 3762
+Button, Line: 3762
+OK, Line: 3763
+Cancel, Line: 3764
+Name, Line: 3765
+X max (mm), Line: 3766
+Y max (mm), Line: 3767
+Z max (mm), Line: 3768
+Max revolution(round/min), Line: 3769
+Tonaj (kg), Line: 3770
+Machining precision, Line: 3771
+Supports, Line: 3776
+MS Shell Dlg, Line: 3777
+OK, Line: 3779
+Insert..., Line: 3781
+X      Sil, Line: 3782
+Support Diameter, Line: 3784
+Tool wear dialog, Line: 3789
+MS Shell Dlg, Line: 3790
+OK, Line: 3792
+Cancel, Line: 3793
+Tool wear model, Line: 3794
+Constant linear decrease by cutting length, Line: 3795
+Button, Line: 3796
+Decrease proportional to cutter diameter by cutting length, Line: 3797
+Button, Line: 3798
+Tool wear in1000 mm, Line: 3800
+Reference Diameter, Line: 3802
+Arc fit, Line: 3803
+Button, Line: 3803
+Actual Diameter, Line: 3804
+Extra operation parameters, Line: 3810
+MS Shell Dlg, Line: 3811
+OK, Line: 3813
+Cancel, Line: 3814
+, Line: 3815
+SysListView32, Line: 3815
+Button1, Line: 3816
+Button2, Line: 3817
+, Line: 3820
+SysDateTimePick32, Line: 3820
+MS Shell Dlg, Line: 3825
+Radio1, Line: 3827
+Button, Line: 3827
+Radio2, Line: 3828
+Button, Line: 3828
+Radio3, Line: 3829
+Button, Line: 3829
+Dialog, Line: 3834
+MS Shell Dlg, Line: 3835
+OK, Line: 3837
+Cancel, Line: 3838
+, Line: 3841
+SysDateTimePick32, Line: 3841
+, Line: 3842
+SysListView32, Line: 3842
+AluKes Geo Dialog, Line: 3847
+MS Shell Dlg, Line: 3848
+OK, Line: 3850
+Cancel, Line: 3851
+, Line: 3852
+SysListView32, Line: 3852
+Button1, Line: 3853
+Button2, Line: 3854
+AluKes Position Clamps Constraint, Line: 3859
+MS Shell Dlg, Line: 3860
+OK, Line: 3862
+Cancel, Line: 3863
+Inputs, Line: 3865
+All Operations, Line: 3866
+Clamp Positions, Line: 3867
+Move clamps to position, Line: 3869
+Print Constraint, Line: 3870
+Calculation Result, Line: 3871
+Possible Operations, Line: 3873
+Impossible Operations, Line: 3874
+>>, Line: 3877
+Machining Templates Dialog, Line: 3882
+MS Shell Dlg, Line: 3883
+OK, Line: 3885
+Cancel, Line: 3886
+, Line: 3887
+SysListView32, Line: 3887
+Load checked templates to dialog, Line: 3888
+If more than one template is checked only common parameters will be loaded., Line: 3889
+Micro pattern-5 axis laser texturing, Line: 3894
+MS Shell Dlg, Line: 3895
+OK, Line: 3897
+Cancel, Line: 3898
+Planar deviation tolerance, Line: 3900
+Laser focal distance, Line: 3902
+Max rectangle length, Line: 3904
+, Line: 3905
+SysListView32, Line: 3905
+Yï¿½zeyleri seï¿½, Line: 3906
+Enlarge rectangle by, Line: 3908
+Bmp record path, Line: 3910
+Bmp pixels dot per mm, Line: 3912
+Quad information:, Line: 3915
+>, Line: 3916
+Contour entry & exit parameters, Line: 3921
+MS Shell Dlg, Line: 3922
+OK, Line: 3924
+Cancel, Line: 3925
+Line length, Line: 3928
+Circle radius, Line: 3929
+Circle end angle, Line: 3931
+Line angle, Line: 3932
+Elevation per length (for ramping.  0 means no ramp), Line: 3935
+0 degrees make a tangent line to contour.90 and -90 make vertical lines on two sides., Line: 3936
+Automated Contour Cutting Parameters, Line: 3942
+MS Shell Dlg, Line: 3943
+OK, Line: 3945
+Cancel, Line: 3946
+Cutting operation template, Line: 3948
+Tool name, Line: 3949
+Start extension(1,2), Line: 3952
+End extension(1,2), Line: 3953
+Do anyshape nesting calculation, Line: 3955
+Button, Line: 3956
+Stock width, Line: 3959
+Stock height, Line: 3960
+Stock Trim Margin, Line: 3962
+Allow mirroring parts, Line: 3964
+Button, Line: 3964
+Rotation Step, Line: 3965
+Add tree link for sub-contours, Line: 3966
+Button, Line: 3967
+Tolerance to digitise arcs for anyshape, Line: 3969
+, Line: 3970
+SysListView32, Line: 3970
+, Line: 3971
+SysListView32, Line: 3971
+Stocks, Line: 3972
+Parts, Line: 3973
+Select Part Out, Line: 3974
+Add rectangle stock, Line: 3975
+Select Curves , Make Stock, Line: 3976
+Nesting, Line: 3977
+Delete Checked Parts, Line: 3978
+Delete Checked Stocks, Line: 3979
+Part Name, Line: 3981
+Active Solution Space, Line: 3983
+>, Line: 3984
+>, Line: 3985
+>, Line: 3986
+Priority, Line: 3988
+>, Line: 3989
+Sort By Name, Line: 3990
+Sort By Area, Line: 3991
+Reverse Order, Line: 3992
+Number to add, Line: 3994
+Priority, Line: 3996
+>, Line: 3997
+New Solution Space, Line: 3998
+Clear NCPostBox, Line: 3999
+Button, Line: 3999
+Send checked to NCPostBox, Line: 4000
+, Line: 4001
+SysListView32, Line: 4001
+, Line: 4002
+SysListView32, Line: 4002
+Utilized Parts, Line: 4003
+Utilized Stock, Line: 4004
+Transform Checked, Line: 4005
+Add original (No nesting), Line: 4006
+Sort by selection time, Line: 4008
+Concave, Line: 4011
+..., Line: 4013
+Triangle Import Export Options, Line: 4018
+MS Shell Dlg, Line: 4019
+OK, Line: 4021
+Cancel, Line: 4022
+Reading, Line: 4023
+Writing, Line: 4024
+Export Binary STL, Line: 4025
+Button, Line: 4025
+Export to text file, Line: 4026
+Button, Line: 4026
+Sharp angle threshold in degrees, Line: 4028
+Add sharp edges to graphic as wireframe, Line: 4029
+Button, Line: 4030
+Transformation, Line: 4035
+MS Shell Dlg, Line: 4036
+OK, Line: 4038
+Cancel, Line: 4039
+Angle, Line: 4040
+Rotate, Line: 4042
+Dialog, Line: 4047
+MS Shell Dlg, Line: 4048
+Mold surface, Line: 4050
+Pulun Deï¿½iï¿½ken ï¿½apï¿½, Line: 4051
+Insert, Line: 4052
+Yeniden Hesapla, Line: 4053
+Temizle, Line: 4054
+End, Line: 4055
+Set, Line: 4067
+Sil, Line: 4068
+Insert, Line: 4069
+, Line: 4070
+SysTreeView32, Line: 4070
+Takï¿½mYolu ï¿½ret, Line: 4071
+Yay Aralï¿½klarï¿½(ï¿½st, Alt), Line: 4072
+ï¿½iï¿½iklik (Gidiï¿½, Dï¿½nï¿½ï¿½), Line: 4073
+Limit Angle, Line: 4074
+Takï¿½m ï¿½smi : , Line: 4075
+Yay Parametreleri, Line: 4076
+General Spline parameters, Line: 4077
+Min. Adï¿½m, Line: 4078
+ï¿½iï¿½iklik, Line: 4079
+Initial value, Line: 4080
+Final value, Line: 4081
+Takï¿½mYolu dï¿½nï¿½ï¿½, Line: 4082
+Takï¿½mYolu dï¿½nï¿½ï¿½, Line: 4083
+Return Offset, Line: 4087
+Pulcuk Seï¿½, Line: 4088
+, Line: 4089
+SysTreeView32, Line: 4089
+Yukarï¿½, Line: 4090
+Button, Line: 4090
+ï¿½stï¿½nden, Line: 4091
+Button, Line: 4091
+Entry, Line: 4092
+ï¿½ï¿½kï¿½ï¿½, Line: 4093
+Tables Dialog, Line: 4098
+MS Shell Dlg, Line: 4099
+Tables, Line: 4102
+, Line: 4103
+SysListView32, Line: 4103
+New row, Line: 4104
+Save table, Line: 4105
+Add row to >, Line: 4106
+, Line: 4107
+SysListView32, Line: 4107
+Record To >, Line: 4108
+, Line: 4109
+SysListView32, Line: 4109
+Parameters, Line: 4110
+Entities, Line: 4111
+Read CSV, Line: 4112
+Delete Row(s), Line: 4113
+Select Script File, Line: 4115
+Run script, Line: 4116
+Clear parameters, Line: 4117
+OK, Line: 4118
+?, Line: 4119
+MS Shell Dlg, Line: 4124
+ok, Line: 4126
+x, Line: 4127
+?, Line: 4129
+Dialog, Line: 4134
+MS Shell Dlg, Line: 4135
+Takï¿½m Yï¿½zeyi Seï¿½, Line: 4137
+Cancel, Line: 4138
+Calculate, Line: 4139
+Curve Seï¿½, Line: 4140
+Turn Tool, Line: 4145
+MS Shell Dlg, Line: 4146
+OK, Line: 4148
+Cancel, Line: 4149
+Select Tool, Line: 4150
+..., Line: 4151
+X, Line: 4155
+Y, Line: 4156
+Z, Line: 4157
+Contour Start Point Dialog, Line: 4162
+MS Shell Dlg, Line: 4163
+OK, Line: 4165
+Cancel, Line: 4166
+Line Direction Angle, Line: 4167
+Use dialog sorting start point, Line: 4169
+Button, Line: 4170
+Start from imaginary line intersection point. Line first point: Closed loop center, Line: 4171
+Button, Line: 4172
+Nearest point on contour to selected geometries, Line: 4173
+Button, Line: 4174
+Curve start point, Line: 4175
+Button, Line: 4175
+Tangent angle, Line: 4176
+Button, Line: 4176
+Dialog sorting start point, Line: 4178
+..., Line: 4179
+..., Line: 4180
+Result point on source contour, Line: 4181
+Update dialog sorting start point after calculating result point on contour, Line: 4183
+Button, Line: 4184
+Apply collision check for entry and exit moves after calculation.Entry/exit move will be removed if colliding., Line: 4185
+Button, Line: 4186
+Static, Line: 4187
+Ask start point at the begining, Line: 4189
+Button, Line: 4190
+MS Shell Dlg, Line: 4195
+Mold, Line: 4197
+Upper Limit, Line: 4198
+Select point, Line: 4199
+Split, Line: 4200
+Make Toolpath, Line: 4202
+Clear, Line: 4204
+Free, Line: 4205
+Button, Line: 4205
+On mold surface, Line: 4206
+Button, Line: 4206
+On Upper Limit, Line: 4207
+Button, Line: 4207
+Delete entity, Line: 4208
+Make, Line: 4211
+Disable, Line: 4213
+Button, Line: 4213
+Bulge, Line: 4214
+, Line: 4215
+SysTreeView32, Line: 4215
+Add row to properties, Line: 4218
+Properties to checked, Line: 4219
+, Line: 4220
+SysListView32, Line: 4220
+Clear properties, Line: 4221
+Start, Line: 4222
+Button, Line: 4222
+End, Line: 4223
+Button, Line: 4223
+From curves, Line: 4224
+Transform, Line: 4225
+Reverse, Line: 4226
+Tool geo, Line: 4227
+Reset snap distance, Line: 4228
+Move only checked arcs, Line: 4230
+Button, Line: 4231
+Show arc names, Line: 4232
+Button, Line: 4232
+Undo last move, Line: 4233
+MS Shell Dlg, Line: 4238
+SolidCNC selection bar, Line: 4240
+Compact Cut Report Attributes Dialog, Line: 4245
+MS Shell Dlg, Line: 4246
+OK, Line: 4248
+Cancel, Line: 4249
+Distance between groups, Line: 4251
+Grouping Xno , Yno, Line: 4254
+Change Contour Visaul Attributes, Line: 4255
+Change Inner Contour Visual Attributes, Line: 4256
+Change Text Visual Attributes, Line: 4257
+Group equal plates, Line: 4258
+Button, Line: 4258
+Add curves to report, Line: 4259
+Button, Line: 4260
+Save report as DXF automatically, Line: 4262
+Button, Line: 4263
+Reorder closed plate operations start point, Line: 4264
+Resort plate operations, Line: 4266
+DXF Export Dialog, Line: 4271
+MS Shell Dlg, Line: 4272
+OK, Line: 4274
+Cancel, Line: 4275
+Make arc fit for polyline, Line: 4276
+Button, Line: 4276
+Blade Cutting, Line: 4281
+MS Shell Dlg, Line: 4282
+Tool, Line: 4285
+Part Height, Line: 4286
+Lift up, Line: 4289
+Select Contour, Line: 4290
+Type, Line: 4291
+Safe Z, Line: 4294
+Plunge H, Line: 4295
+Max cutting depth lines, Line: 4297
+Max cutting depth arcs, Line: 4298
+Add, Line: 4302
+Delete, Line: 4303
+C Angle Change Parameters, Line: 4304
+Angle Start, Line: 4305
+Angle End, Line: 4307
+C Angle Offset, Line: 4312
+Cutting, Line: 4314
+Entry, Line: 4315
+Exit, Line: 4316
+Link, Line: 4317
+Spindle, Line: 4318
+Lines, Line: 4319
+Arcs, Line: 4320
+, Line: 4321
+SysListView32, Line: 4321
+Recalculate, Line: 4322
+Feedrates, Line: 4323
+Set, Line: 4334
+Z overcut, Line: 4335
+Calculate, Line: 4337
+A Angle Parameters, Line: 4338
+Taper angle, Line: 4340
+Attach taper value to edge, Line: 4342
+Stock to leave, Line: 4343
+Tool rotate CCW, Line: 4345
+Button, Line: 4345
+Taper Height, Line: 4346
+Trim extension type, Line: 4349
+Trim distance for start, Line: 4350
+Trim distance for end, Line: 4352
+Reverse tool side, Line: 4354
+Dialog, Line: 4360
+MS Shell Dlg, Line: 4361
+, Line: 4363
+msctls_trackbar32, Line: 4363
+>, Line: 4364
+Stop, Line: 4365
+Chamfer Solid 2.5, Line: 4370
+MS Shell Dlg, Line: 4371
+Top, Line: 4373
+Button, Line: 4373
+Bottom, Line: 4374
+Button, Line: 4374
+Chamfer width, Line: 4377
+Chamfer height, Line: 4378
+Select bodies, Line: 4379
+Chamfer inner loops, Line: 4380
+Button, Line: 4381
+Chamfer outer loop, Line: 4382
+Button, Line: 4383
+Fillet Solid2.5 D, Line: 4388
+MS Shell Dlg, Line: 4389
+Fillet radius, Line: 4391
+Fillet Top, Line: 4393
+Button, Line: 4393
+Fillet Bottom, Line: 4394
+Button, Line: 4394
+Select bodies, Line: 4395
+Fillet inner loops, Line: 4396
+Button, Line: 4397
+Fillet outer loop, Line: 4398
+Button, Line: 4399
+Helical revolution, Line: 4404
+MS Shell Dlg, Line: 4405
+Revolve, Line: 4407
+Select section to revolve (X axis along diameter , Y axis along cylinder ax), Line: 4408
+Select origin of diameter on section, Line: 4409
+Select origin of z (cylinder axis) on section, Line: 4410
+Start Diameter for origin, Line: 4413
+Delta Diameter per round, Line: 4414
+Start Angle, Line: 4415
+Number of revolutions, Line: 4417
+Base z limit, Line: 4419
+Top z limit, Line: 4420
+Pitch, Line: 4423
+Delta pitch per round, Line: 4425
+Tranform on workplane, Line: 4431
+MS Shell Dlg, Line: 4432
+OK, Line: 4434
+, Line: 4435
+SysTabControl32, Line: 4435
+Transform all, Line: 4436
+Button, Line: 4436
+Transform only workCS, Line: 4437
+Button, Line: 4437
+MS Shell Dlg, Line: 4442
+Delta X, Line: 4447
+Delta Y, Line: 4448
+Delta Z, Line: 4449
+Lock, Line: 4450
+Button, Line: 4450
+Lock, Line: 4451
+Button, Line: 4451
+Lock, Line: 4452
+Button, Line: 4452
+Click on graphics window to lock , double click to unlock, Line: 4453
+MS Shell Dlg, Line: 4458
+Angle, Line: 4461
+Lock, Line: 4462
+Button, Line: 4462
+Click on graphics window to lock , double click to unlock, Line: 4463
+MS Shell Dlg, Line: 4468
+Mirror Axis, Line: 4470
+X, Line: 4471
+Button, Line: 4471
+Y, Line: 4472
+Button, Line: 4472
+Apply, Line: 4473
+MS Shell Dlg, Line: 4478
+X factor, Line: 4483
+Y factor, Line: 4484
+Z factor, Line: 4485
+Apply, Line: 4486
+Import points from text file, Line: 4491
+MS Shell Dlg, Line: 4492
+OK, Line: 4494
+Cancel, Line: 4495
+..., Line: 4497
+Lua script file for importing text, Line: 4498
+Lua script for exporting geo, Line: 4499
+..., Line: 4501
+Keywords to parse (comma separated), Line: 4502
+Extend trim geometry, Line: 4508
+MS Shell Dlg, Line: 4509
+String mode, Line: 4511
+Button, Line: 4511
+By length, Line: 4512
+Till point, Line: 4513
+Till element, Line: 4514
+Strech, Line: 4515
+Meet vertex, Line: 4517
+Kinematic Part Dialog, Line: 4522
+MS Shell Dlg, Line: 4523
+OK, Line: 4525
+Cancel, Line: 4526
+Part Name, Line: 4527
+Axis Name, Line: 4529
+None, Line: 4531
+Button, Line: 4531
+Linear, Line: 4532
+Button, Line: 4532
+Rotation, Line: 4533
+Button, Line: 4533
+Fixed axis rotation, Line: 4534
+Button, Line: 4534
+Transformation, Line: 4535
+Select geometry, Line: 4536
+Tool no, Line: 4539
+Dialog Kinematic Simulation, Line: 4544
+MS Shell Dlg, Line: 4545
+NC file, Line: 4547
+Pause, Line: 4549
+Button, Line: 4549
+Next line, Line: 4550
+Command, Line: 4553
+>, Line: 4554
+<, Line: 4555
+0, Line: 4556
+Debug, Line: 4557
+Button, Line: 4557
+Kinematic set dialog, Line: 4562
+MS Shell Dlg, Line: 4563
+OK, Line: 4565
+Cancel, Line: 4566
+Set name, Line: 4568
+Simulation Lua script path, Line: 4570
+..., Line: 4571
+Select parent dialog, Line: 4576
+MS Shell Dlg, Line: 4577
+OK, Line: 4579
+Cancel, Line: 4580
+Ellipse, Line: 4586
+MS Shell Dlg, Line: 4587
+X Diameter, Line: 4589
+Y Diameter, Line: 4590
+Insert, Line: 4593
+Angle 1, Line: 4596
+Angle 2, Line: 4597
+Add line to kinematic set dialog, Line: 4602
+MS Shell Dlg, Line: 4603
+OK, Line: 4605
+Cancel, Line: 4606
+Start point, Line: 4609
+End point, Line: 4610
+Pick start, Line: 4611
+Pick end, Line: 4612
+Attach to axis, Line: 4615
+Line name, Line: 4617
+Add/Set, Line: 4619
+Delete, Line: 4620
+Set lines, Line: 4621
+Compact true shape cutting, Line: 4626
+MS Shell Dlg, Line: 4627
+, Line: 4629
+SysListView32, Line: 4629
+Select part outline, Line: 4630
+Select inner holes, Line: 4631
+Select bend lines, Line: 4632
+, Line: 4636
+SysListView32, Line: 4636
+Defaults..., Line: 4637
+Operation templates, Line: 4638
+Add rectangle stock, Line: 4641
+X length, Line: 4642
+Y length, Line: 4643
+Count, Line: 4644
+Add free shape stock, Line: 4647
+Sets, Line: 4648
+Add new set, Line: 4649
+Utilize, Line: 4650
+Parameters..., Line: 4651
+Clearence, Line: 4653
+One by one, Line: 4654
+Button, Line: 4654
+Part list sorting, Line: 4656
+Stock, Line: 4657
+Manuel nesting, Line: 4658
+Part parameters, Line: 4663
+MS Shell Dlg, Line: 4664
+OK, Line: 4666
+Cancel, Line: 4667
+Rotation Step, Line: 4669
+Allow mirror, Line: 4670
+Button, Line: 4670
+User data, Line: 4671
+Copy count, Line: 4674
+Clearence from tool, Line: 4675
+Button, Line: 4676
+Extra clearence, Line: 4678
+Compact true shape parameters, Line: 4683
+MS Shell Dlg, Line: 4684
+OK, Line: 4686
+Cancel, Line: 4687
+Start corner, Line: 4688
+Lower left, Line: 4689
+Button, Line: 4689
+Lower right, Line: 4690
+Button, Line: 4690
+Upper right, Line: 4691
+Button, Line: 4691
+Upper left, Line: 4692
+Button, Line: 4692
+Nesting precision, Line: 4694
+Touch gap, Line: 4696
+Touch percentage, Line: 4698
+First push along y axis, Line: 4699
+Button, Line: 4700
+First push along x axis, Line: 4701
+Button, Line: 4702
+Order direction, Line: 4703
+Material table, Line: 4704
+User data table, Line: 4706
+Must be selected prior to adding parts and stocks, Line: 4708
+Button, Line: 4709
+Materials, Line: 4711
+Color, Line: 4712
+, Line: 4713
+Copy count detection key words (coma seperated), Line: 4715
+Dimension scale factor for area, Line: 4717
+Text search enlarge value, Line: 4720
+Define color dialog, Line: 4725
+MS Shell Dlg, Line: 4726
+, Line: 4728
+Color Dialog, Line: 4730
+Select model for color, Line: 4731
+Add color, Line: 4732
+, Line: 4733
+msctls_updown32, Line: 4733
+X, Line: 4734
+File Explorer, Line: 4740
+MS Shell Dlg, Line: 4741
+OK, Line: 4743
+Cancel, Line: 4744
+, Line: 4745
+SysTreeView32, Line: 4745
+Get Selected Item, Line: 4746
+Refresh, Line: 4747
+GetMyContour, Line: 4748
+Sorting Dialog, Line: 4753
+MS Shell Dlg, Line: 4754
+, Line: 4756
+SysListView32, Line: 4756
+Add to list, Line: 4757
+Delete key, Line: 4758
+Add to list, Line: 4759
+Delete value, Line: 4760
+, Line: 4764
+SysListView32, Line: 4764
+Priority, Line: 4766
+Keys, Line: 4767
+Values, Line: 4768
+Blade cutting parameters, Line: 4778
+MS Shell Dlg, Line: 4779
+OK, Line: 4781
+Cancel, Line: 4782
+Part height, Line: 4783
+Tangent threshold angle, Line: 4786
+Continueous rotation, Line: 4787
+Button, Line: 4787
+n rounds, Line: 4788
+Angle step for digitising, Line: 4790
+True ofset, Line: 4792
+Button, Line: 4792
+Lift up, Line: 4794
+Profile machining, Line: 4795
+Button, Line: 4795
+Roughing Clearence, Line: 4799
+Rough step, Line: 4800
+Fine step, Line: 4801
+Machining interval, Line: 4804
+Start angle, Line: 4805
+End angle, Line: 4806
+Spindle right, Line: 4807
+Button, Line: 4807
+Spindle left, Line: 4808
+Button, Line: 4808
+Trim extension at start, Line: 4810
+Button, Line: 4811
+Trim extension at end, Line: 4812
+Button, Line: 4812
+Rough, Line: 4813
+Button, Line: 4813
+Finish, Line: 4814
+Button, Line: 4814
+Curve clone by sweep, Line: 4819
+MS Shell Dlg, Line: 4820
+Count per curve, Line: 4823
+Select curves, Line: 4824
+Scale factor, Line: 4827
+Manuel Nesting, Line: 4832
+MS Shell Dlg, Line: 4833
+Push Left, Line: 4835
+Push Right, Line: 4836
+Push Up, Line: 4837
+Push Down, Line: 4838
+Rotate, Line: 4839
+CCW, Line: 4840
+CW, Line: 4841
+Pin, Line: 4844
+Properties, Line: 4850
+MS Shell Dlg, Line: 4851
+OK, Line: 4853
+Cancel, Line: 4854
+, Line: 4855
+SysListView32, Line: 4855
+Add, Line: 4856
+Tool Axis Control, Line: 4863
+MS Shell Dlg, Line: 4864
+OK, Line: 4866
+Cancel, Line: 4867
+Work plane Z direction, Line: 4868
+Button, Line: 4868
+Rotate around tangent direction, Line: 4869
+Button, Line: 4870
+Angle, Line: 4872
+Tool axis angle max  step, Line: 4873
+Linear move max step, Line: 4875
+Laser offset, Line: 4877
+Make taper interactor, Line: 4879
+Button, Line: 4880
+Taper interactor extension, Line: 4882
+Tool axis during entry, Line: 4884
+Tool axis during exit, Line: 4885
+Segmentation Parameters Dialog, Line: 4891
+MS Shell Dlg, Line: 4892
+OK, Line: 4894
+Cancel, Line: 4895
+Extract region pixel selection options, Line: 4896
+White threshold, Line: 4897
+Button, Line: 4897
+RGB threshold, Line: 4898
+Button, Line: 4898
+Pixel selection by script, Line: 4899
+Button, Line: 4900
+threshold, Line: 4902
+Lua script path, Line: 4905
+..., Line: 4906
+Set, Line: 4907
+Pick RGB, Line: 4909
+Set RGB As Min, Line: 4910
+Set RGB As Max, Line: 4911
+Offset RGB, Line: 4913
+Median filter page n, Line: 4916
+Delta check threshold, Line: 4917
+Segmented Solid Dialog, Line: 4922
+MS Shell Dlg, Line: 4923
+Make voxel models from all, Line: 4925
+Close, Line: 4926
+Name, Line: 4928
+Work plane, Line: 4930
+Side undefined, Line: 4931
+Button, Line: 4931
+Left, Line: 4932
+Button, Line: 4932
+Right, Line: 4933
+Button, Line: 4933
+Side, Line: 4934
+, Line: 4937
+SysListView32, Line: 4937
+Pixels min, Line: 4938
+Pixels max, Line: 4939
+Is neighbor threshold, Line: 4941
+Net settings..., Line: 4942
+Segmented solid net, Line: 4947
+MS Shell Dlg, Line: 4948
+Calculate, Line: 4950
+Close, Line: 4951
+Max radius change offset, Line: 4954
+Net angle step, Line: 4955
+Make net triangles, Line: 4956
+Button, Line: 4956
+Make net curves, Line: 4957
+Button, Line: 4957
+, Line: 4958
+SysListView32, Line: 4958
+Net height step, Line: 4960
+Picture resolution length, Line: 4963
+Decimation N, Line: 4964
+Region hull break count, Line: 4968
+Region inner loops hull break count, Line: 4969
+Small loop area threshold, Line: 4970
+Two convex points close threshold, Line: 4972
+Subdivision Curves Dialog , Line: 4977
+MS Shell Dlg, Line: 4978
+Close, Line: 4980
+Chaikin subdivision, Line: 4981
+Subdivision count, Line: 4982
+Dialog image filter, Line: 4988
+MS Shell Dlg, Line: 4989
+Moving avarage filter, Line: 4993
+Apply filter along width, Line: 4994
+Button, Line: 4995
+Apply filter along height, Line: 4996
+Button, Line: 4997
+Kernel size in width, Line: 4998
+Kernel size in height, Line: 4999
+Conditional (apply filter to pixels in selection range), Line: 5000
+Button, Line: 5001
+Median filter, Line: 5002
+Make lines on surface, Line: 5007
+MS Shell Dlg, Line: 5008
+Line generation type, Line: 5011
+Normal Line Length, Line: 5013
+Select surfaces to make lines, Line: 5014
+Side tilt angle, Line: 5017
+Forward tilt angle, Line: 5018
+Delta Angle, Line: 5020
+Make negative normal lines, Line: 5021
+Button, Line: 5022
+Make surface boundary curves, Line: 5023
+Button, Line: 5024
+Make positive normal lines, Line: 5025
+Button, Line: 5026
+Boundary offset, Line: 5028
+Loop points count, Line: 5029
+Shift normal lines, Line: 5031
+Dialog Segment Surface Point Generator, Line: 5036
+MS Shell Dlg, Line: 5037
+, Line: 5039
+SysListView32, Line: 5039
+Make segment surface, Line: 5041
+Grid Maker Dialog, Line: 5046
+MS Shell Dlg, Line: 5047
+OK, Line: 5049
+X coordinates(; seperated), Line: 5052
+Y coordinates(; seperated), Line: 5053
++ Add range, Line: 5054
++ Add range, Line: 5055
+Clear, Line: 5056
+Clear, Line: 5057
+Make geometry, Line: 5058
+Make  net, Line: 5059
+Zc, Line: 5061
+X sections, Line: 5062
+Button, Line: 5062
+Y sections, Line: 5063
+Button, Line: 5063
+Make sections, Line: 5064
+Net from curves, Line: 5065
+Cartesian, Line: 5066
+Button, Line: 5066
+Cylindirical, Line: 5067
+Button, Line: 5067
+Spherical, Line: 5068
+Button, Line: 5068
+Net type, Line: 5069
+Boundary, Line: 5070
+Button, Line: 5070
+3D Trimming, Line: 5072
+Button, Line: 5072
+Array maker dialog, Line: 5077
+MS Shell Dlg, Line: 5078
+OK, Line: 5080
+Cancel, Line: 5081
+Array limits, Line: 5082
+Length, Line: 5083
+Button, Line: 5083
+Start and end values, Line: 5084
+Button, Line: 5084
+Array elements, Line: 5088
+Count, Line: 5089
+Button, Line: 5089
+Distance between elements, Line: 5090
+Button, Line: 5091
+Geometry min. max., Line: 5094
+Digitise curve, Line: 5095
+Along work Xc, Line: 5096
+Button, Line: 5096
+Along work Yc, Line: 5097
+Button, Line: 5097
+Make array, Line: 5098
+Clear array, Line: 5099
+Dialog, Line: 5105
+MS Shell Dlg, Line: 5106
+OK, Line: 5108
+Cancel, Line: 5109
+, Line: 5110
+SysListView32, Line: 5110
+Add, Line: 5113
+X-Y, Line: 5114
+Check All, Line: 5115
+Uncheck All, Line: 5116
+Delete Checked, Line: 5117
+Calculate, Line: 5118
+Helical wrapping, Line: 5123
+MS Shell Dlg, Line: 5124
+Calculate, Line: 5126
+Close, Line: 5127
+Select surfaces or triangle model for wrapping, Line: 5129
+Select Z axis line, Line: 5130
+Pick point on X axis. (Wrapping start angle), Line: 5132
+Pitch, Line: 5135
+Wrapping count, Line: 5136
+Start with positive rotation, Line: 5138
+Button, Line: 5139
+Z digitise step, Line: 5141
+Draw tangent lines, Line: 5142
+Button, Line: 5142
+Output path, Line: 5144
+..., Line: 5145
+Y axis offset, Line: 5147
+Machine parameters, Line: 5148
+X axis limit1, Line: 5150
+X axis limit 2, Line: 5151
+Y axis limit1, Line: 5155
+Y axis limit2, Line: 5156
+Angle limit 1, Line: 5159
+Angle limit2, Line: 5160
+Output machining file, Line: 5161
+Button, Line: 5162
+Extend surface control points, Line: 5167
+MS Shell Dlg, Line: 5168
+Extend, Line: 5170
+Cancel, Line: 5171
+U direction, Line: 5172
+Button, Line: 5172
+V direction, Line: 5173
+Button, Line: 5173
+Closed polygon, Line: 5174
+Button, Line: 5174
+Surface, Line: 5175
+Button, Line: 5175
+Edit line dialog, Line: 5180
+MS Shell Dlg, Line: 5181
+OK, Line: 5183
+Cancel, Line: 5184
+Line length, Line: 5187
+Angle to work X axis, Line: 5188
+Groove Calculator Dialog, Line: 5193
+MS Shell Dlg, Line: 5194
+OK, Line: 5196
+Cancel, Line: 5197
+Disc diameter, Line: 5198
+Groove depth, Line: 5200
+Groove width, Line: 5202
+Auto trim, Line: 5204
+Preview groove, Line: 5205
+Button, Line: 5205
+Calculate trim distance, Line: 5207
+Trim distance, Line: 5208
+Tolerance, Line: 5210
+Angle threshold, Line: 5212
+Advanced milling extra parameters dialog, Line: 5217
+MS Shell Dlg, Line: 5218
+OK, Line: 5220
+Cancel, Line: 5221
+Tools, Line: 5223
+Tool no, Line: 5224
+Spindle speed (rpm), Line: 5225
+Operation Name, Line: 5229
+Extra parameters, Line: 5230
+Dialog, Line: 5235
+MS Shell Dlg, Line: 5236
+OK, Line: 5238
+Cancel, Line: 5239
+SelTool, Line: 5240
+SelToolRefPoint, Line: 5241
+SelGeo, Line: 5242
+Tool Digitise, Line: 5244
+StartPoint, Line: 5245
+LeftRightBoth, Line: 5247
+Stone nesting rotate, Line: 5252
+MS Shell Dlg, Line: 5253
+OK, Line: 5255
+Cancel, Line: 5256
+Angle step, Line: 5257
++, Line: 5259
+-, Line: 5260
+Best box, Line: 5261
+-90, Line: 5262
++90, Line: 5263
+Turning Dialog, Line: 5268
+MS Shell Dlg, Line: 5269
+Tool, Line: 5272
+Select Contour, Line: 5273
+Type, Line: 5274
+Safe Diameter, Line: 5277
+Plunge Diameter, Line: 5278
+Max cutting depth, Line: 5280
+Cutting, Line: 5282
+Entry, Line: 5283
+Exit, Line: 5284
+Link, Line: 5285
+Spindle, Line: 5286
+, Line: 5287
+SysListView32, Line: 5287
+Recalculate, Line: 5288
+Feedrates, Line: 5289
+Set, Line: 5295
+Calculate, Line: 5296
+Stock to leave, Line: 5297
+Part rotate CCW, Line: 5299
+Button, Line: 5299
+One way cutting, Line: 5300
+Button, Line: 5300
+Tolerances, Line: 5301
+Tolerance, Line: 5303
+Initial tool digitise step, Line: 5304
+Initial contour digitise step, Line: 5307
+Tool free shape data 2D, Line: 5312
+MS Shell Dlg, Line: 5313
+Select complete tool contour, Line: 5315
+Select tool reference point, Line: 5317
+Select tool cutter part start,mid,end points, Line: 5319
+Calculate tool data, Line: 5322
+Static, Line: 5323
+Clear all selection, Line: 5324
+View, Line: 5325
+View, Line: 5326
+View, Line: 5327
+View, Line: 5328
+Stone Parameters Dialog, Line: 5333
+MS Shell Dlg, Line: 5334
+OK, Line: 5336
+Cancel, Line: 5337
+Stone part reference point size, Line: 5338
+Stone stock reference point size, Line: 5339
+Distance per one degree, Line: 5340
+C Angle minimisation active, Line: 5344
+Button, Line: 5345
+Toolpath sorting optimisation, Line: 5346
+Snap cut plane gap tolerance, Line: 5347
+Vacuum drawing, Line: 5349
+Left vacuum delta X Y, Line: 5351
+Right vacuum delta X Y, Line: 5354
+Vacuum delta Z, Line: 5357
+Sorting, Line: 5360
+Merge coincident operations, Line: 5362
+Button, Line: 5363
+Add, Line: 5365
+Camera , Line: 5368
+X length, Line: 5369
+Y height, Line: 5371
+Load picture, Line: 5373
+..., Line: 5374
+Stone part operations, Line: 5379
+MS Shell Dlg, Line: 5380
+OK, Line: 5382
+Cancel, Line: 5383
+, Line: 5384
+SysListView32, Line: 5384
+Settings, Line: 5389
+MS Shell Dlg, Line: 5390
+Record, Line: 5392
+Active, Line: 5393
+Button, Line: 5393
+Try match threshold area  enclosing box area ratio, Line: 5395
+Match accept threshold area enclosing box area ratio, Line: 5397
+Try edge threshold edge length perimeter ratio, Line: 5398
+Try edge threshold no rotation angle between edges, Line: 5400
+Concave convex threshold area convex hull area  ratio, Line: 5402
+Try edges threshold edge lengths ratio, Line: 5404
+Draw curves, Line: 5406
+Button, Line: 5406
+Allow 180 degrees rotation for no rotation, Line: 5407
+Button, Line: 5408
+Number parameter, Line: 5413
+MS Shell Dlg, Line: 5414
+OK, Line: 5416
+Cancel, Line: 5417
+Enum parameter, Line: 5423
+MS Shell Dlg, Line: 5424
+OK, Line: 5426
+Cancel, Line: 5427
+Shape offset dialog, Line: 5433
+MS Shell Dlg, Line: 5434
+OK, Line: 5436
+Cancel, Line: 5437
+Offset type, Line: 5439
+Offset value, Line: 5441
+Supports and vacuums, Line: 5446
+MS Shell Dlg, Line: 5447
+OK, Line: 5449
+Cancel, Line: 5450
+, Line: 5451
+SysListView32, Line: 5451
+Select part contour, Line: 5452
+Static, Line: 5453
+Support or vacuum, Line: 5458
+MS Shell Dlg, Line: 5459
+OK, Line: 5461
+Cancel, Line: 5462
+Name, Line: 5464
+Diameter, Line: 5466
+Shapes 2D, Line: 5471
+MS Shell Dlg, Line: 5472
+, Line: 5474
+SysListView32, Line: 5474
+Add, Line: 5475
+Hollow, Line: 5476
+Button, Line: 5476
+, Line: 5477
+Static, Line: 5477
+, Line: 5478
+SysListView32, Line: 5478
+Shape Automation, Line: 5479
+Number, Line: 5484
+MS Shell Dlg, Line: 5485
+OK, Line: 5487
+Cancel, Line: 5488
+Static, Line: 5489
+x -1, Line: 5491
+Shape Automation Parameters, Line: 5496
+MS Shell Dlg, Line: 5497
+OK, Line: 5499
+Cancel, Line: 5500
+Form Solid2d, Line: 5501
+Button, Line: 5501
+Form Solid2_5, Line: 5502
+Button, Line: 5502
+Machine shape, Line: 5503
+Button, Line: 5503
+Form stone part, Line: 5505
+Button, Line: 5505
+Configuration, Line: 5510
+MS Shell Dlg, Line: 5511
+OK, Line: 5513
+Cancel, Line: 5514
+Load, Line: 5516
+Save current configuration, Line: 5517
+Pack, Line: 5519
+Unpack, Line: 5520
+, Line: 5521
+SysTreeView32, Line: 5521
+Post process simulation, Line: 5526
+MS Shell Dlg, Line: 5527
+Pages, Line: 5530
+, Line: 5531
+SysListView32, Line: 5531
+G code output, Line: 5532
+Play, Line: 5533
+Pause, Line: 5534
+Bottom, Line: 5535
+Top, Line: 5536
+, Line: 5537
+SysListView32, Line: 5537
+Position solid2d on solid2d, Line: 5542
+MS Shell Dlg, Line: 5543
+OK, Line: 5545
+Cancel, Line: 5546
+Transformation, Line: 5548
+Host, Line: 5549
+Visitor, Line: 5550
+All edges, Line: 5551
+Apply angle, Line: 5556
+Extra angle, Line: 5557
+Distance, Line: 5558
+Apply distance, Line: 5560
+Edit reorder operations, Line: 5565
+MS Shell Dlg, Line: 5566
+, Line: 5568
+SysListView32, Line: 5568
+Move up, Line: 5569
+Move down, Line: 5570
+Operation parameters, Line: 5571
+Send to machine, Line: 5572
+Delete operation, Line: 5573
+Optimisation parameters, Line: 5575
+Sort, Line: 5576
+Send to output folder, Line: 5577
+Transformation groups, Line: 5582
+MS Shell Dlg, Line: 5583
+, Line: 5585
+SysListView32, Line: 5585
+Load checked, Line: 5586
+All post process simulations, Line: 5591
+MS Shell Dlg, Line: 5592
+Hide, Line: 5595
+Show, Line: 5596
+Settings root directory, Line: 5601
+MS Shell Dlg, Line: 5602
+..., Line: 5605
+Settings root directory, Line: 5606
+Delete, Line: 5607
+Function, Line: 5612
+MS Shell Dlg, Line: 5613
+OK, Line: 5615
+, Line: 5616
+SysListView32, Line: 5616
+Do match, Line: 5617
+Control panel, Line: 5622
+MS Shell Dlg, Line: 5623
+Close, Line: 5625
+Add command line to list, Line: 5627
+>, Line: 5628
+, Line: 5629
+SysListView32, Line: 5629
+?, Line: 5630
+Delete checked, Line: 5631
+, Line: 5632
+SysListView32, Line: 5632
+, Line: 5633
+SysListView32, Line: 5633
+List top, Line: 5634
+List bottom, Line: 5635
+|>, Line: 5636
+||, Line: 5637
+Write, Line: 5639
+Read, Line: 5640
+, Line: 5641
+SysListView32, Line: 5641
+<|, Line: 5643
+Select CS, Line: 5648
+MS Shell Dlg, Line: 5649
+OK, Line: 5651
+Cancel, Line: 5652
+Select CS for..., Line: 5653
+Selection filtering, Line: 5659
+MS Shell Dlg, Line: 5660
+Apply, Line: 5662
+Clear, Line: 5663
+, Line: 5664
+SysListView32, Line: 5664
+Filter by, Line: 5666
+Static, Line: 5667
+Machine tolerances and probabalities, Line: 5672
+MS Shell Dlg, Line: 5673
+Axis, Line: 5676
+Deviation min value, Line: 5677
+Active deviation value, Line: 5679
+Deviation max value, Line: 5681
+Deviation Type, Line: 5684
+, Line: 5685
+msctls_trackbar32, Line: 5685
+Reset all deviation to zero, Line: 5686
+Show all, Line: 5687
+Calculate functional point probability space, Line: 5688
+Axis direction vector, Line: 5689
+Axis orthogonal vector N1, Line: 5690
+Axis orthogonal vector N2, Line: 5691
+Statik, Line: 5695
+Tool wear, Line: 5700
+MS Shell Dlg, Line: 5701
+OK, Line: 5703
+Cancel, Line: 5704
+Maximum tool diameter, Line: 5705
+Tool wear model, Line: 5708
+Minimum tool diameter, Line: 5709
+Tool diameter step for multiple operations calculation, Line: 5711
+Manage templates, Line: 5717
+MS Shell Dlg, Line: 5718
+, Line: 5720
+SysListView32, Line: 5720
+Delete checked, Line: 5721
+Import, Line: 5722
+Export, Line: 5723
+Rename selected, Line: 5724
+Spiral Dialog, Line: 5729
+MS Shell Dlg, Line: 5730
+Make, Line: 5732
+Close, Line: 5733
+Start radius, Line: 5734
+End radius, Line: 5735
+Delta radius per round, Line: 5736
+End angle extension in degrees, Line: 5737
+Counter clockwise rotation CCW, Line: 5742
+Button, Line: 5743
+Make full circle at start, Line: 5744
+Button, Line: 5745
+Make full circle at end, Line: 5746
+Button, Line: 5747
+Digitise angle step in degrees, Line: 5748
+Tool holder, Line: 5754
+MS Shell Dlg, Line: 5755
+Tamam, Line: 5757
+Ýptal, Line: 5758
+Make new tool holder, Line: 5759
+Name, Line: 5761
+Triangle geometries, Line: 5763
+Geometries, Line: 5765
+ConnectedHolders. If more than one use ; seperator. Tool is closer to this holder. Vice-versa connected holders are closer to base., Line: 5767
+..., Line: 5769
+..., Line: 5770
+..., Line: 5771
+..., Line: 5772
+..., Line: 5774
+Origin offset, Line: 5775
+Delete selected holder, Line: 5776
+wireAdd.ico, Line: 7534
+res\\icon2.ico, Line: 7536
+res\\icon3.ico, Line: 7538
+res\\ico00001.ico, Line: 7540
+wireNext.ico, Line: 7542
+wireBack.ico, Line: 7544
+icon1.ico, Line: 7546
+res\\icon1.ico, Line: 7548
+res\\ico00002.ico, Line: 7550
+res\\ico00003.ico, Line: 7552
+RecyleBin, Line: 7562
+Undelete, Line: 7564
+Wire, Line: 7570
+Single Contour Cutting..., Line: 7572
+Multi Contour Cutting..., Line: 7573
+4 Axis Cutting..., Line: 7574
+Post Processor Settings..., Line: 7575
+Technologic Parameters DB..., Line: 7576
+Surface Wire Cutting..., Line: 7577
+Surface Wire Cutting 2..., Line: 7578
+Conic + vertical cut..., Line: 7579
+WirePathsHeader, Line: 7585
+Insert..., Line: 7587
+Post..., Line: 7588
+Operation, Line: 7594
+Edit..., Line: 7596
+Simulate..., Line: 7597
+X Delete, Line: 7598
+Tools Menu, Line: 7604
+Insert Tool..., Line: 7606
+Save tools to file..., Line: 7607
+Tool context, Line: 7613
+Edit..., Line: 7615
+Delete, Line: 7616
+Postbox, Line: 7622
+Post..., Line: 7624
+Time estimation..., Line: 7625
+Group by, Line: 7626
+1, Line: 7628
+2, Line: 7629
+3, Line: 7630
+4, Line: 7631
+5, Line: 7632
+6, Line: 7633
+7, Line: 7634
+8, Line: 7635
+9, Line: 7636
+10, Line: 7637
+Sort, Line: 7639
+Alphabethical, Line: 7641
+Numerical, Line: 7642
+WCS coordinates, Line: 7643
+Nearest position, Line: 7644
+Sort recursive, Line: 7646
+Alphabethical, Line: 7648
+Numerical, Line: 7649
+WCS coordinates, Line: 7650
+Nearest position, Line: 7651
+Sort settings..., Line: 7653
+Change post settings..., Line: 7654
+Clear postbox, Line: 7655
+Operation, Line: 7661
+Show toolpath, Line: 7663
+Hide toolpath, Line: 7664
+Change geometry, Line: 7665
+See parameters..., Line: 7666
+Post..., Line: 7667
+Send to postbox, Line: 7668
+Simple animation..., Line: 7669
+MachSim, Line: 7670
+Time Estimation..., Line: 7671
+Delete, Line: 7672
+To Iges..., Line: 7673
+Arc Fit..., Line: 7674
+Add to templates, Line: 7675
+Copy Transform..., Line: 7676
+Check All, Line: 7677
+Uncheck All, Line: 7678
+Send checked to post, Line: 7679
+Check selected, Line: 7680
+Taper interactor, Line: 7681
+Show checked, Line: 7683
+Hide all, Line: 7684
+MachSurfHeader, Line: 7691
+Insert..., Line: 7693
+MachSurf commands, Line: 7699
+Delete , Line: 7701
+Show, Line: 7702
+Hide, Line: 7703
+MachCurvHeader, Line: 7709
+Insert..., Line: 7711
+MachCurv Menu, Line: 7717
+Delete, Line: 7719
+Show, Line: 7720
+Hide, Line: 7721
+LeadsHeaderContext, Line: 7727
+Insert Lead..., Line: 7729
+Save Leads to file..., Line: 7730
+Leads Context , Line: 7736
+Edit, Line: 7738
+Delete, Line: 7739
+GaugeChecksHeader, Line: 7745
+Insert, Line: 7747
+Milling, Line: 7753
+Tools..., Line: 7755
+Tables..., Line: 7756
+Select machining surfaces..., Line: 7757
+Select machining curves..., Line: 7758
+Make lead-links..., Line: 7759
+Make machining operation..., Line: 7760
+Contour 2D..., Line: 7761
+Compact Cutting..., Line: 7762
+Compact true shape cutting..., Line: 7763
+Drilling Page..., Line: 7764
+Blade Cutting, Line: 7765
+Multi Axis Edge Cutting..., Line: 7766
+NC Toolpaths..., Line: 7767
+Torna Stok Hesaplama..., Line: 7768
+Automated contour cutting..., Line: 7769
+Mill Turn Operation..., Line: 7770
+Settings..., Line: 7771
+&Help, Line: 7777
+Help..., Line: 7779
+Tutorials..., Line: 7780
+&About..., Line: 7781
+Wire, Line: 7787
+Single Contour Cutting..., Line: 7789
+Multi Contour Cutting..., Line: 7790
+4 Axis Cutting..., Line: 7791
+Post Processor Settings..., Line: 7792
+Technologic Parameters DB..., Line: 7793
+Surface Wire Cutting..., Line: 7794
+Surface Wire Cutting 2..., Line: 7795
+Conic + vertical cut..., Line: 7796
+MicroPattern, Line: 7802
+Make torch path..., Line: 7804
+Snapshot..., Line: 7805
+MicroPattern, Line: 7811
+5 axis laser texturing..., Line: 7813
+Selection, Line: 7819
+Clear all, Line: 7821
+Check all, Line: 7822
+Kinematic tree header, Line: 7828
+Import kinematic set..., Line: 7830
+Add new kinematic set..., Line: 7831
+Kinematic set, Line: 7837
+Add new part, Line: 7839
+Edit set..., Line: 7840
+Simulate operation..., Line: 7841
+Export set..., Line: 7842
+Add line..., Line: 7843
+Delete set  X, Line: 7844
+Kinematic part, Line: 7850
+Add part under..., Line: 7852
+Change parent..., Line: 7853
+Hide, Line: 7854
+Show, Line: 7855
+Edit part..., Line: 7856
+Set axis ofset zero, Line: 7857
+Delete part  X, Line: 7858
+CopyAnyPart, Line: 7864
+Set priority..., Line: 7866
+Manuel Nest..., Line: 7867
+Delete  X, Line: 7868
+CopyAnyStock, Line: 7874
+Post, Line: 7876
+Set priority..., Line: 7877
+Make default, Line: 7878
+Delete   X, Line: 7879
+ThreadExplorerMenu, Line: 7885
+Suspend, Line: 7887
+Resume, Line: 7888
+Hide GUI, Line: 7889
+GroupAndSort, Line: 7895
+Group by, Line: 7897
+1, Line: 7899
+2, Line: 7900
+3, Line: 7901
+Sort by, Line: 7903
+1, Line: 7905
+2, Line: 7906
+3, Line: 7907
+Delete           X, Line: 7909
+, Line: 7915
+Hide, Line: 7917
+Group, Line: 7918
+Insert tree link..., Line: 7920
+Auto loop..., Line: 7921
+Search overlaps..., Line: 7922
+Transform, Line: 7924
+Move, Line: 7926
+Rotate, Line: 7927
+Scale, Line: 7928
+Mirror, Line: 7929
+Dynamic, Line: 7930
+Move on work, Line: 7931
+Curve, Line: 7933
+Offset, Line: 7935
+Split curves, Line: 7936
+Fillet, Line: 7937
+Project, Line: 7938
+Min distance line, Line: 7939
+Join curves, Line: 7940
+Extrude, Line: 7941
+Revolve, Line: 7942
+Make Solid 2.5D, Line: 7943
+Make convex hull..., Line: 7944
+Make hull..., Line: 7945
+Edit control points, Line: 7946
+Break planar curves by slope, Line: 7947
+From surface silhouette, Line: 7948
+Surface, Line: 7950
+Extract surface edges, Line: 7952
+Fill gaps, Line: 7953
+Offset surface, Line: 7954
+Make normal lines..., Line: 7955
+Edit control points, Line: 7956
+Delta move control points by surface, Line: 7957
+Extend control points of surface..., Line: 7958
+Path2D, Line: 7960
+Make from curves, Line: 7962
+Explode to curves, Line: 7963
+Position on solid 2D, Line: 7964
+Solid2D, Line: 7966
+Parametric shapes, Line: 7968
+Make from curves, Line: 7969
+Boolean unite, Line: 7970
+Boolean subtract, Line: 7971
+Boolean intersect, Line: 7972
+Hatch, Line: 7973
+Offset, Line: 7974
+Explode to curves, Line: 7975
+Hollow, Line: 7976
+Add path, Line: 7977
+Position on solid 2D, Line: 7978
+Fillet, Line: 7979
+Chamfer, Line: 7980
+Reorder loop, Line: 7981
+Contour 2D, Line: 7983
+Machine selected curves by active template, Line: 7985
+Wire, Line: 7987
+Single contour cutting..., Line: 7989
+Multi contour cutting..., Line: 7990
+Compact cutting..., Line: 7992
+Compact true shape cutting, Line: 7993
+Select part outline..., Line: 7995
+Select part inner holes..., Line: 7996
+Select bend lines..., Line: 7997
+Add rectangle stock..., Line: 7998
+Add free shape stock..., Line: 7999
+Manuel nesting..., Line: 8000
+Show dialog..., Line: 8001
+Visual properties..., Line: 8003
+Edit text, Line: 8004
+MwTemplates, Line: 8010
+Load, Line: 8012
+Rename, Line: 8013
+Delete, Line: 8014
+MwTemplateHeader, Line: 8020
+Import, Line: 8022
+Export, Line: 8023
+VSPGen, Line: 8029
+Edit synchronization..., Line: 8031
+TextureMap Header, Line: 8037
+Show, Line: 8039
+Hide, Line: 8040
+Segmentation..., Line: 8041
+Attach geometry to textures..., Line: 8042
+Coordinate Systems, Line: 8048
+Show, Line: 8050
+Hide, Line: 8051
+Set as active system, Line: 8052
+Attach geometries..., Line: 8053
+Dynamic Transform, Line: 8054
+Reorient to active system, Line: 8055
+Delete, Line: 8056
+Languanges, Line: 8062
+TR, Line: 8064
+ENG, Line: 8065
+Write2SRC, Line: 8066
+Stone nesting, Line: 8072
+Freeze transformation, Line: 8074
+Let transformation, Line: 8075
+Lock button, Line: 8076
+Unlock button, Line: 8077
+Reset button position, Line: 8078
+Edit reorder operations, Line: 8079
+Move to..., Line: 8080
+Rotate..., Line: 8081
+Copy clone, Line: 8082
+Delete, Line: 8083
+This part, Line: 8085
+Selected parts, Line: 8086
+Undelete all, Line: 8087
+Show, Line: 8089
+Information, Line: 8091
+Tool section lines, Line: 8092
+Hatch, Line: 8093
+Operations, Line: 8094
+Hide, Line: 8096
+Information, Line: 8098
+Tool section lines, Line: 8099
+Hatch, Line: 8100
+Operations, Line: 8101
+Stone nesting stock, Line: 8108
+Select this, Line: 8110
+Show information, Line: 8111
+Hide information, Line: 8112
+Delete, Line: 8113
+Delete selected stock, Line: 8115
+Undelete all parts, Line: 8116
+Undelete all stock, Line: 8117
+Optimize and send to machine, Line: 8119
+Blade cut context menu, Line: 8125
+Add to templates, Line: 8127
+Delete template if, Line: 8128
+Rename, Line: 8129
+ValueCollector, Line: 8135
+Edit value, Line: 8137
+Supports and vacuums, Line: 8143
+Add..., Line: 8145
+Delete, Line: 8146
+Stone part solid reference point, Line: 8152
+Add milling operation, Line: 8154
+Add sew blade operation, Line: 8155
+Add 5 axis operation, Line: 8156
+Edit reorder operations, Line: 8157
+Set priority grade, Line: 8158
+Show operations, Line: 8159
+Hide operations, Line: 8160
+Reset loop start position, Line: 8161
+Clear operations, Line: 8162
+Solid2dGraphic, Line: 8168
+Edit parameters..., Line: 8170
+Solid2dTransform, Line: 8176
+Retransform, Line: 8178
+Shapes2d, Line: 8184
+Export, Line: 8186
+Import, Line: 8187
+Tree VConfig, Line: 8193
+Load, Line: 8195
+Save, Line: 8196
+Pack, Line: 8197
+Unpack, Line: 8198
+VTransformationGroup, Line: 8204
+Show, Line: 8206
+Hide, Line: 8207
+Write to disk, Line: 8208
+Control panel, Line: 8209
+Transform all, Line: 8210
+Add part by link name, Line: 8211
+Add tool by name, Line: 8212
+Direct transformation, Line: 8213
+Inverse transformation, Line: 8214
+Show WCS, Line: 8215
+Tolerances and probabilities, Line: 8216
+res\\html_ata.htm, Line: 8444
+StlModel, Line: 8454
+CoordinateSystem, Line: 8455
+Point, Line: 8456
+Curve, Line: 8457
+Surface, Line: 8458
+Folder, Line: 8459
+InfoTexts, Line: 8460
+RecycleBin, Line: 8461
+RecycledItem, Line: 8462
+Transformation, Line: 8463
+Point, Line: 8464
+Vector, Line: 8465
+Box, Line: 8466
+Dimension, Line: 8467
+View, Line: 8468
+Table, Line: 8473
+Text, Line: 8474
+TriangleModel, Line: 8475
+Label, Line: 8476
+VisualModel, Line: 8477
+BoundaryCurve, Line: 8478
+Number of surfaces: , Line: 8479
+File unit is NOT METRIC. You may need to scale !, Line: 8480
+ surfaces successfully imported., Line: 8481
+Number of curves: , Line: 8482
+curves succesfully imported., Line: 8483
+Number of points: , Line: 8484
+points successfully imported., Line: 8485
+Ready to serve you..., Line: 8486
+--> Saving to file..., Line: 8487
+Directory creation failed!, Line: 8488
+Save directory can not be removed!, Line: 8493
+Save not completed!, Line: 8494
+--> Opening file..., Line: 8495
+Fileintro.txt could not be opened!, Line: 8496
+Delete file failed!, Line: 8497
+Remove directory failed!, Line: 8498
+Open done..., Line: 8499
+Open file not completed!, Line: 8500
+Failed to add file to zip archive, Line: 8501
+ added to archive, Line: 8502
+Delete file failed, Line: 8503
+Extracting files from zip archive..., Line: 8504
+Extract done., Line: 8505
+ saving, Line: 8506
+ objects, Line: 8507
+ file can not be opened!, Line: 8508
+ saved..., Line: 8513
+Unknown exception while saving file!, Line: 8514
+ reading , Line: 8515
+File can not be opened for reading, Line: 8516
+Imported..., Line: 8517
+Save done..., Line: 8518
+Untrimmed surfaces are read..., Line: 8519
+Trimmed surfaces are read..., Line: 8520
+Bounded surfaces are read..., Line: 8521
+Curves are read..., Line: 8522
+IGES FILE EXPORT --->, Line: 8523
+SELECT SURFACES , CURVES , POINTS , TABLES TO EXPORT..., Line: 8524
+DEFINE A VECTOR BY 2 POINTS -->, Line: 8525
+SELECT START POINT OF VECTOR..., Line: 8526
+SELECT END POINT OF VECTOR..., Line: 8527
+MAKE A LINK NODE IN TREE VIEW -->, Line: 8528
+SELECT MODELS THAT LINK WILL POINT TO..., Line: 8533
+CHANGE VIEW DIRECTION -->, Line: 8534
+SELECT A VECTOR TO DEFINE NEW VIEW DIRECTION..., Line: 8535
+CLIP VIEW WITH PLANE -->, Line: 8536
+DEFINE CLIP PLANE'S NORMAL VECTOR..., Line: 8537
+DIMENSION DISTANCE -->, Line: 8538
+SELECT FIRST POINT FOR DISTANCE DIMENSIONING..., Line: 8539
+SELECT SECOND POINT FOR DISTANCE DIMENSIONING..., Line: 8540
+Coordinate system origin and X direction point can not be coincident !, Line: 8541
+X direction point can not be on Z axis line!, Line: 8542
+MAKE A COORDINATE SYSTEM -->, Line: 8543
+SELECT COORDINATE SYSTEM ORIGIN POINT..., Line: 8544
+DEFINE A VECTOR FOR Z AXIS OF COORDINATE SYSTEM..., Line: 8545
+SELECT A POINT ON POSITIVE X AXIS LINE..., Line: 8546
+DYNAMIC TRANSFORMATION -->, Line: 8547
+SELECT MODELS TO TRANSFORM DYNAMICALLY..., Line: 8548
+CHANGE VISUAL ATTRIBUTES -->, Line: 8553
+SELECT MODELS TO CHANGE VISUAL ATTRIBUTES..., Line: 8554
+EXPORT STL FILE -->, Line: 8555
+SELECT SURFACE MODELS TO EXPORT TO STL FILE..., Line: 8556
+HIDE MODELS -->, Line: 8557
+SELECT MODELS TO HIDE..., Line: 8558
+POINT:, Line: 8559
+POINT 1:, Line: 8560
+POINT 2:, Line: 8561
+DELTA:, Line: 8562
+ANGLE IN DEGREES: , Line: 8563
+VOLUME TO DEFINED PLANE :, Line: 8564
+AREA:, Line: 8565
+AREA XY:, Line: 8566
+AREA XZ:, Line: 8567
+AREA YZ:, Line: 8568
+MAKE LABEL -->, Line: 8573
+SELECT START POINT OF LABEL..., Line: 8574
+only principal planes are supported for mirror, Line: 8575
+MIRROR MODELS -->, Line: 8576
+Move, Line: 8577
+Rotate, Line: 8578
+Mirror, Line: 8579
+Scale, Line: 8580
+Stepover=, Line: 8581
+Stepdown=, Line: 8582
+Tolerance=, Line: 8583
+Thickness=, Line: 8584
+Angle to X axis=, Line: 8585
+Max z=, Line: 8586
+Min z=, Line: 8587
+SELECT MODELS TO MIRROR..., Line: 8592
+SELECT MIRROR PLANE BASE POINT..., Line: 8593
+MODIFY COORDINATE SYSTEM -->, Line: 8594
+SELECT A COORDINATE SYSTEM..., Line: 8595
+MOVE MODEL -->, Line: 8600
+SELECT MODELS TO MOVE..., Line: 8601
+SELECT TRANSLATION LINE FIRST POINT..., Line: 8602
+SELECT TRANSLATION LINE SECOND POINT..., Line: 8603
+REORIENT MODELS -->, Line: 8604
+SELECT MODELS TO REORIENT..., Line: 8605
+SELECT START COORDINATE SYSTEM..., Line: 8606
+SELECT DESTINATION COORDINATE SYSTEM..., Line: 8607
+SELECTION ABORTED BY USER!, Line: 8608
+Unknown exception occured!, Line: 8609
+Operation could not be completed!, Line: 8610
+Command completed succesfully., Line: 8611
+ROTATE MODEL -->, Line: 8612
+SELECT MODELS TO ROTATE ..., Line: 8613
+SELECT ROTATION CENTER ..., Line: 8614
+SELECT ROTATION AXIS ..., Line: 8615
+SCALE MODELS-->, Line: 8620
+SELECT MODELS TO SCALE..., Line: 8621
+SET ROTATION CENTER POINT-->, Line: 8622
+SELECT ROTATION CENTER POINT..., Line: 8623
+UNHIDE MODELS..., Line: 8624
+SELECT MODELS TO UNHIDE..., Line: 8625
+Triangulation tolerance should be greater than 0.00005!, Line: 8626
+Vector's magnitude is 0!, Line: 8627
+ERROR:  Could not load dll  , Line: 8628
+You can not delete this view!, Line: 8629
+Please start a new project by File-->New command , then retry to open., Line: 8630
+Fail to load toolbar!, Line: 8631
+Fail to load menu!, Line: 8632
+You should select at least one model, Line: 8633
+SolidCNC, Line: 8638
+SolidCNC Doc, Line: 8639
+ON, Line: 8640
+Record bin file:, Line: 8641
+OFF, Line: 8642
+ON, Line: 8643
+Part min-max z:, Line: 8644
+user defined, Line: 8645
+automatic, Line: 8646
+Rotation direction:, Line: 8647
+CW, Line: 8648
+CCW, Line: 8649
+Cutting direction:, Line: 8650
+Climb, Line: 8651
+Conventional, Line: 8652
+Trim to flute length:, Line: 8653
+Init dll failed!, Line: 8658
+License error !, Line: 8659
+LEVELS, Line: 8660
+RECYLE BIN, Line: 8661
+SELECT A POINT TO SCALE AROUND..., Line: 8662
+DELETE MODELS-->, Line: 8663
+SELECT MODELS TO DELETE..., Line: 8664
+GEO, Line: 8665
+Select points on spline, Line: 8670
+Select curve start point, Line: 8671
+Select curve end point, Line: 8672
+Select source curves to make points, Line: 8673
+Make box, Line: 8674
+Select box lower left point, Line: 8675
+Make circle, Line: 8676
+Pick center point, Line: 8677
+Pick point on circle, Line: 8678
+Define radius, Line: 8679
+Define axis vector, Line: 8680
+Center of circle point is not on circle plane, Line: 8681
+Make line by picking start and end points, Line: 8686
+Pick line start point, Line: 8687
+Pick line end point, Line: 8688
+Make lines by picking points sequentially, Line: 8689
+Pick points sequentially, Line: 8690
+Make line by start point , length and direction vector definitions, Line: 8692
+Select line direction vector, Line: 8693
+Make line by  start point , angle and length definitions, Line: 8695
+Pick start point of line, Line: 8696
+Make points from surface, Line: 8697
+Select source surfaces to make points, Line: 8698
+Trim surface, Line: 8699
+Select surface and trimming curves, Line: 8700
+Extrude curves to make surface, Line: 8701
+Select curves to extrude, Line: 8706
+Select direction vector for extrusion, Line: 8707
+Extrude length, Line: 8708
+Make ruled surface, Line: 8709
+Select first curve set, Line: 8710
+Select second curve set, Line: 8711
+Revolve curves to make surface, Line: 8712
+Select curves, Line: 8713
+Select rotation center, Line: 8714
+Select rotation axis vector, Line: 8715
+The document changed!  Would you like to save before closing ? , Line: 8716
+Make lines, Line: 8721
+Make circles/arcs, Line: 8722
+Make spline curve, Line: 8723
+Make fillet, Line: 8724
+Make minimum distance line or point between models, Line: 8725
+Make surfaces to fill holes, Line: 8726
+Project curves, Line: 8727
+Split curves, Line: 8728
+Make offset curves, Line: 8729
+Extend curves, Line: 8734
+Single contour wire cut, Line: 8739
+Multi contour wire cut, Line: 8740
+4 axis wire cut, Line: 8741
+Surface wire cutting, Line: 8742
+Conic+vertical cut, Line: 8743
+Machining interval angle1=, Line: 8748
+Machining interval angle2=, Line: 8749
+Minimum width=, Line: 8750
+Center X=, Line: 8751
+Center Y=, Line: 8752
+Center Z=, Line: 8753
+Radius start=, Line: 8754
+Radius end=, Line: 8755
+Projection interval angle1=, Line: 8756
+Projection interval angle2=, Line: 8757
+Offset count=, Line: 8758
+Start corner:, Line: 8759
+Lower left, Line: 8760
+Lower right, Line: 8761
+Upper right, Line: 8762
+Upper left, Line: 8763
+Machine between slope angles:, Line: 8768
+OFF, Line: 8769
+ON, Line: 8774
+OFF, Line: 8775
+Adaptive scan:, Line: 8776
+ON, Line: 8777
+OFF, Line: 8778
+Center point:, Line: 8779
+POINT, Line: 8780
+BOUNDARY CURVES:, Line: 8781
+BOUNDARY, Line: 8782
+MACHINING SURFACES:, Line: 8783
+Previous Tool Diameter=, Line: 8784
+Ramp angle=, Line: 8785
+Ramp length=, Line: 8786
+Ramp helical diameter=, Line: 8787
+Draft angle=, Line: 8788
+Ramp Type:, Line: 8789
+Auto, Line: 8794
+Helical, Line: 8795
+Zigzag, Line: 8796
+Line, Line: 8797
+Profile, Line: 8798
+Smooth corners:, Line: 8799
+ON, Line: 8800
+OFF, Line: 8801
+Smooth Links:, Line: 8802
+ON, Line: 8803
+OFF, Line: 8804
+Remove corner pegs:, Line: 8805
+ON, Line: 8806
+OFF, Line: 8807
+Rest Machining:, Line: 8808
+OFF, Line: 8809
+ON, Line: 8814
+Offset direction:, Line: 8815
+LEFT, Line: 8816
+RIGHT, Line: 8817
+BOTH DIRECTIONS, Line: 8818
+Cut:, Line: 8819
+One direction, Line: 8820
+Zigzag, Line: 8821
+Direction for one way machining:, Line: 8822
+Climb, Line: 8823
+Conventional, Line: 8824
+Machine by:, Line: 8825
+Levels, Line: 8826
+Regions, Line: 8827
+Start:, Line: 8828
+Top, Line: 8829
+Bottom, Line: 8834
+Check collision between points:, Line: 8835
+ON, Line: 8836
+OFF, Line: 8837
+Extend tool to infinity:, Line: 8838
+ON , Line: 8839
+OFF, Line: 8840
+Check collision for link moves:, Line: 8841
+ON, Line: 8842
+OFF, Line: 8843
+Report remaining collisions:, Line: 8844
+ON, Line: 8845
+OFF, Line: 8846
+Drop Tool whenever needed:, Line: 8847
+ON, Line: 8848
+OFF, Line: 8849
+Remove gauging points, Line: 8854
+Move along tool axis, Line: 8855
+Move along contact line, Line: 8856
+Move along Z, Line: 8857
+Move along -Z, Line: 8858
+Move along X, Line: 8859
+Move along -X, Line: 8860
+Move along Y, Line: 8861
+Move along -Y, Line: 8862
+Move in XY plane, Line: 8863
+Move in XZ plane, Line: 8864
+Move in YZ plane, Line: 8865
+Move opt. in XY plane, Line: 8866
+Move opt. in XZ plane, Line: 8867
+Move opt. in YZ plane, Line: 8868
+Move along surface normal, Line: 8869
+Report remaining collisions, Line: 8874
+Check cutter part of tool:, Line: 8875
+Check tool extension:, Line: 8876
+ON, Line: 8877
+OFF, Line: 8878
+ON, Line: 8879
+OFF, Line: 8880
+Cutter clearence=, Line: 8881
+Tool extension clearence=, Line: 8882
+Check machining surfaces:, Line: 8883
+ON, Line: 8884
+OFF, Line: 8885
+Thickness for check surfaces=, Line: 8886
+PARALLEL CUTS ALONG X AXIS, Line: 8887
+PARALLEL CUTS ALONG Y AXIS, Line: 8888
+PARALLEL CUTS WITH ANGLE TO X AXIS, Line: 8889
+Z CONSTANT MACHINING, Line: 8894
+FLAT LANDS MACHINING, Line: 8895
+SPIRAL PROJECTION, Line: 8896
+RADIAL PROJECTION, Line: 8897
+CONST CUSP MACHINING, Line: 8898
+GEODESIC, Line: 8899
+CORNER MACHINING, Line: 8900
+CURVE PROJECTION, Line: 8901
+CYLINDIRIC PROJECTION, Line: 8902
+ROUGH MACHINING, Line: 8903
+Check link moves to containment:, Line: 8904
+ON, Line: 8905
+OFF, Line: 8906
+Direct, Line: 8907
+Spline, Line: 8908
+Fallow surface, Line: 8909
+Rise to feed height, Line: 8914
+Rise to rapid height, Line: 8915
+Rise to safe plane, Line: 8916
+Start from safe plane, Line: 8917
+Start from rapid move height, Line: 8918
+Start from feed height, Line: 8919
+Rise to safe plane at the end, Line: 8920
+Rise to rapid height at the end, Line: 8921
+Rise to feed height at the end, Line: 8922
+Tang.Arc, Line: 8923
+ReverseTang.Arc, Line: 8924
+VerticalTang.Arc, Line: 8925
+HorizantalTang.Arc, Line: 8926
+Ortho.Arc, Line: 8927
+Tang.Line, Line: 8928
+Ortho.Line, Line: 8929
+ReverseTang.Line, Line: 8934
+ReverseVerticalProfileRamp, Line: 8935
+Direct, Line: 8936
+ABSOLUTE, Line: 8937
+%STEPOVER, Line: 8938
+%TOOLDIAM, Line: 8939
+ALL TOOL, Line: 8940
+There is no job selected. Please select a job and then continue., Line: 8941
+The file for writing could not be opened!, Line: 8942
+Unknown exception!, Line: 8943
+Unexpected exception during mwMachSimFacade::Destroy call, Line: 8944
+Before machining you should select machining geometry!, Line: 8945
+There is no machining surface!, Line: 8946
+One of the parameters is wrong,please correct it and retry!, Line: 8947
+While reading the settings an error occured and defaults are loaded!, Line: 8948
+An error occured while writing project settings!, Line: 8949
+Please choose a tool!, Line: 8954
+You can select a single item, please reselect!, Line: 8955
+After selection press OK!, Line: 8956
+This cycle is not implemented yet!, Line: 8957
+Please select machining surface!, Line: 8958
+You can use maximum 4 collision checks, Line: 8959
+Invalid tool profile!, Line: 8960
+You need to select a toolpath for animation, Line: 8961
+You need to select a toolpath for posting., Line: 8962
+File could not be opened!, Line: 8963
+Tool, Line: 8964
+Surface area point cloud, Line: 8965
+3ax form milling analysis, Line: 8966
+Toolpath, Line: 8967
+Machining surfaces, Line: 8968
+Machining curves, Line: 8969
+Lead in-out, Line: 8974
+Machining session, Line: 8975
+Lead-Link set, Line: 8976
+Collision Control, Line: 8977
+DEFINE MACHINING CURVES-->, Line: 8978
+SELECT CURVES FOR MACHINING..., Line: 8979
+CALCULATING MACHINING OPERATION -->, Line: 8980
+   Calculating..., Line: 8981
+Calculation cancelled by user!, Line: 8982
+Calculation successfully done in , Line: 8983
+MW Error message: , Line: 8984
+Error: Unknown exception!, Line: 8985
+Select a start point for sorting the curves..., Line: 8986
+DEFINE MACHINING SURFACES -->, Line: 8987
+SELECT MACHINING SURFACES..., Line: 8988
+Rotate around X axis:, Line: 8989
+Start machining project\nStart machining project, Line: 8994
+NCPOSTBOX, Line: 8999
+Angle of rotation around X=, Line: 9000
+Post box is empty ! Add an operation and then post., Line: 9001
+OPERATIONS, Line: 9002
+Roughing Block Enlarge=, Line: 9003
+ROUGHING STOCK MODEL, Line: 9004
+This entity is used by other entities.You can not delete it!, Line: 9005
+COLLISION CONTROL, Line: 9006
+TOOLS, Line: 9007
+- PLEASE SELECT A TOOL -, Line: 9008
+CylinderAxStartX=, Line: 9009
+CylinderAxStartY=, Line: 9010
+CylinderAxStartZ=, Line: 9011
+StartHeight=, Line: 9012
+EndHeight=, Line: 9013
+StartAngle=, Line: 9014
+Tools, Line: 9019
+Make machining surfaces, Line: 9020
+Make machining curves, Line: 9021
+Make lead in out, Line: 9022
+Make operation, Line: 9023
+Contour 2D, Line: 9024
+Drilling, Line: 9025
+Compact Cutting, Line: 9026
+Post Processor Settings, Line: 9027
+Settings, Line: 9028
+EndAngle=, Line: 9033
+AngleStep=, Line: 9034
+CylinderRadius=, Line: 9035
+Cylindiric cut method:, Line: 9036
+spiral, Line: 9037
+oneway, Line: 9038
+zigzag, Line: 9039
+Cylindiric cut order:, Line: 9040
+standard, Line: 9041
+from center a way, Line: 9042
+from outside to center, Line: 9043
+MultiPasses:, Line: 9044
+ON, Line: 9045
+OFF, Line: 9046
+ProjectionStyle:, Line: 9047
+AROUND, Line: 9048
+ALONG, Line: 9053
+ProjectionDirection:, Line: 9054
+INWARDS, Line: 9055
+OUTWARDS, Line: 9056
+No of intermediate slices=, Line: 9057
+Number of rough passes=, Line: 9058
+Rough spacing=, Line: 9059
+Number of finish passes=, Line: 9060
+Finish spacing=, Line: 9061
+SortType:, Line: 9062
+BY PASSES, Line: 9063
+BY SLICES, Line: 9064
+TOOLNAME:, Line: 9065
+DIAMETER:, Line: 9066
+CORNERRADIUS:, Line: 9067
+HEIGHT:, Line: 9068
+Operations, Line: 9073
+DRILL, Line: 9074
+Pecking:, Line: 9075
+ON, Line: 9076
+OFF, Line: 9077
+Peck Depth=, Line: 9078
+NC FILE WRITTEN. , Line: 9079
+Silhoutte Containment:, Line: 9080
+None, Line: 9081
+Part silhouette, Line: 9082
+Part end height, Line: 9083
+Collision Checks, Line: 9084
+Projection Curves, Line: 9085
+Drilling Lines, Line: 9086
+Check tool tip collision:, Line: 9087
+ON, Line: 9088
+OFF, Line: 9093
+Check tool extension collision:, Line: 9094
+ON, Line: 9095
+OFF, Line: 9096
+Tool contact, Line: 9097
+Top of vertical walls, Line: 9098
+Bottom of vertical walls, Line: 9099
+OPERATIONS 2.5, Line: 9100
+Start Position:, Line: 9101
+AUTOMATIC, Line: 9102
+USER DEFINED, Line: 9103
+Start Position Definition:, Line: 9104
+BY POINT, Line: 9105
+BY SURFACE NORMAL, Line: 9106
+Start Point X=, Line: 9107
+Start Point Y=, Line: 9108
+Start Point Z=, Line: 9113
+Start Normal I=, Line: 9114
+Start Normal J=, Line: 9115
+Start Normal K=, Line: 9116
+Start Point In Subsequent Cuts:, Line: 9117
+SHIFT BY VALUE, Line: 9118
+MINIMIZE SURFACE NORMAL CHANGE, Line: 9119
+Shift Value=, Line: 9120
+Adaptive Roughing:, Line: 9121
+ON, Line: 9122
+OFF, Line: 9123
+Machine Flat Lands:, Line: 9124
+ON, Line: 9125
+OFF, Line: 9126
+CylinderAxisX=, Line: 9127
+CylinderAxisY=, Line: 9128
+CylinderAxisZ=, Line: 9133
+Force rotary calculation:, Line: 9134
+ON, Line: 9135
+OFF, Line: 9136
+Point distribution max dist flag:, Line: 9137
+ON, Line: 9138
+OFF, Line: 9139
+Point distribution min dist flag:, Line: 9140
+ON, Line: 9141
+OFF, Line: 9142
+Point distribution max dist=, Line: 9143
+Point distribution min dist=, Line: 9144
+Roughing filter (% of tool diam)=, Line: 9145
+Geodesic type:, Line: 9146
+offset, Line: 9147
+morph, Line: 9148
+Geodesic step direction:, Line: 9153
+left, Line: 9154
+right, Line: 9155
+Geodesic no of cuts=, Line: 9156
+Geodesic cut order:, Line: 9157
+From center a way, Line: 9158
+From outside to center, Line: 9159
+Constant cusp cut order:, Line: 9160
+Standard, Line: 9161
+From center a way, Line: 9162
+From outside to center, Line: 9163
+From top to bottom, Line: 9164
+From bottom to top, Line: 9165
+Rest mach. prev. tool tip rad. =, Line: 9166
+Rest mach. prev. stock to leave =, Line: 9167
+Tool containment:, Line: 9168
+Inside curve, Line: 9173
+Center curve, Line: 9174
+Outside curve, Line: 9175
+Containment curve offset=, Line: 9176
+Silhoutte containment offset=, Line: 9177
+NCToolpath, Line: 9178
+ON, Line: 9183
+Bin packing parameters, Line: 9188
+FirstBoxHrsCoef, Line: 9193
+Work space diameter, Line: 9198
+Import inserts, Line: 9199
+Metric System, Line: 9200
+Inches, Line: 9201
+Make curves from text outline, Line: 9206
+Container sheet, Line: 9211
+Overwrite big z coordinates, Line: 9212
+Hide corrupted models, Line: 9213
+Z limit, Line: 9214
+Z replacement, Line: 9215
+\nMake points, Line: 9220
+\nMake Lines, Line: 9221
+\nMake Circles, Line: 9222
+\nMake Spline, Line: 9223
+\nFillet, Line: 9224
+\nMin. distance line, Line: 9225
+\nExtrude, Line: 9226
+\nRevolve, Line: 9227
+\nFill Gaps, Line: 9228
+\nRuled surface, Line: 9229
+\nMake box, Line: 9230
+\nTrim surfaces, Line: 9231
+\nProject wireframe, Line: 9232
+\nSplit curves, Line: 9233
+\nOffset, Line: 9234
+\nExtend, Line: 9235
+\nFit view, Line: 9240
+\nFront view, Line: 9241
+\nDynamic rotate, Line: 9242
+\nZoom pan, Line: 9243
+\nZoom to box, Line: 9244
+\nPan, Line: 9245
+\nRight view, Line: 9246
+\nTop view, Line: 9251
+\nDistances1, Line: 9256
+\nCoordinate System, Line: 9257
+\nPreferences, Line: 9258
+\nIsometric view, Line: 9259
+\nHide model, Line: 9264
+\nUnhide model, Line: 9265
+\nView manager, Line: 9270
+\nTransform, Line: 9275
+\nVisual attributes, Line: 9280
+\nScreen to BMP, Line: 9285
+\nMake text, Line: 9286
+\nDistances2, Line: 9291
+\nTrue shape compact cutting, Line: 9296
+\nMulti wireEDM cutting, Line: 9297
+\n4 axis wireEDM cutting, Line: 9298
+\nSurface section, Line: 9299
+\nTools page, Line: 9304
+\nMake stock, Line: 9305
+\nStone cut milling, Line: 9306
+\nSew blade cutting, Line: 9307
+\nAdvanced milling4, Line: 9308
+\n2D contour milling, Line: 9309
+\nCompact cutting, Line: 9310
+\nDrilling page, Line: 9311
+\nPost processor settings, Line: 9312
+\nMilling settings, Line: 9313
+\nTables Page, Line: 9314
+\nExtract surface edges, Line: 9319
+\nJoin Curves, Line: 9320
+\nStandard color mode, Line: 9325
+\nVariable color mode, Line: 9326
+/nPathCalc2D, Line: 9331
+Parametric shapes, Line: 9336
+Make solid2d, Line: 9341
+Hatch, Line: 9342
+Boolean unite, Line: 9347
+Boolean intersect, Line: 9348
+Boolean subtract, Line: 9349
+Explode, Line: 9354
+Hollow, Line: 9359
